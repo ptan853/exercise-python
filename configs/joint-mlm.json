@@ -1,0 +1,49 @@
+{
+  "data": {
+    "source_path": "reference_nt.fasta",
+    "cache_dir": "prepared",
+    "seed": 42,
+    "val_fraction": 0.1,
+    "test_fraction": 0.1,
+    "min_class_records": 3,
+    "strip_species_suffix": true,
+    "exclude_known_long_record": true
+  },
+  "bpe": {
+    "vocab_size": 128,
+    "min_frequency": 2
+  },
+  "model": {
+    "d_model": 128,
+    "nhead": 4,
+    "num_layers": 2,
+    "dim_feedforward": 512,
+    "dropout": 0.1,
+    "max_length": 512
+  },
+  "training": {
+    "max_epochs": 60,
+    "batch_size": 16,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.01,
+    "mlm_weight": 1.0,
+    "mlm_probability": 0.15,
+    "gradient_clip": 1.0,
+    "seed": 42,
+    "device": "auto",
+    "output_dir": "runs",
+    "experiment_name": "joint-mlm",
+    "patience": 8,
+    "min_delta": 0.001,
+    "scheduler_patience": 3,
+    "scheduler_factor": 0.5,
+    "min_lr": 1e-06,
+    "log_every_steps": 20,
+    "train_clean_eval": true,
+    "class_weighting": "none",
+    "weight_cap": 5.0,
+    "sampling": "shuffle",
+    "sampling_power": 1.0,
+    "epoch_samples": null
+  }
+}
