@@ -1,0 +1,114 @@
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmp95fmjpkf/baseline-20261127-125639-1ff979; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8400 mlm=2.7023
+  val cls=0.8195; acc=50.00%; F1=0.3333; val_cls_loss=0.8195; saved best
+.Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpyher38b_/baseline-20261127-125639-8b7376; epochs: 1..2
+Epoch 1
+  batch 1/2 cls=0.8297 mlm=2.7432
+  val cls=0.8203; acc=50.00%; F1=0.3333; val_cls_loss=0.8203; saved best
+Epoch 2
+  batch 1/2 cls=0.7882 mlm=-0.0000
+  val cls=0.8180; acc=50.00%; F1=0.3333; val_cls_loss=0.8180; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpyher38b_/baseline-20261127-125639-98bb9e; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8297 mlm=2.7432
+  val cls=0.8203; acc=50.00%; F1=0.3333; val_cls_loss=0.8203; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpyher38b_/baseline-20261127-125639-98bb9e; epochs: 2..2
+Epoch 2
+  batch 1/2 cls=0.7882 mlm=-0.0000
+  val cls=0.8180; acc=50.00%; F1=0.3333; val_cls_loss=0.8180; saved best
+...Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmppmv9jjns/baseline-20261127-125639-28875b; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8400 mlm=2.7023
+  val cls=0.8195; acc=50.00%; F1=0.3333; val_cls_loss=0.8195; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmppmv9jjns/baseline-20261127-125639-28875b; epochs: 2..2
+Epoch 2
+  batch 1/2 cls=0.8406 mlm=-0.0000
+  val cls=0.8163; acc=50.00%; F1=0.3333; val_cls_loss=0.8163; saved best
+.Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpov73a5j3/baseline-20261127-125639-fd2820; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8443 mlm=-0.0000
+  val cls=0.8191; acc=50.00%; F1=0.3333; val_cls_loss=0.8191; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpov73a5j3/baseline-20261127-125639-fd2820; epochs: 2..2
+Epoch 2
+  batch 1/2 cls=0.8400 mlm=-0.0000
+  val cls=0.8157; acc=50.00%; F1=0.3333; val_cls_loss=0.8157; saved best
+.Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpfq_j5g53/baseline-20261127-125639-3fd118; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8400 mlm=2.7023
+  val cls=0.8195; acc=50.00%; F1=0.3333; val_cls_loss=0.8195; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpfq_j5g53/baseline-20261127-125639-535dc3; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8363 mlm=2.6978
+  val cls=0.8164; acc=50.00%; F1=0.3333; val_cls_loss=0.8164; saved best
+.....Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmptx5arw0f/runs/baseline-20261127-125639-2c5fea; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=1.0190 mlm=0.0000
+  val cls=0.7922; acc=50.00%; F1=0.3333; val_cls_loss=0.7922; saved best
+..Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpsvkzpwbj/runs/baseline-20261127-125640-1dfadd; epochs: 1..2
+Epoch 1
+  batch 1/3 cls=1.1906 mlm=2.3722
+  val cls=0.7925; acc=50.00%; F1=0.3333; val_cls_loss=0.7925; saved best
+Epoch 2
+  batch 1/3 cls=1.0404 mlm=1.9097
+  val cls=0.7910; acc=50.00%; F1=0.3333; val_cls_loss=0.7910; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpsvkzpwbj/runs/baseline-20261127-125640-cdb09a; epochs: 1..1
+Epoch 1
+  batch 1/3 cls=1.1906 mlm=2.3722
+  val cls=0.7925; acc=50.00%; F1=0.3333; val_cls_loss=0.7925; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpsvkzpwbj/runs/baseline-20261127-125640-cdb09a; epochs: 2..2
+Epoch 2
+  batch 1/3 cls=1.0404 mlm=1.9097
+  val cls=0.7910; acc=50.00%; F1=0.3333; val_cls_loss=0.7910; saved best
+...Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmp_k9qpvat/baseline-20261127-125640-1853a1; epochs: 1..2
+Epoch 1
+  batch 1/2 cls=0.6942 mlm=2.2532
+  val cls=0.8230; acc=50.00%; F1=0.3333; val_mlm_loss=2.3084; saved best
+Epoch 2
+  batch 1/2 cls=0.7783 mlm=2.0571
+  val cls=0.8233; acc=50.00%; F1=0.3333; val_mlm_loss=2.3049; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmp_k9qpvat/baseline-20261127-125640-1853a1; epochs: 3..3
+Epoch 3
+  batch 1/2 cls=0.3904 mlm=2.2962
+  val cls=0.8236; acc=50.00%; F1=0.3333; val_mlm_loss=2.3017; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmp_k9qpvat/baseline-20261127-125640-2d4769; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8452 mlm=-0.0000
+  val cls=0.8219; acc=50.00%; F1=0.3333; val_cls_loss=0.8219; saved best
+...Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpzkyrc_9a/baseline-20261127-125640-0196ad; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.5244 mlm=3.0015
+  val cls=0.8215; acc=50.00%; F1=0.3333; val_cls_loss=0.8215; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpzkyrc_9a/baseline-20261127-125640-4b5d04; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=0.8430 mlm=-0.0000
+  val cls=0.8207; acc=50.00%; F1=0.3333; val_cls_loss=0.8207; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpzkyrc_9a/baseline-20261127-125640-4b5d04; epochs: 2..2
+Epoch 2
+  batch 1/2 cls=0.8422 mlm=-0.0000
+  val cls=0.8200; acc=50.00%; F1=0.3333; val_cls_loss=0.8200; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpzkyrc_9a/baseline-20261127-125640-2103bc; epochs: 1..1
+Epoch 1
+  batch 1/2 cls=1.2742 mlm=-0.0000
+  val cls=1.1753; acc=0.00%; F1=0.0000; val_cls_loss=1.1753; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpzkyrc_9a/baseline-20261127-125640-2103bc; epochs: 2..2
+Epoch 2
+  batch 1/2 cls=1.2728 mlm=-0.0000
+  val cls=1.1743; acc=0.00%; F1=0.0000; val_cls_loss=1.1743; saved best
+...Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpy4lemsxh/baseline-20261127-125640-10a01b; epochs: 1..1
+Epoch 1
+  batch 1/1 cls=0.8443 mlm=-0.0000
+  val cls=0.8209; acc=50.00%; F1=0.3333; val_cls_loss=0.8209; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpy4lemsxh/baseline-20261127-125640-7a9831; epochs: 1..1
+Epoch 1
+  batch 1/1 cls=0.8965 mlm=-0.0000
+  val cls=0.8305; acc=0.00%; F1=0.0000; val_cls_loss=0.8305; saved best
+Device: cpu; run: /private/var/folders/h8/4tqmd6qs19zcccxsg4_xc7c00000gp/T/tmpy4lemsxh/baseline-20261127-125640-7a9831; epochs: 2..2
+Epoch 2
+  batch 1/1 cls=0.8959 mlm=-0.0000
+  val cls=0.8301; acc=0.00%; F1=0.0000; val_cls_loss=0.8301; saved best
+.
+----------------------------------------------------------------------
+Ran 23 tests in 2.173s
+
+OK

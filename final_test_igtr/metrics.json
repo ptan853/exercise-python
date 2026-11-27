@@ -1,0 +1,16 @@
+{
+  "split": "test",
+  "scope": "allele starts IG or TR; subset of unchanged original test split",
+  "samples": 1718,
+  "correct": 991,
+  "accuracy": 0.5768335273573924,
+  "macro_f1": 0.37489122514230405,
+  "weighted_f1": 0.5595042242216667,
+  "labels": 41,
+  "represented_labels": 41,
+  "zero_recall_represented_classes": 13,
+  "checkpoint_epoch": 40,
+  "checkpoint_sha256": "c308dc8109abfe7c20aa8e9e08e370d388acbe3be1a8d05516d4d1ef71a9f802",
+  "note": "No new inference or model selection. Derived from frozen-model predictions. Model training included 469 non-IG/TR records.",
+  "confusion_orientation": "rows=predicted, columns=true"
+}

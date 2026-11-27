@@ -1,0 +1,13 @@
+{
+  "split": "validation",
+  "checkpoint": "/Users/pt623/Desktop/david-shih-python-exercises/runs/joint03-d256-l2-from-mlm260-20261127-035616-f2d390/checkpoints/best.pt",
+  "epoch": 40,
+  "samples": 1780,
+  "cls_loss": 1.4604583263397217,
+  "accuracy": 0.5949438202247191,
+  "macro_f1": 0.37894317870467104,
+  "weighted_f1": 0.5763842606471294,
+  "zero_recall_classes": 10,
+  "confusion_orientation": "rows=predicted, columns=true",
+  "prepared_id": "d3063cc3fdc7a7ad6a1ff16921701375136a0a2c157cc869a1ec5ecaf1c07f34"
+}

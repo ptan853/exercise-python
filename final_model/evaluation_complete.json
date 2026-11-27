@@ -1,0 +1,17 @@
+{
+  "completed_at": "2026-11-27T12:44:58.284809+08:00",
+  "metrics": {
+    "split": "test",
+    "checkpoint": "/Users/pt623/Documents/Codex/2026-11-23/users-pt623-desktop-david-shih-python/outputs/DNA\u8bad\u7ec3\u5b9e\u9a8c\u4ea4\u4ed8/final_model/model.pt",
+    "epoch": 40,
+    "samples": 1780,
+    "cls_loss": 1.454838074189892,
+    "accuracy": 0.5870786516853933,
+    "macro_f1": 0.379632307138569,
+    "weighted_f1": 0.5695808696338537,
+    "zero_recall_classes": 13,
+    "confusion_orientation": "rows=predicted, columns=true",
+    "prepared_id": "d3063cc3fdc7a7ad6a1ff16921701375136a0a2c157cc869a1ec5ecaf1c07f34"
+  },
+  "checkpoint_sha256_after_evaluation": "c308dc8109abfe7c20aa8e9e08e370d388acbe3be1a8d05516d4d1ef71a9f802"
+}

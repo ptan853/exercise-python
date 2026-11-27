@@ -1,0 +1,58 @@
+{
+  "prepared_id": "d3063cc3fdc7a7ad6a1ff16921701375136a0a2c157cc869a1ec5ecaf1c07f34",
+  "split_id": "c7c6eaddb63a4f6fe292a49485907fe793a45a753c3f90fb3bbb105812702eb2",
+  "prepared_path": "/Users/pt623/Desktop/david-shih-python-exercises/prepared/datasets/d3063cc3fdc7a7ad6a1ff16921701375136a0a2c157cc869a1ec5ecaf1c07f34",
+  "source_sha256": "ba35ceba34ddaf7258fd85adbe6db2256f4bd58a9605ad03395c5f1360502e36",
+  "experiment_config": {
+    "data": {
+      "source_path": "reference_nt.fasta",
+      "cache_dir": "prepared",
+      "seed": 42,
+      "val_fraction": 0.1,
+      "test_fraction": 0.1,
+      "min_class_records": 3,
+      "strip_species_suffix": true,
+      "exclude_known_long_record": true
+    },
+    "bpe": {
+      "vocab_size": 128,
+      "min_frequency": 2
+    },
+    "model": {
+      "d_model": 256,
+      "nhead": 8,
+      "num_layers": 2,
+      "dim_feedforward": 1024,
+      "dropout": 0.1,
+      "max_length": 512
+    },
+    "training": {
+      "max_epochs": 260,
+      "batch_size": 16,
+      "learning_rate": 0.0001,
+      "weight_decay": 0.01,
+      "classification_weight": 0.0,
+      "selection_metric": "val_mlm_loss",
+      "mlm_weight": 1.0,
+      "mlm_probability": 0.15,
+      "gradient_clip": 1.0,
+      "seed": 42,
+      "device": "auto",
+      "output_dir": "runs",
+      "experiment_name": "mlm-d256-l2-100ep",
+      "patience": 0,
+      "min_delta": 0.001,
+      "scheduler_patience": 3,
+      "scheduler_factor": 0.5,
+      "min_lr": 1e-06,
+      "log_every_steps": 20,
+      "train_clean_eval": false,
+      "class_weighting": "none",
+      "weight_cap": 5.0,
+      "sampling": "shuffle",
+      "sampling_power": 1.0,
+      "epoch_samples": null
+    }
+  },
+  "tokenizer_digest": "a888c4942d2ec15ddf43726b8392166f137f3cdb158ebb915ad496b212fa346c"
+}

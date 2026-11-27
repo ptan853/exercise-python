@@ -1,0 +1,766 @@
+{
+  "model": {
+    "d_model": 256,
+    "nhead": 8,
+    "num_layers": 2,
+    "dim_feedforward": 1024,
+    "dropout": 0.1,
+    "max_length": 512
+  },
+  "training": {
+    "max_epochs": 100,
+    "batch_size": 16,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.01,
+    "classification_weight": 1.0,
+    "selection_metric": "val_cls_loss",
+    "mlm_weight": 0.3,
+    "mlm_probability": 0.15,
+    "gradient_clip": 1.0,
+    "seed": 42,
+    "device": "auto",
+    "output_dir": "runs",
+    "experiment_name": "joint03-d256-l2-from-mlm260",
+    "patience": 0,
+    "min_delta": 0.001,
+    "scheduler_patience": 3,
+    "scheduler_factor": 0.5,
+    "min_lr": 1e-06,
+    "log_every_steps": 20,
+    "train_clean_eval": true,
+    "class_weighting": "none",
+    "weight_cap": 5.0,
+    "sampling": "shuffle",
+    "sampling_power": 1.0,
+    "epoch_samples": null
+  },
+  "data_fingerprint": "2c434583a5d5e959516cb1038e4f8e49e265d7e7749aac4d61a06422f9f87428",
+  "label_to_id": {
+    "Bos taurus": 0,
+    "Camelus dromedarius": 1,
+    "Canis lupus familiaris": 2,
+    "Capra hircus": 3,
+    "Cercocebus atys": 4,
+    "Ctenopharyngodon idella": 5,
+    "Danio rerio": 6,
+    "Equus caballus": 7,
+    "Felis catus": 8,
+    "Gallus gallus": 9,
+    "Gorilla gorilla gorilla": 10,
+    "Heterocephalus glaber": 11,
+    "Homo sapiens": 12,
+    "Lemur catta": 13,
+    "Macaca fascicularis": 14,
+    "Macaca mulatta": 15,
+    "Macaca nemestrina": 16,
+    "Mesocricetus auratus": 17,
+    "Mus minutoides": 18,
+    "Mus musculus": 19,
+    "Mus musculus castaneus": 20,
+    "Mus musculus domesticus": 21,
+    "Mus pahari": 22,
+    "Mus spretus": 23,
+    "Mustela putorius furo": 24,
+    "Neogale vison": 25,
+    "Oncorhynchus mykiss": 26,
+    "Ornithorhynchus anatinus": 27,
+    "Oryctolagus cuniculus": 28,
+    "Oryctolagus cuniculus algirus": 29,
+    "Oryctolagus cuniculus cuniculus": 30,
+    "Ovis aries": 31,
+    "Pan troglodytes": 32,
+    "Papio anubis anubis": 33,
+    "Pongo abelii": 34,
+    "Pongo pygmaeus": 35,
+    "Rattus norvegicus": 36,
+    "Salmo salar": 37,
+    "Sus scrofa": 38,
+    "Tursiops truncatus": 39,
+    "Vicugna pacos": 40
+  },
+  "tokenizer": {
+    "token_to_id": {
+      "[PAD]": 0,
+      "[UNK]": 1,
+      "[CLS]": 2,
+      "[MASK]": 3,
+      "A": 4,
+      "C": 5,
+      "G": 6,
+      "T": 7,
+      "N": 8,
+      "CA": 9,
+      "CT": 10,
+      "GA": 11,
+      "GT": 12,
+      "GG": 13,
+      "CCA": 14,
+      "AA": 15,
+      "TT": 16,
+      "CCT": 17,
+      "GGA": 18,
+      "GCA": 19,
+      "GCT": 20,
+      "AT": 21,
+      "CC": 22,
+      "GGT": 23,
+      "GAA": 24,
+      "ACT": 25,
+      "ACA": 26,
+      "GAT": 27,
+      "TCT": 28,
+      "TCA": 29,
+      "GC": 30,
+      "ATT": 31,
+      "GACA": 32,
+      "GCCT": 33,
+      "GGCT": 34,
+      "GCCA": 35,
+      "GTCT": 36,
+      "CCCT": 37,
+      "GACT": 38,
+      "GTCA": 39,
+      "GAAA": 40,
+      "GTT": 41,
+      "CCCA": 42,
+      "GGCA": 43,
+      "GCC": 44,
+      "GATT": 45,
+      "AGT": 46,
+      "GTGT": 47,
+      "GGAT": 48,
+      "AAT": 49,
+      "CTCT": 50,
+      "CAT": 51,
+      "GAGA": 52,
+      "GGGT": 53,
+      "GGACA": 54,
+      "CGG": 55,
+      "GAGT": 56,
+      "ACCA": 57,
+      "CGT": 58,
+      "CTT": 59,
+      "TTT": 60,
+      "AGCA": 61,
+      "AGA": 62,
+      "GGGA": 63,
+      "ACCT": 64,
+      "ATCA": 65,
+      "ATTACT": 66,
+      "ATCT": 67,
+      "GAACA": 68,
+      "TTCA": 69,
+      "AC": 70,
+      "CCAT": 71,
+      "AACA": 72,
+      "AGCT": 73,
+      "GCAT": 74,
+      "CTCA": 75,
+      "AGG": 76,
+      "GTGCA": 77,
+      "CCTT": 78,
+      "GGAGT": 79,
+      "CCTCA": 80,
+      "GCAGCT": 81,
+      "CGA": 82,
+      "GTGCT": 83,
+      "GCACA": 84,
+      "GGTCA": 85,
+      "ACAT": 86,
+      "GCCCA": 87,
+      "GGTT": 88,
+      "AAA": 89,
+      "CCATCT": 90,
+      "GTTT": 91,
+      "GAAT": 92,
+      "GAGCT": 93,
+      "GGGG": 94,
+      "CCATCA": 95,
+      "CCAA": 96,
+      "GAGGA": 97,
+      "CTGT": 98,
+      "CTGGA": 99,
+      "AAAA": 100,
+      "CGCT": 101,
+      "CCAGG": 102,
+      "CCTGCA": 103,
+      "GAAGG": 104,
+      "ACC": 105,
+      "GACTCA": 106,
+      "GCAGT": 107,
+      "ACTT": 108,
+      "GGAAA": 109,
+      "GGGCT": 110,
+      "GCCCT": 111,
+      "GGAA": 112,
+      "GAGGT": 113,
+      "CCACA": 114,
+      "CCCTCA": 115,
+      "AACT": 116,
+      "GAGG": 117,
+      "GATTCA": 118,
+      "GCTT": 119,
+      "TCAGT": 120,
+      "CGGT": 121,
+      "GAGCA": 122,
+      "GGGACA": 123,
+      "CCGT": 124,
+      "CCAGT": 125,
+      "GATCA": 126,
+      "ATTT": 127
+    },
+    "merges": [
+      [
+        "C",
+        "A"
+      ],
+      [
+        "C",
+        "T"
+      ],
+      [
+        "G",
+        "A"
+      ],
+      [
+        "G",
+        "T"
+      ],
+      [
+        "G",
+        "G"
+      ],
+      [
+        "C",
+        "CA"
+      ],
+      [
+        "A",
+        "A"
+      ],
+      [
+        "T",
+        "T"
+      ],
+      [
+        "C",
+        "CT"
+      ],
+      [
+        "G",
+        "GA"
+      ],
+      [
+        "G",
+        "CA"
+      ],
+      [
+        "G",
+        "CT"
+      ],
+      [
+        "A",
+        "T"
+      ],
+      [
+        "C",
+        "C"
+      ],
+      [
+        "G",
+        "GT"
+      ],
+      [
+        "GA",
+        "A"
+      ],
+      [
+        "A",
+        "CT"
+      ],
+      [
+        "A",
+        "CA"
+      ],
+      [
+        "GA",
+        "T"
+      ],
+      [
+        "T",
+        "CT"
+      ],
+      [
+        "T",
+        "CA"
+      ],
+      [
+        "G",
+        "C"
+      ],
+      [
+        "A",
+        "TT"
+      ],
+      [
+        "GA",
+        "CA"
+      ],
+      [
+        "G",
+        "CCT"
+      ],
+      [
+        "GG",
+        "CT"
+      ],
+      [
+        "G",
+        "CCA"
+      ],
+      [
+        "GT",
+        "CT"
+      ],
+      [
+        "C",
+        "CCT"
+      ],
+      [
+        "GA",
+        "CT"
+      ],
+      [
+        "GT",
+        "CA"
+      ],
+      [
+        "GA",
+        "AA"
+      ],
+      [
+        "GT",
+        "T"
+      ],
+      [
+        "C",
+        "CCA"
+      ],
+      [
+        "GG",
+        "CA"
+      ],
+      [
+        "G",
+        "CC"
+      ],
+      [
+        "GA",
+        "TT"
+      ],
+      [
+        "A",
+        "GT"
+      ],
+      [
+        "GT",
+        "GT"
+      ],
+      [
+        "GGA",
+        "T"
+      ],
+      [
+        "AA",
+        "T"
+      ],
+      [
+        "CT",
+        "CT"
+      ],
+      [
+        "CA",
+        "T"
+      ],
+      [
+        "GA",
+        "GA"
+      ],
+      [
+        "GG",
+        "GT"
+      ],
+      [
+        "GGA",
+        "CA"
+      ],
+      [
+        "C",
+        "GG"
+      ],
+      [
+        "GA",
+        "GT"
+      ],
+      [
+        "A",
+        "CCA"
+      ],
+      [
+        "C",
+        "GT"
+      ],
+      [
+        "CT",
+        "T"
+      ],
+      [
+        "TT",
+        "T"
+      ],
+      [
+        "A",
+        "GCA"
+      ],
+      [
+        "A",
+        "GA"
+      ],
+      [
+        "GG",
+        "GA"
+      ],
+      [
+        "A",
+        "CCT"
+      ],
+      [
+        "AT",
+        "CA"
+      ],
+      [
+        "ATT",
+        "ACT"
+      ],
+      [
+        "AT",
+        "CT"
+      ],
+      [
+        "GAA",
+        "CA"
+      ],
+      [
+        "TT",
+        "CA"
+      ],
+      [
+        "A",
+        "C"
+      ],
+      [
+        "CCA",
+        "T"
+      ],
+      [
+        "AA",
+        "CA"
+      ],
+      [
+        "A",
+        "GCT"
+      ],
+      [
+        "GCA",
+        "T"
+      ],
+      [
+        "CT",
+        "CA"
+      ],
+      [
+        "A",
+        "GG"
+      ],
+      [
+        "GT",
+        "GCA"
+      ],
+      [
+        "CCT",
+        "T"
+      ],
+      [
+        "GGA",
+        "GT"
+      ],
+      [
+        "CCT",
+        "CA"
+      ],
+      [
+        "GCA",
+        "GCT"
+      ],
+      [
+        "C",
+        "GA"
+      ],
+      [
+        "GT",
+        "GCT"
+      ],
+      [
+        "GCA",
+        "CA"
+      ],
+      [
+        "GGT",
+        "CA"
+      ],
+      [
+        "ACA",
+        "T"
+      ],
+      [
+        "GC",
+        "CCA"
+      ],
+      [
+        "GGT",
+        "T"
+      ],
+      [
+        "AA",
+        "A"
+      ],
+      [
+        "CCA",
+        "TCT"
+      ],
+      [
+        "GT",
+        "TT"
+      ],
+      [
+        "GA",
+        "AT"
+      ],
+      [
+        "GA",
+        "GCT"
+      ],
+      [
+        "GG",
+        "GG"
+      ],
+      [
+        "CCA",
+        "TCA"
+      ],
+      [
+        "CCA",
+        "A"
+      ],
+      [
+        "GA",
+        "GGA"
+      ],
+      [
+        "CT",
+        "GT"
+      ],
+      [
+        "CT",
+        "GGA"
+      ],
+      [
+        "AA",
+        "AA"
+      ],
+      [
+        "C",
+        "GCT"
+      ],
+      [
+        "CCA",
+        "GG"
+      ],
+      [
+        "CCT",
+        "GCA"
+      ],
+      [
+        "GAA",
+        "GG"
+      ],
+      [
+        "A",
+        "CC"
+      ],
+      [
+        "GACT",
+        "CA"
+      ],
+      [
+        "GCA",
+        "GT"
+      ],
+      [
+        "ACT",
+        "T"
+      ],
+      [
+        "GGA",
+        "AA"
+      ],
+      [
+        "GG",
+        "GCT"
+      ],
+      [
+        "GC",
+        "CCT"
+      ],
+      [
+        "GGA",
+        "A"
+      ],
+      [
+        "GA",
+        "GGT"
+      ],
+      [
+        "CCA",
+        "CA"
+      ],
+      [
+        "CCCT",
+        "CA"
+      ],
+      [
+        "AA",
+        "CT"
+      ],
+      [
+        "GA",
+        "GG"
+      ],
+      [
+        "GATT",
+        "CA"
+      ],
+      [
+        "GCT",
+        "T"
+      ],
+      [
+        "TCA",
+        "GT"
+      ],
+      [
+        "C",
+        "GGT"
+      ],
+      [
+        "GA",
+        "GCA"
+      ],
+      [
+        "GG",
+        "GACA"
+      ],
+      [
+        "CC",
+        "GT"
+      ],
+      [
+        "CCA",
+        "GT"
+      ],
+      [
+        "GAT",
+        "CA"
+      ],
+      [
+        "ATT",
+        "T"
+      ]
+    ],
+    "base_tokens": [
+      "A",
+      "C",
+      "G",
+      "T",
+      "N"
+    ],
+    "special_tokens": [
+      "[PAD]",
+      "[UNK]",
+      "[CLS]",
+      "[MASK]"
+    ]
+  },
+  "torch_version": "2.11.0",
+  "device": "mps",
+  "resume_from": null,
+  "init_from": "/Users/pt623/Desktop/david-shih-python-exercises/runs/mlm260-comparison-suite/mlm-best-through-260.pt",
+  "experiment_context": {
+    "prepared_id": "d3063cc3fdc7a7ad6a1ff16921701375136a0a2c157cc869a1ec5ecaf1c07f34",
+    "split_id": "c7c6eaddb63a4f6fe292a49485907fe793a45a753c3f90fb3bbb105812702eb2",
+    "prepared_path": "/Users/pt623/Desktop/david-shih-python-exercises/prepared/datasets/d3063cc3fdc7a7ad6a1ff16921701375136a0a2c157cc869a1ec5ecaf1c07f34",
+    "source_sha256": "ba35ceba34ddaf7258fd85adbe6db2256f4bd58a9605ad03395c5f1360502e36",
+    "experiment_config": {
+      "data": {
+        "source_path": "reference_nt.fasta",
+        "cache_dir": "prepared",
+        "seed": 42,
+        "val_fraction": 0.1,
+        "test_fraction": 0.1,
+        "min_class_records": 3,
+        "strip_species_suffix": true,
+        "exclude_known_long_record": true
+      },
+      "bpe": {
+        "vocab_size": 128,
+        "min_frequency": 2
+      },
+      "model": {
+        "d_model": 256,
+        "nhead": 8,
+        "num_layers": 2,
+        "dim_feedforward": 1024,
+        "dropout": 0.1,
+        "max_length": 512
+      },
+      "training": {
+        "max_epochs": 100,
+        "batch_size": 16,
+        "learning_rate": 0.0001,
+        "weight_decay": 0.01,
+        "classification_weight": 1.0,
+        "selection_metric": "val_cls_loss",
+        "mlm_weight": 0.3,
+        "mlm_probability": 0.15,
+        "gradient_clip": 1.0,
+        "seed": 42,
+        "device": "auto",
+        "output_dir": "runs",
+        "experiment_name": "joint03-d256-l2-from-mlm260",
+        "patience": 0,
+        "min_delta": 0.001,
+        "scheduler_patience": 3,
+        "scheduler_factor": 0.5,
+        "min_lr": 1e-06,
+        "log_every_steps": 20,
+        "train_clean_eval": true,
+        "class_weighting": "none",
+        "weight_cap": 5.0,
+        "sampling": "shuffle",
+        "sampling_power": 1.0,
+        "epoch_samples": null
+      }
+    },
+    "tokenizer_digest": "a888c4942d2ec15ddf43726b8392166f137f3cdb158ebb915ad496b212fa346c"
+  }
+}

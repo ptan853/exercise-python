@@ -1,0 +1,13 @@
+{
+  "split": "validation",
+  "checkpoint": "/Users/pt623/Desktop/david-shih-python-exercises/runs/classification-only-20261125-231801-e52277/checkpoints/best.pt",
+  "epoch": 57,
+  "samples": 1780,
+  "cls_loss": 1.757363156522258,
+  "accuracy": 0.47808988764044946,
+  "macro_f1": 0.28553264808630496,
+  "weighted_f1": 0.4476962823696122,
+  "zero_recall_classes": 17,
+  "confusion_orientation": "rows=predicted, columns=true",
+  "prepared_id": "d3063cc3fdc7a7ad6a1ff16921701375136a0a2c157cc869a1ec5ecaf1c07f34"
+}

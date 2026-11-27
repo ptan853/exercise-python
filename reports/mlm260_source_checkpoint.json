@@ -1,0 +1,16 @@
+{
+  "source_run": "/Users/pt623/Desktop/david-shih-python-exercises/runs/mlm-d256-l2-100ep-20261126-164927-8b32a9",
+  "completed_epoch": 260,
+  "selected_epoch": 260,
+  "val_mlm_loss": 3.12749677579471,
+  "checkpoint_sha256": "87972582d473fcaf071cbd6458b787bfb227e3551c20568151560f045974216f",
+  "data_fingerprint": "2c434583a5d5e959516cb1038e4f8e49e265d7e7749aac4d61a06422f9f87428",
+  "model_config": {
+    "d_model": 256,
+    "nhead": 8,
+    "num_layers": 2,
+    "dim_feedforward": 1024,
+    "dropout": 0.1,
+    "max_length": 512
+  }
+}

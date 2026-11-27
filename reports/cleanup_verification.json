@@ -1,0 +1,12 @@
+{
+  "notebook_third_section": "executed successfully",
+  "first_two_sections": "source preserved; not re-executed to avoid network refresh",
+  "model_sha256_verified": true,
+  "mlm_source_sha256_verified": true,
+  "archive": "/Users/pt623/Documents/Codex/2026-11-23/users-pt623-desktop-david-shih-python/work/project_archive_20261127_125441",
+  "runtime_tests": {
+    "passed": 23,
+    "log": "cleanup_runtime_tests.log"
+  },
+  "historical_suite_note": "Archived queue config-count check assumes exactly three old configs; it is not a retained runtime dependency. Original archive left unchanged."
+}

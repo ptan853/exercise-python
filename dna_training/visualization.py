@@ -49,7 +49,8 @@ def plot_training_curves(run_dir,output_path=None):
     for ax in axes.flat:
         ax.set_xlabel('Epoch');ax.grid(alpha=.2)
         if ax.lines: ax.legend(fontsize=8)
-    fig.suptitle(run_dir.name);fig.savefig(output,dpi=160);plt.close(fig)
+    pure_mlm=cfg.get('training',{}).get('classification_weight',1)==0
+    fig.suptitle(run_dir.name+(' | MLM only: classification metrics are untrained diagnostics' if pure_mlm else ''));fig.savefig(output,dpi=160);plt.close(fig)
     return output
 
 def plot_confusion(matrix,class_names,output_path):
@@ -82,13 +83,14 @@ def compare_experiments(run_dirs,output_path='comparison.png',require_same_data=
         raise ValueError('Runs use different tokenizers; set require_same_data=False to compare explicitly')
     output=Path(output_path);output.parent.mkdir(parents=True,exist_ok=True)
     fig,axes=plt.subplots(1,3,figsize=(14,4),layout='constrained');summary=[]
-    for d in dirs:
+    for d,cfg in zip(dirs,configs):
         rows=_read_history(d);x=[int(r['epoch']) for r in rows]
         for ax,key in zip(axes,['val_cls_loss','val_accuracy','val_macro_f1']):
             ax.plot(x,_values(rows,key),label=d.name)
             ax.set_title(key);ax.set_xlabel('Epoch');ax.grid(alpha=.2)
-        best=min(rows,key=lambda r:float(r['val_cls_loss']))
-        summary.append({'run':str(d),'selection':'minimum val_cls_loss','epoch':best['epoch'],
+        selection=cfg.get('training',{}).get('selection_metric','val_cls_loss')
+        best=min(rows,key=lambda r:float(r[selection]))
+        summary.append({'run':str(d),'selection':'minimum '+selection,'selection_value':best[selection],'epoch':best['epoch'],
             **{k:best[k] for k in ['val_cls_loss','val_accuracy','val_macro_f1']}})
     axes[-1].legend(fontsize=6);fig.savefig(output,dpi=160);plt.close(fig)
     with output.with_suffix('.csv').open('w',newline='') as f:

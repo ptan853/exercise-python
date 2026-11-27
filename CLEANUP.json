@@ -1,0 +1,49 @@
+{
+  "project": "/Users/pt623/Desktop/david-shih-python-exercises",
+  "archive": "/Users/pt623/Documents/Codex/2026-11-23/users-pt623-desktop-david-shih-python/work/project_archive_20261127_125441",
+  "method": "move to external archive; no permanent removal",
+  "archived": [
+    "comparisons",
+    "configs",
+    "docs",
+    "runs",
+    "scripts",
+    "tests",
+    "EXPERIMENTS.md",
+    "FROZEN_POOLING.md",
+    "MLM260_COMPARISON.md",
+    "TRAINING.md",
+    "TWO_STAGE.md",
+    "test1.ipynb",
+    "README.md"
+  ],
+  "installed": [
+    "final_test",
+    "scope_audit.json",
+    "ASSIGNMENT.md",
+    "test1.ipynb",
+    "final_test_igtr",
+    "README.md",
+    "configs",
+    "runs",
+    "final_model",
+    "reports"
+  ],
+  "preserved": [
+    ".git",
+    ".gitignore",
+    "dna_training",
+    "prepared",
+    "reference.fasta",
+    "reference_nt.fasta",
+    "environment.yml",
+    "ENVIRONMENT.md",
+    "requirements-torch-cpu.txt",
+    "requirements-torch-cuda126.txt",
+    "requirements-torch-macos.txt",
+    "cdr_sequences.tsv",
+    "papers.csv",
+    "pubmed_shih_2010_2020.db",
+    "myc_papers.tsv"
+  ]
+}

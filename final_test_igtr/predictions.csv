@@ -1,0 +1,1719 @@
+accession,allele,region,true_species,predicted_species,correct,base_length
+IMGT000084,TRBV14*01,V-REGION,Bos taurus,Heterocephalus glaber,False,290
+IMGT000084,TRBV11*01,V-REGION,Bos taurus,Homo sapiens,False,289
+IMGT000084,TRBV3*01,V-REGION,Bos taurus,Felis catus,False,287
+Btau3.1_ChrUn.129,TRAV22-1*03,V-REGION,Bos taurus,Ovis aries,False,270
+IMGT000084,TRBJ3-5*01,J-REGION,Bos taurus,Ovis aries,False,47
+NW_001494075,IGHM1*03,CH3,Bos taurus,Bos taurus,True,315
+KT723008,IGHV3-15*01,V-REGION,Bos taurus,Bos taurus,True,291
+IMGT000084,TRBV5-12*01,V-REGION,Bos taurus,Bos taurus,True,287
+IMGT000046,IGLV5-45*01,V-REGION,Bos taurus,Ovis aries,False,285
+BK064707,TRAV43-3*01,V-REGION,Bos taurus,Bos taurus,True,271
+AY227782,TRAJ25*02,J-REGION,Bos taurus,Felis catus,False,60
+KT723008,IGHJ1-3*01,J-REGION,Bos taurus,Bos taurus,True,50
+AY644517,TRGC7*01,EX2A,Bos taurus,Bos taurus,True,64
+Btau3.1_ChrUn.158,TRDV1-17*02,V-REGION,Bos taurus,Bos taurus,True,260
+KT723008,IGHV2-31*01,V-REGION,Bos taurus,Bos taurus,True,292
+BK064707,TRAV18-5*01,V-REGION,Bos taurus,Ovis aries,False,281
+AY644517,TRGV8-3*01,V-REGION,Bos taurus,Bos taurus,True,291
+Btau3.1_ChrUn.129,TRAV14-3*02,V-REGION,Bos taurus,Bos taurus,True,289
+BosTau_2_chr7,IGHV2-23*02,V-REGION,Bos taurus,Bos taurus,True,291
+KT723008,IGHDD1P*01,CH2,Bos taurus,Bos taurus,True,325
+Btau3.1_ChrUn.221,TRAV45-6*02,V-REGION,Bos taurus,Bos taurus,True,284
+BK064707,TRAV14-3*01,V-REGION,Bos taurus,Bos taurus,True,290
+BK064707,TRDV1-17*01,V-REGION,Bos taurus,Bos taurus,True,293
+IMGT000047,IGKV2-9*01,V-REGION,Bos taurus,Bos taurus,True,302
+BosTau_2_chr7,IGHV1-46*02,V-REGION,Bos taurus,Bos taurus,True,287
+IMGT000084,TRBC3*01,EX1,Bos taurus,Bos taurus,True,390
+BK064707,TRAV8-2*01,V-REGION,Bos taurus,Bos taurus,True,280
+BK064707,TRAV9-1*01,V-REGION,Bos taurus,Bos taurus,True,281
+Btau3.1_ChrUn.41,TRAV14-4*02,V-REGION,Bos taurus,Bos taurus,True,290
+IMGT000084,TRBV29-1*01,V-REGION,Bos taurus,Bos taurus,True,292
+BK064707,TRAV25-8*01,V-REGION,Bos taurus,Bos taurus,True,274
+BK064707,TRAV35-2*01,V-REGION,Bos taurus,Bos taurus,True,275
+D90412,TRGC2*02,EX1,Bos taurus,Bos taurus,True,329
+U63640,IGHE*01,CH4-CHS,Bos taurus,Equus caballus,False,339
+BK064707,TRAJ3*01,J-REGION,Bos taurus,Ovis aries,False,59
+AY227782,TRAJ41*02,J-REGION,Bos taurus,Homo sapiens,False,61
+AF411244,IGHD*01,CH1,Bos taurus,Bos taurus,True,324
+IMGT000046,IGLV(IV)-15*01,V-REGION,Bos taurus,Bos taurus,True,245
+IMGT000084,TRBJ2-2*01,J-REGION,Bos taurus,Ovis aries,False,51
+BK064707,TRAV45-14*01,V-REGION,Bos taurus,Ovis aries,False,285
+BK064707,TRAC*01,EX3,Bos taurus,Ovis aries,False,108
+U55170,IGHV1-10*02,V-REGION,Bos taurus,Bos taurus,True,285
+KT723008,IGHV2-38*01,V-REGION,Bos taurus,Equus caballus,False,171
+D16127,TRGJ1-2*02,J-REGION,Bos taurus,Canis lupus familiaris,False,48
+BK064707,TRAV44-8*01,V-REGION,Bos taurus,Ovis aries,False,277
+IMGT000084,TRBV21-21*01,V-REGION,Bos taurus,Bos taurus,True,290
+Btau3.1_ChrUn.1227,TRDV1-15*02,V-REGION,Bos taurus,Bos taurus,True,293
+AY644518,TRGC6*01,EX3,Bos taurus,Oryctolagus cuniculus,False,141
+BK064707,TRDJ2*01,J-REGION,Bos taurus,Danio rerio,False,52
+Btau3.1_ChrUn.158,TRAV34-1*02,V-REGION,Bos taurus,Bos taurus,True,272
+IMGT000046,IGLV3-5*01,V-REGION,Bos taurus,Ovis aries,False,288
+IMGT000084,TRBV27*01,V-REGION,Bos taurus,Ovis aries,False,287
+BosTau_1_chr21,IGHV2-5*02,V-REGION,Bos taurus,Bos taurus,True,287
+X16701,IGHG1*01,CH3-CHS,Bos taurus,Bos taurus,True,327
+BK064707,TRAV23-10*01,V-REGION,Bos taurus,Bos taurus,True,279
+IMGT000084,TRBV6-14*01,V-REGION,Bos taurus,Bos taurus,True,287
+BK064707,TRAJ30*01,J-REGION,Bos taurus,Heterocephalus glaber,False,59
+D90414,TRGC3*01,EX2C,Bos taurus,Bos taurus,True,54
+X63680,TRGC4*01,EX3,Bos taurus,Bos taurus,True,141
+BK064707,TRAJ10*01,J-REGION,Bos taurus,Macaca mulatta,False,63
+IMGT000084,TRBV21-16*01,V-REGION,Bos taurus,Bos taurus,True,290
+BK064707,TRAJ7*01,J-REGION,Bos taurus,Ovis aries,False,56
+IMGT000084,TRBV5-1*01,V-REGION,Bos taurus,Heterocephalus glaber,False,292
+IMGT000084,TRBV6-16*01,V-REGION,Bos taurus,Bos taurus,True,293
+IMGT000084,TRBV10*01,V-REGION,Bos taurus,Macaca fascicularis,False,286
+IMGT000046,IGLV3-3*01,V-REGION,Bos taurus,Mustela putorius furo,False,291
+IMGT000046,IGLC6*01,C-REGION,Bos taurus,Oryctolagus cuniculus,False,314
+Btau3.1_Chr10.30,TRAJ45*02,J-REGION,Bos taurus,Bos taurus,True,63
+Btau3.1_ChrUn.41,TRAV23-4*02,V-REGION,Bos taurus,Ovis aries,False,177
+IMGT000084,TRBV18-3*01,V-REGION,Bos taurus,Bos taurus,True,288
+IMGT000084,TRBV29-3*01,V-REGION,Bos taurus,Bos taurus,True,293
+IMGT000084,TRBV21-13*01,V-REGION,Bos taurus,Bos taurus,True,290
+AJ245969,TRAJ15*02,J-REGION,Bos taurus,Canis lupus familiaris,False,61
+BK064707,TRAV12-3*01,V-REGION,Bos taurus,Bos taurus,True,278
+KT723008,IGHV2-23*01,V-REGION,Bos taurus,Bos taurus,True,291
+IMGT000084,TRBV5-20*01,V-REGION,Bos taurus,Ovis aries,False,287
+IMGT000084,TRBV21-5*01,V-REGION,Bos taurus,Bos taurus,True,290
+Btau3.1_ChrUn.41,TRAV45-13*02,V-REGION,Bos taurus,Bos taurus,True,284
+KT723008,IGHV1-21*01,V-REGION,Bos taurus,Bos taurus,True,293
+U31892,IGLV1-21*02,V-REGION,Bos taurus,Bos taurus,True,248
+BK064707,TRAV25-2*01,V-REGION,Bos taurus,Ovis aries,False,273
+BK064707,TRAV36-1*01,V-REGION,Bos taurus,Heterocephalus glaber,False,268
+BK064707,TRAV33-1*01,V-REGION,Bos taurus,Bos taurus,True,277
+AF453325,TRBJ2-6*02,J-REGION,Bos taurus,Ovis aries,False,52
+IMGT000084,TRBV6-28*01,V-REGION,Bos taurus,Ovis aries,False,286
+BK064707,TRAV45-1*01,V-REGION,Bos taurus,Bos taurus,True,284
+BK064707,TRDC*01,EX3,Bos taurus,Ovis aries,False,114
+BK064707,TRAV24-1*01,V-REGION,Bos taurus,Bos taurus,True,277
+U63638,IGHG3*01,H1,Bos taurus,Bos taurus,True,66
+BK064707,TRAV24-6*01,V-REGION,Bos taurus,Bos taurus,True,277
+IMGT000047,IGKV2-12*01,V-REGION,Bos taurus,Bos taurus,True,302
+BK064707,TRAJ41*01,J-REGION,Bos taurus,Ovis aries,False,61
+BK064707,TRDD2*01,D-REGION,Bos taurus,Mus musculus,False,13
+IMGT000046,IGLV1-60*01,V-REGION,Bos taurus,Bos taurus,True,298
+IMGT000084,TRBV5-18*01,V-REGION,Bos taurus,Ovis aries,False,287
+Btau3.1_Chr10.28,TRAV3-3*02,V-REGION,Bos taurus,Bos taurus,True,286
+BK064707,TRAV8-4*01,V-REGION,Bos taurus,Ovis aries,False,280
+AF411240,IGHD*03,CH1,Bos taurus,Bos taurus,True,324
+BK064707,TRAV45-10*01,V-REGION,Bos taurus,Bos taurus,True,281
+BK064707,TRAV44-5*01,V-REGION,Bos taurus,Bos taurus,True,277
+IMGT000046,IGLV2-9*01,V-REGION,Bos taurus,Felis catus,False,297
+IMGT000061,IGKV8-18*01,V-REGION,Camelus dromedarius,Vicugna pacos,False,293
+NW_011616084,TRBJ2-2*01,J-REGION,Camelus dromedarius,Heterocephalus glaber,False,51
+JN172913,TRGC1*01,EX2A,Camelus dromedarius,Danio rerio,False,60
+IMGT000061,IGKV4-8*01,V-REGION,Camelus dromedarius,Camelus dromedarius,True,292
+NW_011593440,TRBC2*01,EX3,Camelus dromedarius,Sus scrofa,False,107
+NW_011591622,TRBV1*01,V-REGION,Camelus dromedarius,Bos taurus,False,287
+JN172913,TRGC2*01,EX2C,Camelus dromedarius,Sus scrofa,False,48
+IMGT000061,IGKJ4*01,J-REGION,Camelus dromedarius,Mustela putorius furo,False,38
+IMGT000061,IGKV2-21*01,V-REGION,Camelus dromedarius,Mustela putorius furo,False,328
+IMGT000061,IGKV(II)-24*01,V-REGION,Camelus dromedarius,Camelus dromedarius,True,145
+IMGT000067,IGKV2-19*01,V-REGION,Canis lupus familiaris,Mustela putorius furo,False,298
+IMGT000002,IGKV2-20*02,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+IMGT000003,IGLV5-145*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,305
+HE653929,TRBJ2-4*01,J-REGION,Canis lupus familiaris,Canis lupus familiaris,True,49
+BK065026,TRAV13-4*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,277
+BK065026,TRAV14-3*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,289
+IMGT000003,IGLV1-135*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,296
+IMGT000067,IGKV(II)-17*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,194
+IMGT000001,IGHV3-33*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,294
+BK065025,TRBV26*01,V-REGION,Canis lupus familiaris,Bos taurus,False,286
+IMGT000003,IGLV1-132*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,312
+BK065026,TRAV18*01,V-REGION,Canis lupus familiaris,Tursiops truncatus,False,245
+IMGT000180,IGKV2-6-1*04,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+BK065027,TRGV2-2*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,300
+IMGT000001,IGHD2*01,D-REGION,Canis lupus familiaris,Lemur catta,False,19
+IMGT000003,IGLV8-117*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,306
+BK065027,TRGJ5-2*01,J-REGION,Canis lupus familiaris,Mustela putorius furo,False,59
+AF354267,IGHG4*01,CH2,Canis lupus familiaris,Canis lupus familiaris,True,330
+IMGT000003,IGLV1-136*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,296
+BK065026,TRAJ25*01,J-REGION,Canis lupus familiaris,Felis catus,False,60
+IMGT000001,IGHD*01,H1,Canis lupus familiaris,Bos taurus,False,90
+IMGT000374,TRGC1*02,EX1,Canis lupus familiaris,Canis lupus familiaris,True,319
+BK066061,IGKV2-6-1*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,282
+IMGT000003,IGLV8-99*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,296
+BK065026,TRAJ39*01,J-REGION,Canis lupus familiaris,Homo sapiens,False,63
+IMGT000001,IGHM*01,CH3,Canis lupus familiaris,Canis lupus familiaris,True,318
+IMGT000181,IGKV2-4*06,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+IMGT000374,TRGC4*02,EX3,Canis lupus familiaris,Canis lupus familiaris,True,141
+IMGT000003,IGLV5-106-1*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,309
+IMGT000003,IGLV3-11*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,288
+IMGT000067,IGKV2-7*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+IMGT000003,IGLV3-26*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,288
+IMGT000003,IGLV3-14*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,288
+IMGT000003,IGLV7-120-1*01,V-REGION,Canis lupus familiaris,Pongo pygmaeus,False,275
+BK065026,TRAJ59*01,J-REGION,Canis lupus familiaris,Macaca mulatta,False,60
+IMGT000180,IGKV2-6*03,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+BK065025,TRBV25*01,V-REGION,Canis lupus familiaris,Felis catus,False,287
+BK065027,TRGC6*01,EX2B,Canis lupus familiaris,Mustela putorius furo,False,48
+BK065026,TRAV9-10*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,281
+BK066062,IGKV2-8*03,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+IMGT000001,IGHV3-74*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,295
+BK065026,TRAV9-11*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,281
+IMGT000003,IGLV1-115*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,296
+IMGT000001,IGHV3-4*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,297
+BK065026,TRAJ15*01,J-REGION,Canis lupus familiaris,Bos taurus,False,60
+IMGT000001,IGHV3-52*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,296
+IMGT000001,IGHV3-76*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,293
+IMGT000003,IGLV3-30*01,V-REGION,Canis lupus familiaris,Felis catus,False,288
+IMGT000003,IGLV1-69-1*01,V-REGION,Canis lupus familiaris,Mustela putorius furo,False,285
+BK065025,TRBV3-1*01,V-REGION,Canis lupus familiaris,Heterocephalus glaber,False,287
+IMGT000003,IGLV5-89-1*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,298
+IMGT000003,IGLV3-24*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,288
+BK065027,TRGC7*01,EX3,Canis lupus familiaris,Canis lupus familiaris,True,141
+BK065027,TRGV5-1*01,V-REGION,Canis lupus familiaris,Mus musculus,False,305
+BK065025,TRBJ1-4*01,J-REGION,Canis lupus familiaris,Mus musculus,False,50
+IMGT000003,IGLV5-40-1*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,218
+BK065025,TRBV2-3*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,290
+IMGT000003,IGLV5-158-2*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,307
+BK065026,TRAJ8*01,J-REGION,Canis lupus familiaris,Oryctolagus cuniculus,False,60
+IMGT000001,IGHV3-46*01,V-REGION,Canis lupus familiaris,Mustela putorius furo,False,293
+BK065025,TRBJ1-6*01,J-REGION,Canis lupus familiaris,Mus musculus,False,53
+IMGT000003,IGLV1-118*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,296
+IMGT000003,IGLV1-61*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,295
+BK065025,TRBD1*01,D-REGION,Canis lupus familiaris,Ctenopharyngodon idella,False,12
+IMGT000001,IGHV3-42*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,297
+IMGT000003,IGLV3-9*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,287
+HE653929,TRBJ2-2*01,J-REGION,Canis lupus familiaris,Ovis aries,False,51
+IMGT000003,IGLV1-78*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,296
+IMGT000002,IGKV2-13*02,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+IMGT000179,IGKV2-6-1*03,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,302
+IMGT000003,IGLC1*01,C-REGION,Canis lupus familiaris,Felis catus,False,318
+BK065027,TRGC3*01,EX3,Canis lupus familiaris,Canis lupus familiaris,True,141
+BK065026,TRAJ54*01,J-REGION,Canis lupus familiaris,Heterocephalus glaber,False,65
+IMGT000377,TRGV2-2*03,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,300
+IMGT000067,IGKV(I)-14*01,V-REGION,Canis lupus familiaris,Mus musculus,False,184
+IMGT000374,TRGJ1-1*02,J-REGION,Canis lupus familiaris,Canis lupus familiaris,True,66
+BK065026,TRAV13-3*01,V-REGION,Canis lupus familiaris,Canis lupus familiaris,True,277
+IMGT000033,IGLV3-6*01,V-REGION,Capra hircus,Ovis aries,False,288
+IMGT000009,IGKJ2*01,J-REGION,Capra hircus,Felis catus,False,38
+IMGT000033,IGLV5-22*01,V-REGION,Capra hircus,Ovis aries,False,316
+IMGT000009,IGKV2-9*01,V-REGION,Capra hircus,Mus musculus,False,302
+IMGT000033,IGLV5-60*01,V-REGION,Capra hircus,Ovis aries,False,319
+IMGT000009,IGKV8-3*01,V-REGION,Capra hircus,Bos taurus,False,289
+IMGT000033,IGLV1-34*01,V-REGION,Capra hircus,Bos taurus,False,299
+IMGT000033,IGLV1-53*01,V-REGION,Capra hircus,Ovis aries,False,299
+IMGT000033,IGLV(I)-56*01,V-REGION,Capra hircus,Ovis aries,False,132
+AY544577,IGHG2*01,CH2,Cercocebus atys,Macaca mulatta,False,327
+IMGT000326,IGHD1T2*01,D-REGION,Ctenopharyngodon idella,Oncorhynchus mykiss,False,12
+IMGT000326,IGHV1-27*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,273
+IMGT000326,IGHV13-10*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,296
+IMGT000326,IGHJ5M1*01,J-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,53
+IMGT000326,IGHV10-96*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,298
+IMGT000326,IGHT2*01,CH3,Ctenopharyngodon idella,Danio rerio,False,321
+IMGT000326,IGHV16-80*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,306
+IMGT000326,IGHV8-81*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,301
+IMGT000326,IGHV8-92*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,298
+IMGT000326,IGHT3*01,CH2,Ctenopharyngodon idella,Ovis aries,False,327
+IMGT000326,IGHD1T1*01,D-REGION,Ctenopharyngodon idella,Bos taurus,False,10
+IMGT000326,IGHV2-16*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,310
+IMGT000326,IGHV4-165*01,V-REGION,Ctenopharyngodon idella,Oncorhynchus mykiss,False,298
+IMGT000326,IGHV1-6*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,295
+IMGT000326,IGHV6-118*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,298
+IMGT000326,IGHV6-122*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,298
+IMGT000326,IGHV13-49*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,296
+IMGT000326,IGHT1*01,CH1,Ctenopharyngodon idella,Ctenopharyngodon idella,True,299
+IMGT000326,IGHV2-21*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,298
+IMGT000326,IGHV2-58*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,310
+IMGT000326,IGHV6-70*01,V-REGION,Ctenopharyngodon idella,Ctenopharyngodon idella,True,298
+NW_003334160,TRAJ19*01,J-REGION,Danio rerio,Danio rerio,True,63
+NW_003334160,TRAV62-1*01,V-REGION,Danio rerio,Danio rerio,True,290
+NW_003334160,TRAV18-7*01,V-REGION,Danio rerio,Danio rerio,True,302
+AF246162,IGIC7S1*01,C-REGION,Danio rerio,Oncorhynchus mykiss,False,324
+BX649502,IGHJ1-1*01,J-REGION,Danio rerio,Mus musculus,False,45
+NW_003334160,TRAJ28*01,J-REGION,Danio rerio,Danio rerio,True,63
+NW_003334160,TRAV11-3*01,V-REGION,Danio rerio,Danio rerio,True,287
+NW_003334160,TRAJ105*01,J-REGION,Danio rerio,Danio rerio,True,60
+NW_003334160,TRAV18-1*01,V-REGION,Danio rerio,Danio rerio,True,281
+AL591481,TRAV4-6*02,V-REGION,Danio rerio,Danio rerio,True,295
+AL592550,TRAV27-1*03,V-REGION,Danio rerio,Danio rerio,True,292
+NW_003334160,TRAV9-2*01,V-REGION,Danio rerio,Danio rerio,True,290
+AL591399,TRAV68-1*02,V-REGION,Danio rerio,Danio rerio,True,288
+BX510335,IGHD*01,CH4D,Danio rerio,Danio rerio,True,291
+BX571825,IGIV3-3*01,V-REGION,Danio rerio,Danio rerio,True,289
+NW_003334160,TRAV67-2*01,V-REGION,Danio rerio,Danio rerio,True,290
+BX510335,IGHD*01,CH1,Danio rerio,Bos taurus,False,282
+AF281480,IGHM*02,CH2,Danio rerio,Danio rerio,True,321
+BX649502,IGHV2-2*01,V-REGION,Danio rerio,Salmo salar,False,298
+NW_003334160,TRAJ12*01,J-REGION,Danio rerio,Danio rerio,True,63
+NW_003334160,TRAV34-1*01,V-REGION,Danio rerio,Danio rerio,True,290
+NW_003334160,TRAV20-1*01,V-REGION,Danio rerio,Danio rerio,True,290
+AL591481,TRAV31-1*02,V-REGION,Danio rerio,Danio rerio,True,305
+NW_003334160,TRAV56-1*01,V-REGION,Danio rerio,Danio rerio,True,296
+AL592550,TRAV18-12*03,V-REGION,Danio rerio,Danio rerio,True,302
+NW_003334160,TRAJ57*01,J-REGION,Danio rerio,Danio rerio,True,60
+BX649502,IGHV4-1*01,V-REGION,Danio rerio,Ctenopharyngodon idella,False,298
+NW_003334160,TRAV12-1*01,V-REGION,Danio rerio,Danio rerio,True,293
+AL591481,TRAV22-3/DV2-1*02,V-REGION,Danio rerio,Danio rerio,True,292
+BX649502,IGHV4-7*01,V-REGION,Danio rerio,Danio rerio,True,301
+NW_003334160,TRAV28-1*01,V-REGION,Danio rerio,Danio rerio,True,302
+AL591481,TRAV29-2*02,V-REGION,Danio rerio,Danio rerio,True,296
+NW_003334160,TRAJ4*01,J-REGION,Danio rerio,Macaca mulatta,False,64
+AL591674,TRAV6-1*02,V-REGION,Danio rerio,Danio rerio,True,293
+AL591399,TRAV62-3*02,V-REGION,Danio rerio,Danio rerio,True,290
+NW_003334160,TRAJ61*01,J-REGION,Danio rerio,Danio rerio,True,60
+AL592550,TRAV4-7*03,V-REGION,Danio rerio,Danio rerio,True,295
+AL591399,TRAC*02,EX1,Danio rerio,Danio rerio,True,180
+NW_003334160,TRDJ2*01,J-REGION,Danio rerio,Danio rerio,True,60
+NW_003334160,TRAJ8*01,J-REGION,Danio rerio,Mustela putorius furo,False,63
+NW_003334160,TRAV22-3/DV2-1*01,V-REGION,Danio rerio,Danio rerio,True,292
+NW_003334160,TRAV39-1*01,V-REGION,Danio rerio,Danio rerio,True,296
+AL591481,TRAV11-6*02,V-REGION,Danio rerio,Danio rerio,True,287
+NW_003334160,TRAV35-1*01,V-REGION,Danio rerio,Danio rerio,True,295
+NW_003334160,TRAJ102*01,J-REGION,Danio rerio,Danio rerio,True,60
+NW_003334160,TRAJ82*01,J-REGION,Danio rerio,Danio rerio,True,55
+NW_003334160,TRAJ97*01,J-REGION,Danio rerio,Danio rerio,True,58
+BX649502,IGHV5-4*01,V-REGION,Danio rerio,Danio rerio,True,301
+NW_003334160,TRAV3-1*01,V-REGION,Danio rerio,Danio rerio,True,296
+BX510335,IGHD*01,CH2D3,Danio rerio,Danio rerio,True,291
+BX649502,IGHD1-1*01,D-REGION,Danio rerio,Bos taurus,False,10
+NW_003334160,TRAJ54*01,J-REGION,Danio rerio,Danio rerio,True,57
+NW_003334160,TRAJ60*01,J-REGION,Danio rerio,Danio rerio,True,63
+NW_003334160,TRAV6-1*01,V-REGION,Danio rerio,Danio rerio,True,294
+EF222424,IGIC6S2*01,C-REGION,Danio rerio,Lemur catta,False,301
+IMGT000040,IGHD4-25*01,D-REGION,Equus caballus,Homo sapiens,False,25
+IMGT000040,IGHV1-79*01,V-REGION,Equus caballus,Macaca mulatta,False,292
+IMGT000040,IGHG1*01,H,Equus caballus,Equus caballus,True,60
+IMGT000053,IGKV2-45*01,V-REGION,Equus caballus,Canis lupus familiaris,False,302
+IMGT000040,IGHD2-9*01,D-REGION,Equus caballus,Equus caballus,True,30
+NW_001872990,IGHV4-38*02,V-REGION,Equus caballus,Equus caballus,True,299
+IMGT000040,IGHV4-30*01,V-REGION,Equus caballus,Equus caballus,True,299
+IMGT000060,IGKV7-31-1*02,V-REGION,Equus caballus,Equus caballus,True,305
+NW_001876796,IGHM*04,CH1,Equus caballus,Equus caballus,True,297
+IMGT000040,IGHG5*01,CH2,Equus caballus,Equus caballus,True,330
+IMGT000040,IGHG6*01,CH1,Equus caballus,Equus caballus,True,294
+NW_001876796,IGHV3-24*02,V-REGION,Equus caballus,Equus caballus,True,292
+IMGT000053,IGKV2-29*01,V-REGION,Equus caballus,Homo sapiens,False,302
+IMGT000040,IGHV3-16*01,V-REGION,Equus caballus,Equus caballus,True,295
+AJ312381,IGHG6*03,CH1,Equus caballus,Equus caballus,True,294
+IMGT000040,IGHV3-39*01,V-REGION,Equus caballus,Macaca mulatta,False,281
+IMGT000053,IGKV4-9-1*01,V-REGION,Equus caballus,Equus caballus,True,287
+IMGT000040,IGHE*01,CH1,Equus caballus,Equus caballus,True,291
+IMGT000040,IGHA*01,CH1,Equus caballus,Equus caballus,True,300
+AY247966,IGHA*02,H-CH2,Equus caballus,Equus caballus,True,339
+AJ302056,IGHG2*03,CH1,Equus caballus,Equus caballus,True,294
+IMGT000040,IGHV3-32*01,V-REGION,Equus caballus,Lemur catta,False,281
+AJ312379,IGHG3*04,CH3-CHS,Equus caballus,Equus caballus,True,327
+IMGT000040,IGHV3-80*01,V-REGION,Equus caballus,Equus caballus,True,298
+NW_001869767,IGHV3-76*02,V-REGION,Equus caballus,Salmo salar,False,226
+IMGT000040,IGHV4-29*01,V-REGION,Equus caballus,Equus caballus,True,291
+IMGT000053,IGKV4-7*01,V-REGION,Equus caballus,Pongo pygmaeus,False,288
+IMGT000040,IGHG5*01,H,Equus caballus,Equus caballus,True,33
+U17041,IGHE*06,CH4-CHS,Equus caballus,Equus caballus,True,333
+IMGT000053,IGKV(II)-55*01,V-REGION,Equus caballus,Equus caballus,True,269
+AY631941,IGHM*01,CH2,Equus caballus,Equus caballus,True,342
+IMGT000053,IGKV4-13*01,V-REGION,Equus caballus,Equus caballus,True,285
+IMGT000053,IGKV4-12*01,V-REGION,Equus caballus,Equus caballus,True,287
+IMGT000040,IGHG2*01,CH3-CHS,Equus caballus,Equus caballus,True,327
+IMGT000040,IGHV3-78*01,V-REGION,Equus caballus,Equus caballus,True,296
+NW_019645282,IGHG7*01,CH2,Equus caballus,Equus caballus,True,327
+IMGT000040,IGHG2*01,M1,Equus caballus,Equus caballus,True,132
+IMGT000040,IGHD4-14*01,D-REGION,Equus caballus,Macaca mulatta,False,19
+IMGT000038,IGLV1-72*01,V-REGION,Felis catus,Felis catus,True,296
+IMGT000038,IGLC5*01,C-REGION,Felis catus,Canis lupus familiaris,False,318
+IMGT000038,IGLV1-65*01,V-REGION,Felis catus,Pongo abelii,False,294
+IMGT000045,TRAV43-3*01,V-REGION,Felis catus,Felis catus,True,274
+IMGT000045,TRAJ61*01,J-REGION,Felis catus,Tursiops truncatus,False,60
+IMGT000038,IGLJ2*01,J-REGION,Felis catus,Sus scrofa,False,38
+IMGT000045,TRAJ18*01,J-REGION,Felis catus,Danio rerio,False,66
+IMGT000036,TRGJ1-2*01,J-REGION,Felis catus,Gallus gallus,False,60
+BK083199,IGHV1-35*01,V-REGION,Felis catus,Felis catus,True,295
+IMGT000045,TRAJ20*01,J-REGION,Felis catus,Canis lupus familiaris,False,57
+BK083199,IGHV3-72*01,V-REGION,Felis catus,Felis catus,True,296
+IMGT000045,TRAV23*01,V-REGION,Felis catus,Mus musculus,False,280
+IMGT000037,TRBV5-1*01,V-REGION,Felis catus,Macaca mulatta,False,151
+IMGT000037,TRBV4-1*01,V-REGION,Felis catus,Felis catus,True,287
+BK083199,IGHV3-31*01,V-REGION,Felis catus,Felis catus,True,295
+IMGT000045,TRAV41*01,V-REGION,Felis catus,Ovis aries,False,271
+IMGT000038,IGLV3-13-1*01,V-REGION,Felis catus,Mustela putorius furo,False,289
+IMGT000037,TRBJ2-4*01,J-REGION,Felis catus,Sus scrofa,False,49
+IMGT000045,TRDV3*01,V-REGION,Felis catus,Ovis aries,False,291
+IMGT000037,TRBV10*01,V-REGION,Felis catus,Camelus dromedarius,False,287
+BK083199,IGHA*01,H-CH2,Felis catus,Equus caballus,False,333
+BK083199,IGHV3-61*01,V-REGION,Felis catus,Felis catus,True,299
+BK083199,IGHV3-19*01,V-REGION,Felis catus,Felis catus,True,300
+IMGT000045,TRAV29*01,V-REGION,Felis catus,Mus musculus,False,280
+BK083199,IGHV3-28*01,V-REGION,Felis catus,Felis catus,True,293
+BK083199,IGHV3-56*01,V-REGION,Felis catus,Felis catus,True,301
+BK083199,IGHD*01,M1,Felis catus,Vicugna pacos,False,150
+BK083199,IGHV3-14*01,V-REGION,Felis catus,Felis catus,True,295
+IMGT000045,TRAJ35*01,J-REGION,Felis catus,Gorilla gorilla gorilla,False,63
+IMGT000045,TRAV14-1*01,V-REGION,Felis catus,Rattus norvegicus,False,290
+BK083199,IGHV3-71*01,V-REGION,Felis catus,Felis catus,True,296
+IMGT000045,TRAV8-5*01,V-REGION,Felis catus,Felis catus,True,284
+IMGT000036,TRGC1*01,EX2B,Felis catus,Oryctolagus cuniculus,False,48
+IMGT000038,IGLC9*01,C-REGION,Felis catus,Felis catus,True,318
+IMGT000045,TRAV20*01,V-REGION,Felis catus,Canis lupus familiaris,False,270
+BK083199,IGHJ1*01,J-REGION,Felis catus,Equus caballus,False,54
+IMGT000037,TRBJ2-1*01,J-REGION,Felis catus,Mustela putorius furo,False,50
+IMGT000045,TRAV9-3*01,V-REGION,Felis catus,Felis catus,True,281
+BK083199,IGHV3-73*01,V-REGION,Felis catus,Felis catus,True,296
+BK083199,IGHE*01,M2,Felis catus,Gorilla gorilla gorilla,False,75
+BK083199,IGHV3-5*01,V-REGION,Felis catus,Felis catus,True,296
+IMGT000037,TRBC1*01,EX2,Felis catus,Oncorhynchus mykiss,False,18
+BK083199,IGHM*01,CH3,Felis catus,Mustela putorius furo,False,315
+IMGT000038,IGLV3-11*01,V-REGION,Felis catus,Mustela putorius furo,False,288
+IMGT000045,TRAJ40*01,J-REGION,Felis catus,Oncorhynchus mykiss,False,60
+BK083199,IGHM*01,CH2,Felis catus,Oryctolagus cuniculus,False,339
+IMGT000038,IGLV3-4*01,V-REGION,Felis catus,Felis catus,True,285
+IMGT000036,TRGC5*01,EX1,Felis catus,Mustela putorius furo,False,331
+IMGT000036,TRGJ3-2*01,J-REGION,Felis catus,Felis catus,True,59
+BK083199,IGHV3-62*01,V-REGION,Felis catus,Felis catus,True,296
+BK083199,IGHG2B*01,M2,Felis catus,Equus caballus,False,81
+IMGT000038,IGLV3-6*01,V-REGION,Felis catus,Lemur catta,False,288
+IMGT000014,IGHD2*01,D-REGION,Gallus gallus,Gallus gallus,True,24
+IMGT000014,IGHV1-37*01,V-REGION,Gallus gallus,Gallus gallus,True,303
+IMGT000014,IGHV1-63*02,V-REGION,Gallus gallus,Gallus gallus,True,300
+IMGT000014,IGHV1-56*01,V-REGION,Gallus gallus,Gallus gallus,True,303
+IMGT000007,IGHV1-32*01,V-REGION,Gallus gallus,Gallus gallus,True,298
+IMGT000014,IGHV1-80*01,V-REGION,Gallus gallus,Gallus gallus,True,300
+IMGT000008,IGLV1-21-2*01,V-REGION,Gallus gallus,Gallus gallus,True,105
+IMGT000008,IGLV1-3*01,V-REGION,Gallus gallus,Gallus gallus,True,263
+IMGT000014,IGHV1-46*01,V-REGION,Gallus gallus,Gallus gallus,True,303
+IMGT000014,IGHV1-45*01,V-REGION,Gallus gallus,Gallus gallus,True,300
+IMGT000014,IGHV1-20*01,V-REGION,Gallus gallus,Gallus gallus,True,303
+IMGT000014,IGHV1-42*01,V-REGION,Gallus gallus,Gallus gallus,True,306
+M15149,IGLV1S7*01,V-REGION,Gallus gallus,Gallus gallus,True,301
+IMGT000007,IGHV1-66*01,V-REGION,Gallus gallus,Gallus gallus,True,298
+IMGT000014,IGHV1-19*01,V-REGION,Gallus gallus,Gallus gallus,True,303
+X07174,IGHY*01,CH2,Gallus gallus,Gallus gallus,True,282
+IMGT000014,IGHV1-62D-4*01,V-REGION,Gallus gallus,Gallus gallus,True,304
+IMGT000014,IGHV1-36*01,V-REGION,Gallus gallus,Gallus gallus,True,303
+BK064850,TRBV6-3*01,V-REGION,Gorilla gorilla gorilla,Pan troglodytes,False,287
+BK063610,IGLV4-3*03,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,314
+BK063605,IGHV2-70D*01,V-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,295
+BK063605,IGHV3-19*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,288
+BK064837,TRAV7*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,274
+BK063606,IGHV3-15*03,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,302
+BK063604,IGHV3-73*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,302
+BK063604,IGHV3-53*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,296
+BK063605,IGHV(III)-22-2*01,V-REGION,Gorilla gorilla gorilla,Felis catus,False,30
+BK063608,IGLV1-51*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,296
+BK063609,IGLV3-24-2*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,290
+BK063605,IGHG3A*02,CH3,Gorilla gorilla gorilla,Homo sapiens,False,314
+BK064850,TRBC1*01,EX1,Gorilla gorilla gorilla,Homo sapiens,False,387
+BK064854,TRGVB*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,309
+BK063605,IGHV3-48*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,295
+BK063605,IGHV(III)-2-1*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,295
+BK064839,TRDV2*03,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,288
+BK063605,IGHGP*02,CH3,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,305
+BK064840,TRAV10*03,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,280
+BK063600,IGKV1-6*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,287
+BK063604,IGHV(II)-65-1*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,299
+BK063606,IGHV3-60*03,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,297
+BK064837,TRAV38-2*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,289
+BK063610,IGLV3-24-2*02,V-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,290
+BK063609,IGLV(III)-60-1*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,266
+BK063609,IGLV3-10*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,290
+BK064852,TRBV28*02,V-REGION,Gorilla gorilla gorilla,Pongo abelii,False,287
+BK063608,IGLV(IV)-55-1*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,301
+BK063604,IGHV(III)-5-1*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,235
+BK063606,IGHV4-39D*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,299
+BK063601,IGKV1-8*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,287
+BK063608,IGLV3-19*01,V-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,290
+BK063609,IGLV11-55*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,312
+BK064851,TRBC1*02,EX1,Gorilla gorilla gorilla,Homo sapiens,False,387
+BK064850,TRBV8-2*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,273
+BK064853,TRBV13*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,287
+BK063606,IGHG2*02,CH2,Gorilla gorilla gorilla,Homo sapiens,False,327
+BK064839,TRAV35*03,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,276
+BK064838,TRAJ41*02,J-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,62
+BK063608,IGLV2-14*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,297
+BK063604,IGHV(II)-15-1*01,V-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,298
+BK063608,IGLJ4*01,J-REGION,Gorilla gorilla gorilla,Felis catus,False,38
+BK063608,IGLV3-27*01,V-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,284
+BK063605,IGHV1-3*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,296
+BK063608,IGLV7-35*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,295
+BK064851,TRBV6-2*02,V-REGION,Gorilla gorilla gorilla,Pan troglodytes,False,288
+BK064853,TRBV27*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,287
+BK063606,IGHV1-45*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,296
+BK063604,IGHV3-50*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,297
+BK063602,IGKV2-36*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,222
+BK063600,IGKV2-24*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,302
+BK063604,IGHG1*02,M2,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,81
+BK063608,IGLV3-4*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,280
+BK063604,IGHV4-30-4*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,299
+BK064837,TRAC*01,EX3,Gorilla gorilla gorilla,Macaca mulatta,False,109
+BK063607,IGHV3-19*04,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,300
+BK063609,IGLV4-7-1*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,318
+BK063605,IGHV4-60-2*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,302
+BK063604,IGHV(II)-31-1*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,281
+BK064838,TRAV20*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,274
+BK063605,IGHV3-30*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,306
+BK063604,IGHV(II)-33-1*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,301
+BK063605,IGHV3-76*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,292
+BK063600,IGKV3-48*01,V-REGION,Gorilla gorilla gorilla,Pongo abelii,False,247
+BK063600,IGKC*01,C-REGION,Gorilla gorilla gorilla,Homo sapiens,False,321
+BK063605,IGHV2-70*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,304
+BK063609,IGLV1-44*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,296
+BK063606,IGHV3-38*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,293
+BK064854,TRGC1*01,EX3,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,141
+BK063609,IGLV(I)-45-1*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,285
+BK063604,IGHV3-38*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,293
+BK063605,IGHV3-30-22*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,296
+BK064855,TRGC1*02,EX2,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,48
+BK063609,IGLV3-21*02,V-REGION,Gorilla gorilla gorilla,Pongo abelii,False,290
+BK064850,TRBV24-1*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,288
+BK063604,IGHV3-30-33*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,298
+BK063606,IGHA1*04,H-CH2,Gorilla gorilla gorilla,Homo sapiens,False,360
+BK063609,IGLV2-18*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,297
+BK063604,IGHV2-10*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,300
+BK064851,TRBV8-2*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,273
+BK063606,IGHEP1*02,CH2,Gorilla gorilla gorilla,Homo sapiens,False,256
+BK063604,IGHV(III)-38-1*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,282
+BK063608,IGLV4-10-1*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,314
+BK063604,IGHV(II)-74-1*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,183
+BK063604,IGHV(III)-47-1*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,293
+BK063605,IGHG3B*01,CH3,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,314
+BK063606,IGHV1-18*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,296
+BK063605,IGHV3-60-6*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,295
+BK063611,IGLV3-15*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,284
+BK063611,IGLV1-50*04,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,298
+BK063604,IGHV3-13*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,293
+BK064851,TRBV16*02,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,290
+BK063605,IGHJ1P*02,J-REGION,Gorilla gorilla gorilla,Homo sapiens,False,54
+BK063608,IGLV(II)-24-1*01,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,289
+BK063608,IGLV10-54*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,296
+BK064850,TRBV6-5*01,V-REGION,Gorilla gorilla gorilla,Pan troglodytes,False,287
+BK063603,IGKV2-40*02,V-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,305
+BK064837,TRAJ44*01,J-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,63
+BK063605,IGHV3-36*02,V-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,300
+BK063608,IGLV3-7*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,292
+BK063604,IGHV7-40*01,V-REGION,Gorilla gorilla gorilla,Homo sapiens,False,204
+BK063605,IGHD4-5-5*01,D-REGION,Gorilla gorilla gorilla,Gorilla gorilla gorilla,True,16
+BK063604,IGHG3A*01,H2,Gorilla gorilla gorilla,Pongo abelii,False,45
+BK064837,TRAVA*01,V-REGION,Gorilla gorilla gorilla,Macaca mulatta,False,286
+BK064759,TRBJ2-4*01,J-REGION,Heterocephalus glaber,Mus musculus,False,49
+BK064755,TRGC5*02,EX1,Heterocephalus glaber,Heterocephalus glaber,True,330
+BK064754,TRAJ13*01,J-REGION,Heterocephalus glaber,Danio rerio,False,63
+BK064754,TRDV5*01,V-REGION,Heterocephalus glaber,Ctenopharyngodon idella,False,287
+BK064759,TRBV12-1*01,V-REGION,Heterocephalus glaber,Felis catus,False,290
+BK064754,TRDJ1*01,J-REGION,Heterocephalus glaber,Oryctolagus cuniculus,False,51
+BK064754,TRAV25-1*02,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,274
+BK064759,TRBV18-1*01,V-REGION,Heterocephalus glaber,Canis lupus familiaris,False,290
+BK064756,TRGJ2-1*01,J-REGION,Heterocephalus glaber,Mustela putorius furo,False,59
+IMGT000071,TRAVD*01,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,281
+BK064754,TRAJ46*01,J-REGION,Heterocephalus glaber,Heterocephalus glaber,True,61
+BK064754,TRAJ26*01,J-REGION,Heterocephalus glaber,Ovis aries,False,60
+BK064759,TRBV12-2*01,V-REGION,Heterocephalus glaber,Homo sapiens,False,290
+BK064754,TRAV9-3*02,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,281
+BK064756,TRGC1*01,EX3,Heterocephalus glaber,Heterocephalus glaber,True,141
+BK064754,TRAV23-3*01,V-REGION,Heterocephalus glaber,Bos taurus,False,280
+IMGT000081,TRAV35-2*02,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,276
+BK064754,TRDV3*01,V-REGION,Heterocephalus glaber,Mus musculus,False,294
+BK064754,TRAV23-2*02,V-REGION,Heterocephalus glaber,Mus musculus,False,280
+BK064756,TRGJ3-2*01,J-REGION,Heterocephalus glaber,Heterocephalus glaber,True,59
+BK064754,TRAV38-5*01,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,290
+BK064754,TRAJ16*01,J-REGION,Heterocephalus glaber,Canis lupus familiaris,False,60
+BK064754,TRAV34-2*01,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,274
+BK064758,TRBV9*01,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,286
+BK064754,TRAJ10*01,J-REGION,Heterocephalus glaber,Macaca mulatta,False,64
+BK064754,TRAV12-6*01,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,277
+BK064759,TRBV5*01,V-REGION,Heterocephalus glaber,Homo sapiens,False,296
+IMGT000071,TRAV8-1*01,V-REGION,Heterocephalus glaber,Heterocephalus glaber,True,284
+BK064754,TRAV27*01,V-REGION,Heterocephalus glaber,Homo sapiens,False,274
+IMGT000070,TRBV18-2*01,V-REGION,Heterocephalus glaber,Felis catus,False,286
+BK064758,TRBC2*01,EX2,Heterocephalus glaber,Macaca mulatta,False,18
+L06885,TRAV8-3*03,V-REGION,Homo sapiens,Homo sapiens,True,276
+M94081,TRAJ24*02,J-REGION,Homo sapiens,Homo sapiens,True,63
+D86994,IGLV(VI)-25-1*01,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,290
+MG719328,IGHV1-69*16,V-REGION,Homo sapiens,Homo sapiens,True,296
+M94081,TRDC*01,EX4UTR,Homo sapiens,Gorilla gorilla gorilla,False,1046
+BK083187,TRAV25*04,V-REGION,Homo sapiens,Homo sapiens,True,273
+AE000660,TRAV35*01,V-REGION,Homo sapiens,Homo sapiens,True,276
+AF029308,TRBV22/OR9-2*01,V-REGION,Homo sapiens,Homo sapiens,True,287
+MH025837,IGHG3*23,CH3-CHS,Homo sapiens,Homo sapiens,True,321
+AB019440,IGHV1-14*01,V-REGION,Homo sapiens,Homo sapiens,True,296
+X92288,IGHV3-7*02,V-REGION,Homo sapiens,Homo sapiens,True,294
+L37729,IGKV3-20*02,V-REGION,Homo sapiens,Homo sapiens,True,271
+BK083673,TRBV7-5*05,V-REGION,Homo sapiens,Homo sapiens,True,289
+M95120,IGHV4-31*04,V-REGION,Homo sapiens,Homo sapiens,True,294
+KC713950,IGHV3-43D*03,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,298
+AC279908,IGHV(III)-67-4*02,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,295
+AB019439,IGHV3-36*02,V-REGION,Homo sapiens,Homo sapiens,True,301
+X61447,TRBV6-9*01,V-REGION,Homo sapiens,Homo sapiens,True,287
+IMGT000024,TRAV23/DV6*05,V-REGION,Homo sapiens,Homo sapiens,True,280
+BK083187,TRAV21*02,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,279
+IMGT000100,IGKV2-38*02,V-REGION,Homo sapiens,Salmo salar,False,242
+X63399,IGKV6-21*01,V-REGION,Homo sapiens,Homo sapiens,True,287
+J00228,IGHG1*01,CH2,Homo sapiens,Homo sapiens,True,330
+AB019439,IGHV7-40*04,V-REGION,Homo sapiens,Homo sapiens,True,203
+BK063799,IGHV3-60*02,V-REGION,Homo sapiens,Homo sapiens,True,297
+X61439,TRBV5-3*01,V-REGION,Homo sapiens,Homo sapiens,True,286
+AB019437,IGHV3-79*01,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,295
+AB019437,IGHV3-75*01,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,310
+X92245,IGHV2-70*08,V-REGION,Homo sapiens,Homo sapiens,True,290
+MG920250,IGHG1*12,CH3-CHS,Homo sapiens,Homo sapiens,True,321
+BK083673,TRBVC*02,V-REGION,Homo sapiens,Homo sapiens,True,89
+IMGT000177,IGHV(II)-22-1D*02,V-REGION,Homo sapiens,Homo sapiens,True,270
+BK063799,IGHGP*03,H,Homo sapiens,Gorilla gorilla gorilla,False,51
+X92279,IGHV5-10-1*02,V-REGION,Homo sapiens,Homo sapiens,True,295
+AB019437,IGHV(II)-78-1*01,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,275
+X51755,IGLJ4*01,J-REGION,Homo sapiens,Felis catus,False,38
+BK063799,IGHV(II)-7-1*01,V-REGION,Homo sapiens,Macaca mulatta,False,278
+KM455556,IGLV6-57*02,V-REGION,Homo sapiens,Homo sapiens,True,296
+J00256,IGHJ3P*01,J-REGION,Homo sapiens,Homo sapiens,True,52
+AC245166,IGHV(II)-30-1*02,V-REGION,Homo sapiens,Homo sapiens,True,301
+IMGT000176,IGHV(II)-12-1*03,V-REGION,Homo sapiens,Homo sapiens,True,178
+KM455561,IGKV3D-11*02,V-REGION,Homo sapiens,Homo sapiens,True,287
+D87004,IGLV(IV)-66-1*01,V-REGION,Homo sapiens,Macaca mulatta,False,316
+IMGT000056,IGHV3-33*07,V-REGION,Homo sapiens,Homo sapiens,True,296
+MW316667,IGLV1-44*02,V-REGION,Homo sapiens,Homo sapiens,True,296
+HM855577,IGHV3-9*02,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,298
+Z14235,IGHV4-31*10,V-REGION,Homo sapiens,Homo sapiens,True,299
+M17324,TRGC2*03,EX2,Homo sapiens,Gorilla gorilla gorilla,False,48
+X05714,IGHV4-28*01,V-REGION,Homo sapiens,Homo sapiens,True,296
+D78345,IGHG3*01,CH1,Homo sapiens,Homo sapiens,True,294
+U03115,TRBV11-3*01,V-REGION,Homo sapiens,Homo sapiens,True,290
+X92274,IGHV4-30-4*03,V-REGION,Homo sapiens,Homo sapiens,True,290
+X07208,TRGVA*01,V-REGION,Homo sapiens,Homo sapiens,True,285
+X62106,IGHV1-2*02,V-REGION,Homo sapiens,Homo sapiens,True,296
+D86994,IGLV(II)-24-1*01,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,284
+IMGT000173,IGHV3-30-2*03,V-REGION,Homo sapiens,Homo sapiens,True,298
+AJ390272,IGHG3*17,CH1,Homo sapiens,Homo sapiens,True,294
+K01313,IGHG3*02,H2,Homo sapiens,Gorilla gorilla gorilla,False,45
+IMGT000054,IGHV6-1*03,V-REGION,Homo sapiens,Homo sapiens,True,305
+IMGT000341,IGLV2-33*04,V-REGION,Homo sapiens,Homo sapiens,True,297
+MN337623,IGHV3-21*06,V-REGION,Homo sapiens,Homo sapiens,True,296
+MG920259,IGHG3*26,CH2,Homo sapiens,Homo sapiens,True,330
+AL928742,IGHA2*02,CH3-CHS,Homo sapiens,Homo sapiens,True,393
+M14263,TRBV20-1*04,V-REGION,Homo sapiens,Homo sapiens,True,291
+X92256,IGHV4-34*06,V-REGION,Homo sapiens,Homo sapiens,True,284
+IMGT000292,TRAV6*02,V-REGION,Homo sapiens,Homo sapiens,True,280
+BK083190,TRBV5-4*06,V-REGION,Homo sapiens,Homo sapiens,True,286
+IMGT000341,IGLV3-22*05,V-REGION,Homo sapiens,Homo sapiens,True,289
+HM855589,IGHV1/OR15-1*03,V-REGION,Homo sapiens,Homo sapiens,True,296
+IMGT000372,TRGV3*05,V-REGION,Homo sapiens,Homo sapiens,True,300
+Z14300,IGHV1-69*10,V-REGION,Homo sapiens,Homo sapiens,True,296
+AC279961,IGHV3-52*02,V-REGION,Homo sapiens,Pongo abelii,False,296
+BK083190,TRBV6-6*06,V-REGION,Homo sapiens,Homo sapiens,True,287
+MG920251,IGHG1*13,CH2,Homo sapiens,Homo sapiens,True,330
+X92291,IGHV7-NL1*01,V-REGION,Homo sapiens,Homo sapiens,True,270
+BK083812,TRAV13-2*03,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,280
+IMGT000158,IGHV(II)-30-41*03,V-REGION,Homo sapiens,Homo sapiens,True,272
+KC713947,IGHV3-9*03,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,298
+IMGT000225,IGLV3-24*05,V-REGION,Homo sapiens,Homo sapiens,True,284
+M29809,IGHV1-58*01,V-REGION,Homo sapiens,Homo sapiens,True,296
+IMGT000069,IGHV3/OR16-19*01,V-REGION,Homo sapiens,Homo sapiens,True,212
+M12960,TRGJ1*01,J-REGION,Homo sapiens,Oncorhynchus mykiss,False,50
+IMGT000069,IGHV1/OR16-24*01,V-REGION,Homo sapiens,Homo sapiens,True,295
+IMGT000280,IGLV(IV)-66-1*02,V-REGION,Homo sapiens,Macaca mulatta,False,316
+MK540647,IGHV3-60*03,V-REGION,Homo sapiens,Homo sapiens,True,297
+D78345,IGHG3*01,H3,Homo sapiens,Pongo abelii,False,45
+J00256,IGHJ3*01,J-REGION,Homo sapiens,Macaca mulatta,False,50
+AE000660,TRAV30*01,V-REGION,Homo sapiens,Homo sapiens,True,274
+IMGT000292,TRAV13-1*02,V-REGION,Homo sapiens,Homo sapiens,True,280
+M77334,IGHV3-33*05,V-REGION,Homo sapiens,Homo sapiens,True,296
+BK063800,IGHA2*01,M,Homo sapiens,Gorilla gorilla gorilla,False,213
+MW316675,IGLV7-46*04,V-REGION,Homo sapiens,Homo sapiens,True,294
+L21972,IGHV2-5*09,V-REGION,Homo sapiens,Homo sapiens,True,301
+IMGT000158,IGHV(III)-16-1*03,V-REGION,Homo sapiens,Homo sapiens,True,296
+BK063800,IGHE*02,CH1,Homo sapiens,Homo sapiens,True,309
+L21970,IGHV2-70*12,V-REGION,Homo sapiens,Homo sapiens,True,301
+U41645,IGKV2-29*02,V-REGION,Homo sapiens,Homo sapiens,True,302
+KC713943,IGHV3-38*03,V-REGION,Homo sapiens,Homo sapiens,True,292
+IMGT000225,IGLV(IV)-59*02,V-REGION,Homo sapiens,Homo sapiens,True,325
+MW316668,IGLV1-44*03,V-REGION,Homo sapiens,Homo sapiens,True,296
+KM455568,IGKV6-21*02,V-REGION,Homo sapiens,Homo sapiens,True,287
+KX670555,IGHG4*05,CH2,Homo sapiens,Homo sapiens,True,330
+AC279207,IGLV1-44*01,V-REGION,Homo sapiens,Homo sapiens,True,296
+IMGT000392,IGKV1-27*04,V-REGION,Homo sapiens,Homo sapiens,True,288
+KC713941,IGHV3-64D*06,V-REGION,Homo sapiens,Homo sapiens,True,296
+D87010,IGLV1-36*01,V-REGION,Homo sapiens,Homo sapiens,True,296
+OL352719,IGLV7-46*05,V-REGION,Homo sapiens,Homo sapiens,True,294
+X71889,IGKV2-36*01,V-REGION,Homo sapiens,Macaca mulatta,False,234
+BK083190,TRBV15*04,V-REGION,Homo sapiens,Homo sapiens,True,287
+M77299,IGHV3-64*04,V-REGION,Homo sapiens,Homo sapiens,True,296
+D86993,IGLV(I)-70*01,V-REGION,Homo sapiens,Homo sapiens,True,293
+BK063801,IGHV3-16*03,V-REGION,Homo sapiens,Homo sapiens,True,296
+X02883,TRAC*01,EX2,Homo sapiens,Gorilla gorilla gorilla,False,45
+BK083186,TRAV9-1*02,V-REGION,Homo sapiens,Homo sapiens,True,281
+AB019439,IGHV(III)-26-1*01,V-REGION,Homo sapiens,Homo sapiens,True,259
+M62379,TRBV2*02,V-REGION,Homo sapiens,Pongo abelii,False,285
+IMGT000176,IGHV3-13*03,V-REGION,Homo sapiens,Homo sapiens,True,291
+AF103571,IGKJ4*02,J-REGION,Homo sapiens,Lemur catta,False,38
+X14614,IGLV7-43*01,V-REGION,Homo sapiens,Pongo pygmaeus,False,294
+X07206,TRGV10*01,V-REGION,Homo sapiens,Homo sapiens,True,311
+S70116,IGLV10-54*03,V-REGION,Homo sapiens,Homo sapiens,True,296
+BK068299,IGHG3*14,CH2,Homo sapiens,Homo sapiens,True,330
+S60789,TRAV20*03,V-REGION,Homo sapiens,Homo sapiens,True,264
+L36092,TRBVA*01,V-REGION,Homo sapiens,Homo sapiens,True,262
+OL352725,IGLV5-37*03,V-REGION,Homo sapiens,Homo sapiens,True,312
+OL352726,IGKV7-3*02,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,298
+IMGT000024,TRAV31*02,V-REGION,Homo sapiens,Homo sapiens,True,286
+IMGT000207,IGHV3-7-2*02,V-REGION,Homo sapiens,Homo sapiens,True,299
+M23851,IGKV1-5*02,V-REGION,Homo sapiens,Homo sapiens,True,287
+J00232,IGHD2-2*01,D-REGION,Homo sapiens,Homo sapiens,True,31
+M99647,IGHV2-10*01,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,301
+M99643,IGHV7-27*01,V-REGION,Homo sapiens,Homo sapiens,True,295
+M25625,IGHJ6*02,J-REGION,Homo sapiens,Mus musculus,False,63
+KC713942,IGHV4-4*08,V-REGION,Homo sapiens,Homo sapiens,True,293
+KF698736,IGHV1-38-4*01,V-REGION,Homo sapiens,Macaca mulatta,False,296
+AB019437,IGHV(III)-67-4*01,V-REGION,Homo sapiens,Homo sapiens,True,295
+AL928742,IGHA2*02,CH1,Homo sapiens,Homo sapiens,True,306
+BK075132,TRBC2*04,EX1,Homo sapiens,Homo sapiens,True,387
+IMGT000320,TRGV5P*03,V-REGION,Homo sapiens,Pan troglodytes,False,300
+X71968,IGLV3-24*01,V-REGION,Homo sapiens,Homo sapiens,True,283
+BK083676,TRBV7-7*03,V-REGION,Homo sapiens,Homo sapiens,True,290
+AB019439,IGHV4-39*01,V-REGION,Homo sapiens,Homo sapiens,True,299
+OL352711,IGKV3-15*02,V-REGION,Homo sapiens,Homo sapiens,True,287
+IMGT000024,TRAVA*02,V-REGION,Homo sapiens,Pan troglodytes,False,285
+L06889,TRBV3-1*02,V-REGION,Homo sapiens,Pongo abelii,False,279
+J00256,IGHJ2*01,J-REGION,Homo sapiens,Oryctolagus cuniculus,False,53
+J00248,IGKV1-16*01,V-REGION,Homo sapiens,Homo sapiens,True,287
+U03115,TRBV16*02,V-REGION,Homo sapiens,Homo sapiens,True,290
+IMGT000357,IGKV2D-30*02,V-REGION,Homo sapiens,Homo sapiens,True,302
+X71966,IGLV3-21*01,V-REGION,Homo sapiens,Homo sapiens,True,290
+M94118,IGLV1-41*01,V-REGION,Homo sapiens,Homo sapiens,True,296
+BK075132,TRBV11-3*04,V-REGION,Homo sapiens,Homo sapiens,True,290
+X92243,IGHV2-70*07,V-REGION,Homo sapiens,Homo sapiens,True,290
+IMGT000111,IGHA1*04,CH1,Homo sapiens,Gorilla gorilla gorilla,False,306
+MK308860,IGHV3-53*05,V-REGION,Homo sapiens,Homo sapiens,True,293
+AB019439,IGHV(II)-22-1*01,V-REGION,Homo sapiens,Homo sapiens,True,269
+J00230,IGHG2*01,CH1,Homo sapiens,Homo sapiens,True,294
+BK075721,IGLV3-10*04,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,290
+J00256,IGHJ5*01,J-REGION,Homo sapiens,Equus caballus,False,51
+J00256,IGHJ4*01,J-REGION,Homo sapiens,Canis lupus familiaris,False,48
+IMGT000281,IGKV1-16*02,V-REGION,Homo sapiens,Homo sapiens,True,287
+IMGT000292,TRAV14-1*03,V-REGION,Homo sapiens,Homo sapiens,True,284
+X71888,IGKV2-38*01,V-REGION,Homo sapiens,Macaca mulatta,False,240
+X71885,IGKV2-23*01,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,212
+X52203,IGLL2*01,J-LIKE,Homo sapiens,Homo sapiens,True,36
+K01326,IGLC3*02,C-REGION,Homo sapiens,Homo sapiens,True,318
+AE000658,TRAV1-2*01,V-REGION,Homo sapiens,Pongo abelii,False,275
+BK075132,TRBV19*03,V-REGION,Homo sapiens,Homo sapiens,True,287
+AE000660,TRAV28*01,V-REGION,Homo sapiens,Pan troglodytes,False,269
+X92340,IGHV1-69*03,V-REGION,Homo sapiens,Homo sapiens,True,275
+Z29596,IGHV1/OR15-4*01,V-REGION,Homo sapiens,Macaca mulatta,False,294
+BK083190,TRBV5-8*03,V-REGION,Homo sapiens,Homo sapiens,True,286
+OL352717,IGKV1-9*02,V-REGION,Homo sapiens,Homo sapiens,True,287
+IMGT000129,IGHV2-70*05,V-REGION,Homo sapiens,Homo sapiens,True,301
+X63395,IGKV2D-18*01,V-REGION,Homo sapiens,Homo sapiens,True,302
+OL352713,IGLV(V)-58*03,V-REGION,Homo sapiens,Homo sapiens,True,307
+X02884,TRAJ3*01,J-REGION,Homo sapiens,Homo sapiens,True,62
+Z00014,IGKV1-8*01,V-REGION,Homo sapiens,Homo sapiens,True,287
+IMGT000207,IGHG4A*03,CH3-CHS,Homo sapiens,Homo sapiens,True,320
+J00230,IGHG2*01,H,Homo sapiens,Canis lupus familiaris,False,36
+BK075132,TRBV6-8*02,V-REGION,Homo sapiens,Gorilla gorilla gorilla,False,284
+BK068299,IGHG3*14,CH3-CHS,Homo sapiens,Homo sapiens,True,321
+IMGT000273,IGKV2D-26*04,V-REGION,Homo sapiens,Homo sapiens,True,302
+X51883,IGKV2/OR2-4*01,V-REGION,Homo sapiens,Macaca mulatta,False,304
+Y08831,IGLV8/OR8-1*01,V-REGION,Homo sapiens,Macaca mulatta,False,300
+J00256,IGHJ1P*01,J-REGION,Homo sapiens,Homo sapiens,True,54
+D86996,IGLV(I)-56*01,V-REGION,Homo sapiens,Pongo abelii,False,296
+X70305,TRAV20*04,V-REGION,Homo sapiens,Homo sapiens,True,267
+J00228,IGHG1*01,H,Homo sapiens,Pongo abelii,False,45
+M17657,TRAV12-1*02,V-REGION,Homo sapiens,Homo sapiens,True,274
+U07975,TRBV4-2*01,V-REGION,Homo sapiens,Homo sapiens,True,287
+D87010,IGLV1-40*01,V-REGION,Homo sapiens,Homo sapiens,True,299
+BK063711,IGHJ1*01,J-REGION,Lemur catta,Sus scrofa,False,45
+BK068301,IGLJ2*01,J-REGION,Lemur catta,Lemur catta,True,38
+BK063711,IGHV3-40*01,V-REGION,Lemur catta,Lemur catta,True,302
+BK068301,IGLV3-54*01,V-REGION,Lemur catta,Lemur catta,True,285
+BK063711,IGHD2-1*01,D-REGION,Lemur catta,Oncorhynchus mykiss,False,31
+BK068301,IGLV10-109*01,V-REGION,Lemur catta,Lemur catta,True,294
+BK068301,IGLC10*01,C-REGION,Lemur catta,Lemur catta,True,318
+BK063711,IGHV3-54*01,V-REGION,Lemur catta,Lemur catta,True,296
+BK063711,IGHV4-35*01,V-REGION,Lemur catta,Lemur catta,True,296
+BK068301,IGLV6-110*01,V-REGION,Lemur catta,Lemur catta,True,299
+BK068301,IGLV1-95*01,V-REGION,Lemur catta,Lemur catta,True,298
+BK068301,IGLV1-146*01,V-REGION,Lemur catta,Lemur catta,True,283
+BK068301,IGLV3-66*01,V-REGION,Lemur catta,Lemur catta,True,288
+BK068301,IGLV5-131*01,V-REGION,Lemur catta,Lemur catta,True,312
+IMGT000119,IGKV(II)-7*03,V-REGION,Lemur catta,Lemur catta,True,288
+BK063711,IGHV3-67*01,V-REGION,Lemur catta,Lemur catta,True,302
+BK068301,IGLV(I)-70*01,V-REGION,Lemur catta,Danio rerio,False,296
+BK068301,IGLV3-34*01,V-REGION,Lemur catta,Lemur catta,True,285
+BK068301,IGLV4-112*01,V-REGION,Lemur catta,Lemur catta,True,314
+BK063711,IGHV4-73*01,V-REGION,Lemur catta,Lemur catta,True,295
+BK068301,IGLV(IV)-157*01,V-REGION,Lemur catta,Lemur catta,True,306
+BK068301,IGLV3-62*01,V-REGION,Lemur catta,Lemur catta,True,288
+BK068301,IGLJ10*01,J-REGION,Lemur catta,Lemur catta,True,38
+BK068301,IGLV3-43*01,V-REGION,Lemur catta,Lemur catta,True,299
+IMGT000101,IGKV2-12*02,V-REGION,Lemur catta,Lemur catta,True,302
+BK068301,IGLV(III)-72*01,V-REGION,Lemur catta,Ctenopharyngodon idella,False,156
+BK068301,IGLV2-40*01,V-REGION,Lemur catta,Lemur catta,True,297
+BK063711,IGHE*01,CH4-CHS,Lemur catta,Mustela putorius furo,False,336
+BK068301,IGLV5-82*01,V-REGION,Lemur catta,Lemur catta,True,312
+IMGT000120,IGKV2-10*03,V-REGION,Lemur catta,Lemur catta,True,302
+BK068301,IGLV3-9*01,V-REGION,Lemur catta,Lemur catta,True,290
+BK063598,IGKC*01,C-REGION,Lemur catta,Lemur catta,True,321
+IMGT000101,IGKV2-11*02,V-REGION,Lemur catta,Lemur catta,True,300
+BK008951,IGHV1S7*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,300
+BK008930,IGHV3S19*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+BK008954,IGHV7S7*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+BK009052,IGHV3S13*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+JQ868729,IGHG2*02,CH2,Macaca fascicularis,Macaca mulatta,False,327
+BK009012,IGHV5-1*01,V-REGION,Macaca fascicularis,Pongo abelii,False,294
+IMGT000075,TRBV7-4*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,290
+IMGT000075,TRBV11-1*01,V-REGION,Macaca fascicularis,Homo sapiens,False,290
+BK008911,IGHV4S5*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+IMGT000075,TRBV5-9*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,286
+BK009022,IGHV1-1*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+BK008975,IGHV3S29*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+BK009047,IGHV3-20*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,302
+BK008987,IGHV3S35*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+BK008999,IGHV(II)S14*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+BK008969,IGHV1S11*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,295
+BK009031,IGHV1S1*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+BK008935,IGHV7S1*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,296
+X53705,IGHA*01,H-CH2,Macaca fascicularis,Macaca mulatta,False,327
+BK008973,IGHV(III)S8*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,258
+BK009038,IGHV(II)S5*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,290
+BK009044,IGHV3S11*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,302
+IMGT000075,TRBV12-3*01,V-REGION,Macaca fascicularis,Macaca mulatta,False,290
+SBKD01011378,IGHV3-117-1*01,V-REGION,Macaca mulatta,Macaca mulatta,True,302
+SBKD01011504,IGHV4-192*05,V-REGION,Macaca mulatta,Macaca mulatta,True,313
+IMGT000076,TRAV13-2*02,V-REGION,Macaca mulatta,Gorilla gorilla gorilla,False,280
+NW_001122023,IGHV(III)-129*02,V-REGION,Macaca mulatta,Macaca mulatta,True,294
+IMGT000013,TRAC*01,EX2,Macaca mulatta,Pongo abelii,False,45
+NW_001122023,IGHV(II)-52*02,V-REGION,Macaca mulatta,Macaca mulatta,True,285
+BK063716,IGKV3-88*01,V-REGION,Macaca mulatta,Macaca mulatta,True,276
+IMGT000076,TRAJ44*02,J-REGION,Macaca mulatta,Gorilla gorilla gorilla,False,63
+NW_001095158,IGLC5*01,C-REGION,Macaca mulatta,Pongo pygmaeus,False,315
+IMGT000013,TRAJ26*01,J-REGION,Macaca mulatta,Macaca mulatta,True,60
+DQ437803,IGHV3S62*01,V-REGION,Macaca mulatta,Macaca mulatta,True,302
+SBKD01000916,IGHV3-30*04,V-REGION,Macaca mulatta,Macaca mulatta,True,298
+NW_001099007,IGKV2-30*02,V-REGION,Macaca mulatta,Gorilla gorilla gorilla,False,301
+BK063716,IGKV1-80*01,V-REGION,Macaca mulatta,Homo sapiens,False,287
+L43137,TRBJ1-1*01,J-REGION,Macaca mulatta,Gorilla gorilla gorilla,False,48
+SBKD01011378,IGHV3-132*03,V-REGION,Macaca mulatta,Macaca mulatta,True,292
+MT542363,IGHV1-198*05,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+SBKD01011378,IGHV7-94*03,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+NW_001095158,IGLV3-15*02,V-REGION,Macaca mulatta,Macaca mulatta,True,290
+BK063716,IGKV2-34*01,V-REGION,Macaca mulatta,Homo sapiens,False,302
+IMGT000013,TRAV1-2*01,V-REGION,Macaca mulatta,Ovis aries,False,275
+IMGT000012,TRBV5-9*02,V-REGION,Macaca mulatta,Macaca mulatta,True,286
+BK063715,IGHV(III)-63*01,V-REGION,Macaca mulatta,Macaca mulatta,True,294
+IMGT000013,TRAV33*01,V-REGION,Macaca mulatta,Macaca mulatta,True,283
+NW_001121239,IGHV(II)-2*02,V-REGION,Macaca mulatta,Macaca mulatta,True,237
+AM056021,IGLV5-79*02,V-REGION,Macaca mulatta,Macaca mulatta,True,311
+SBKD01000511,IGHG4*07,M1,Macaca mulatta,Gorilla gorilla gorilla,False,131
+BK063715,IGHD3-22*01,D-REGION,Macaca mulatta,Homo sapiens,False,22
+IMGT000073,TRBV5-1*03,V-REGION,Macaca mulatta,Macaca mulatta,True,286
+IMGT000076,TRDV2*02,V-REGION,Macaca mulatta,Homo sapiens,False,288
+BK063717,IGLV1-109*01,V-REGION,Macaca mulatta,Homo sapiens,False,278
+SBKD01011378,IGHV(III)-112*03,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+BK063715,IGHV3-72*01,V-REGION,Macaca mulatta,Homo sapiens,False,293
+BK063715,IGHV(II)-45*01,V-REGION,Macaca mulatta,Macaca mulatta,True,289
+NW_001095158,IGLJ3*01,J-REGION,Macaca mulatta,Macaca mulatta,True,38
+SBKD01000511,IGHM*05,CH3,Macaca mulatta,Pongo abelii,False,317
+NW_001122023,IGHV(II)-31*02,V-REGION,Macaca mulatta,Macaca mulatta,True,298
+IMGT000099,IGHV1S20*01,V-REGION,Macaca mulatta,Pongo abelii,False,296
+NW_001121238,IGHG1*01,M1,Macaca mulatta,Macaca mulatta,True,132
+IMGT000059,TRGVA*01,V-REGION,Macaca mulatta,Pongo pygmaeus,False,288
+BK063716,IGKV1-52*01,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+IMGT000073,TRBV2-3*02,V-REGION,Macaca mulatta,Pongo abelii,False,290
+BK063715,IGHV3-119*01,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+IMGT000012,TRBV8-1*02,V-REGION,Macaca mulatta,Macaca fascicularis,False,279
+BK063717,IGLV2-11*01,V-REGION,Macaca mulatta,Macaca mulatta,True,297
+IMGT000012,TRBV6-2-1*01,V-REGION,Macaca mulatta,Macaca fascicularis,False,254
+SBKD01011539,IGHV3-41*04,V-REGION,Macaca mulatta,Macaca mulatta,True,293
+BK063717,IGLV1-65*01,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+BK063715,IGHV3-39*01,V-REGION,Macaca mulatta,Macaca mulatta,True,303
+NW_001121239,IGHV3-12*02,V-REGION,Macaca mulatta,Macaca mulatta,True,290
+BK063717,IGLC2*02,C-REGION,Macaca mulatta,Homo sapiens,False,318
+NW_001114291,TRBV10-3*01,V-REGION,Macaca mulatta,Macaca fascicularis,False,287
+IMGT000076,TRAV32*02,V-REGION,Macaca mulatta,Heterocephalus glaber,False,275
+SBKD01011377,IGHV3S3*02,V-REGION,Macaca mulatta,Macaca mulatta,True,303
+BK063715,IGHV(III)-42*01,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+AY292508,IGHG3*03,CH3,Macaca mulatta,Macaca mulatta,True,273
+SBKD01000728,IGHV7-128*03,V-REGION,Macaca mulatta,Macaca mulatta,True,292
+SBKD01000511,IGHM*05,CH1,Macaca mulatta,Macaca mulatta,True,315
+BK063716,IGKV2-75*01,V-REGION,Macaca mulatta,Homo sapiens,False,302
+IMGT000013,TRAJ15*01,J-REGION,Macaca mulatta,Ovis aries,False,60
+SBKD01000813,IGHV3-183*04,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+SBKD01011376,IGHV(III)-171*03,V-REGION,Macaca mulatta,Macaca mulatta,True,292
+NW_001122023,IGHV3-48*02,V-REGION,Macaca mulatta,Macaca mulatta,True,298
+BK063715,IGHV3-132*01,V-REGION,Macaca mulatta,Macaca mulatta,True,293
+AY039249,IGHA*05,H-CH2,Macaca mulatta,Macaca mulatta,True,333
+NW_001114291,TRBV26*01,V-REGION,Macaca mulatta,Homo sapiens,False,286
+IMGT000013,TRAV27*01,V-REGION,Macaca mulatta,Ovis aries,False,274
+SBKD01011378,IGHV4-93*05,V-REGION,Macaca mulatta,Macaca mulatta,True,289
+IMGT000013,TRAJ9*01,J-REGION,Macaca mulatta,Danio rerio,False,61
+BK063715,IGHV3-184*01,V-REGION,Macaca mulatta,Macaca mulatta,True,302
+IMGT000013,TRAJ16*01,J-REGION,Macaca mulatta,Homo sapiens,False,60
+AF173931,IGHV3-157*03,V-REGION,Macaca mulatta,Macaca mulatta,True,294
+BK063716,IGKV1-46*01,V-REGION,Macaca mulatta,Homo sapiens,False,287
+BK063715,IGHM*03,M1,Macaca mulatta,Homo sapiens,False,117
+IMGT000013,TRAJ5*01,J-REGION,Macaca mulatta,Mustela putorius furo,False,60
+NW_001099007,IGKV2-13-2*01,V-REGION,Macaca mulatta,Pongo abelii,False,306
+BK063717,IGLV1-101*01,V-REGION,Macaca mulatta,Macaca mulatta,True,297
+AY963772,IGKV3S11*01,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+BK063717,IGLV4-9*01,V-REGION,Macaca mulatta,Macaca mulatta,True,314
+BK063715,IGHV3-100*01,V-REGION,Macaca mulatta,Gorilla gorilla gorilla,False,296
+IMGT000013,TRAJ37*01,J-REGION,Macaca mulatta,Mus musculus,False,62
+IMGT000099,IGHV(II)-36*03,V-REGION,Macaca mulatta,Macaca mulatta,True,315
+IMGT000076,TRAV25-1*01,V-REGION,Macaca mulatta,Macaca mulatta,True,273
+SBKD01000824,IGHV4-86*03,V-REGION,Macaca mulatta,Macaca mulatta,True,292
+NW_001095158,IGLV5-120*02,V-REGION,Macaca mulatta,Pongo abelii,False,317
+IMGT000076,TRAV25*02,V-REGION,Macaca mulatta,Homo sapiens,False,273
+SBKD01000728,IGHV(II)-167*03,V-REGION,Macaca mulatta,Macaca mulatta,True,276
+BK063717,IGLC2A*01,C-REGION,Macaca mulatta,Macaca mulatta,True,318
+IMGT000099,IGHV1-121*03,V-REGION,Macaca mulatta,Macaca mulatta,True,288
+BK063715,IGHV5-189*01,V-REGION,Macaca mulatta,Homo sapiens,False,294
+AM056004,IGLV4S1*01,V-REGION,Macaca mulatta,Homo sapiens,False,299
+BK063715,IGHV5-20*01,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+MT542452,IGHV3S64*01,V-REGION,Macaca mulatta,Gorilla gorilla gorilla,False,296
+NW_001121239,IGHV5-20*02,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+SBKD01000813,IGHV4-192*04,V-REGION,Macaca mulatta,Macaca mulatta,True,313
+BK063715,IGHV(III)-97*01,V-REGION,Macaca mulatta,Macaca mulatta,True,176
+BK063716,IGKV1-22*01,V-REGION,Macaca mulatta,Homo sapiens,False,287
+IMGT000099,IGHV4-92*03,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+SBKD01011512,IGHV(III)-63*05,V-REGION,Macaca mulatta,Macaca mulatta,True,293
+NW_001099007,IGKV1-44*02,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+BK063716,IGKV1-6*01,V-REGION,Macaca mulatta,Homo sapiens,False,287
+AY294623,IGHA*20,CH1,Macaca mulatta,Macaca mulatta,True,164
+IMGT000073,TRBV13*02,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+IMGT000013,TRDJ3*01,J-REGION,Macaca mulatta,Pan troglodytes,False,59
+BK063716,IGKV1-38*01,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+IMGT000076,TRAV11-2*01,V-REGION,Macaca mulatta,Macaca mulatta,True,277
+IMGT000013,TRAV39*01,V-REGION,Macaca mulatta,Pongo abelii,False,277
+IMGT000099,IGHV3-117*02,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+IMGT000099,IGHV3-175*03,V-REGION,Macaca mulatta,Macaca mulatta,True,290
+MT542461,IGHV3-116*04,V-REGION,Macaca mulatta,Macaca mulatta,True,302
+NW_001114291,TRBV10-1*01,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+NW_001114291,TRBV11-3*01,V-REGION,Macaca mulatta,Homo sapiens,False,290
+IMGT000073,TRBV4-1*02,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+BK063715,IGHA*22,M,Macaca mulatta,Gorilla gorilla gorilla,False,213
+IMGT000013,TRAV35*01,V-REGION,Macaca mulatta,Macaca mulatta,True,276
+SBKD01000511,IGHD*05,H1,Macaca mulatta,Macaca fascicularis,False,102
+IMGT000099,IGHD2-21*02,D-REGION,Macaca mulatta,Macaca mulatta,True,31
+BK063716,IGKV2-100*01,V-REGION,Macaca mulatta,Macaca mulatta,True,298
+IMGT000076,TRAV40*02,V-REGION,Macaca mulatta,Heterocephalus glaber,False,263
+AM056018,IGLV3-18*03,V-REGION,Macaca mulatta,Macaca mulatta,True,288
+IMGT000059,TRGVB*01,V-REGION,Macaca mulatta,Heterocephalus glaber,False,311
+BK063715,IGHV(II)-52*01,V-REGION,Macaca mulatta,Macaca mulatta,True,281
+IMGT000012,TRBV7-2*01,V-REGION,Macaca mulatta,Pongo abelii,False,289
+BK063715,IGHV(II)-145*01,V-REGION,Macaca mulatta,Macaca mulatta,True,275
+SBKD01000824,IGHV4-76*03,V-REGION,Macaca mulatta,Macaca mulatta,True,298
+IMGT000013,TRAJ17*01,J-REGION,Macaca mulatta,Danio rerio,False,63
+BK063715,IGHV3-118*01,V-REGION,Macaca mulatta,Macaca mulatta,True,302
+BK063717,IGLV(I)-107*01,V-REGION,Macaca mulatta,Macaca mulatta,True,122
+NW_001099007,IGKV3-42*02,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+IMGT000013,TRAV11-3*01,V-REGION,Macaca mulatta,Pan troglodytes,False,277
+IMGT000013,TRAJ42*01,J-REGION,Macaca mulatta,Danio rerio,False,66
+NW_001095158,IGLV(I)-52*02,V-REGION,Macaca mulatta,Pongo pygmaeus,False,290
+BK063717,IGLV(I)-75*01,V-REGION,Macaca mulatta,Macaca mulatta,True,244
+IMGT000099,IGHV2-5-1*01,V-REGION,Macaca mulatta,Macaca mulatta,True,301
+IMGT000099,IGHV1S22*01,V-REGION,Macaca mulatta,Macaca mulatta,True,295
+MT542464,IGHV3-13*04,V-REGION,Macaca mulatta,Macaca mulatta,True,300
+IMGT000076,TRDV1-1*01,V-REGION,Macaca mulatta,Pan troglodytes,False,287
+BK063715,IGHV3-41*01,V-REGION,Macaca mulatta,Macaca mulatta,True,292
+NW_001122023,IGHV7S6*01,V-REGION,Macaca mulatta,Macaca mulatta,True,295
+L43138,TRBJ2-2P*01,J-REGION,Macaca mulatta,Oncorhynchus mykiss,False,46
+IMGT000099,IGHV4-76*02,V-REGION,Macaca mulatta,Macaca mulatta,True,299
+SBKD01011540,IGHV3-59*04,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+BK063715,IGHV3-30*01,V-REGION,Macaca mulatta,Macaca mulatta,True,302
+AY292523,IGHG4*03,CH3-CHS,Macaca mulatta,Macaca mulatta,True,273
+AY963728,IGKV1-43*03,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+DQ437793,IGHV3S4*02,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+AM056014,IGLV1-122*04,V-REGION,Macaca mulatta,Macaca mulatta,True,299
+MT542346,IGHV4S22*02,V-REGION,Macaca mulatta,Macaca mulatta,True,293
+NW_001099007,IGKV2-51*02,V-REGION,Macaca mulatta,Macaca mulatta,True,303
+DQ437845,IGHV4S10*03,V-REGION,Macaca mulatta,Macaca mulatta,True,300
+BK063715,IGHV1-121*01,V-REGION,Macaca mulatta,Macaca mulatta,True,288
+MT542434,IGHV1-138*04,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+IMGT000073,TRBV19*02,V-REGION,Macaca mulatta,Homo sapiens,False,287
+IMGT000099,IGHV4-160*02,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+IMGT000099,IGHV4-57*03,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+BK063715,IGHV(II)-26*01,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+BK063715,IGHV3-191*01,V-REGION,Macaca mulatta,Macaca mulatta,True,297
+IMGT000099,IGHV3S51*01,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+NW_001121240,IGHV5-189*02,V-REGION,Macaca mulatta,Homo sapiens,False,294
+BK063716,IGKV2-30*01,V-REGION,Macaca mulatta,Gorilla gorilla gorilla,False,301
+SBKD01000862,IGHV3-7*02,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+SBKD01000511,IGHD1-20*02,D-REGION,Macaca mulatta,Macaca mulatta,True,17
+BK063715,IGHV(II)-123*01,V-REGION,Macaca mulatta,Macaca mulatta,True,149
+NW_001095158,IGLV5-74*02,V-REGION,Macaca mulatta,Macaca mulatta,True,312
+AY292525,IGHG4*04,CH2,Macaca mulatta,Macaca mulatta,True,330
+AY963720,IGKV1S12*01,V-REGION,Macaca mulatta,Macaca mulatta,True,287
+AY963757,IGKV2-82*02,V-REGION,Macaca mulatta,Macaca mulatta,True,302
+AM055981,IGLV2-19*03,V-REGION,Macaca mulatta,Macaca mulatta,True,297
+MT542404,IGHV4-106*05,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+NW_001099007,IGKV2-23*02,V-REGION,Macaca mulatta,Macaca mulatta,True,272
+BK063715,IGHV3-183*01,V-REGION,Macaca mulatta,Macaca mulatta,True,296
+IMGT000059,TRGC2*01,EX1,Macaca mulatta,Mus musculus,False,330
+DQ437801,IGHV3-35*04,V-REGION,Macaca mulatta,Macaca mulatta,True,293
+IMGT000099,IGHD5-30*02,D-REGION,Macaca mulatta,Macaca mulatta,True,24
+NW_001095158,IGLJ4*01,J-REGION,Macaca mulatta,Homo sapiens,False,38
+JQ868734,IGHG3*01,CH1,Macaca nemestrina,Macaca mulatta,False,294
+IMGT000234,IGHM*01,CH4-CHS,Mesocricetus auratus,Mus musculus,False,393
+IMGT000234,IGHG3*01,H,Mesocricetus auratus,Homo sapiens,False,33
+IMGT000234,IGHE*01,CH1,Mesocricetus auratus,Canis lupus familiaris,False,279
+IMGT000234,IGHG2*01,H,Mesocricetus auratus,Vicugna pacos,False,48
+IMGT000234,IGHD*01,CH1,Mesocricetus auratus,Ovis aries,False,291
+IMGT000234,IGHG3*01,M2,Mesocricetus auratus,Oncorhynchus mykiss,False,81
+S92301,TRBC2*01,EX4,Mus minutoides,Sus scrofa,False,18
+K00606,IGHV1S18*01,V-REGION,Mus musculus,Mus musculus,True,294
+AC163348,IGHV1-70*01,V-REGION,Mus musculus,Mus musculus,True,294
+AJ851868,IGHV5-11-2*01,V-REGION,Mus musculus,Mus musculus,True,294
+X16998,IGHG2C*02,CH2,Mus musculus,Mus musculus,True,330
+M34979,IGHV1S49*01,V-REGION,Mus musculus,Mus musculus,True,294
+M20774,IGHV1S46*01,V-REGION,Mus musculus,Mus musculus,True,295
+BK063713,IGHV1-18-7*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063714,IGHV1-18-39*01,V-REGION,Mus musculus,Mus musculus,True,294
+AC074329,IGHV1-54*01,V-REGION,Mus musculus,Mus musculus,True,294
+AJ231261,IGKV2-95-1*01,V-REGION,Mus musculus,Mus musculus,True,174
+AC079273,IGHV7-2*01,V-REGION,Mus musculus,Mus musculus,True,306
+V00763,IGHG2B*01,CH1,Mus musculus,Mus musculus,True,291
+AC073563,IGHV9-1*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063713,IGHV1-44*02,V-REGION,Mus musculus,Mus musculus,True,295
+AC003995,TRAV5-4*01,V-REGION,Mus musculus,Mus musculus,True,280
+AF259071,TRAV3-1*01,V-REGION,Mus musculus,Mus musculus,True,280
+BK063714,IGHV8-4-14*01,V-REGION,Mus musculus,Mus musculus,True,301
+BK063713,IGHV1-69-3*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063714,IGHV1-47-46*01,V-REGION,Mus musculus,Mus musculus,True,294
+AC090843,IGHV15-2*01,V-REGION,Mus musculus,Mus musculus,True,297
+AC073589,IGHV7-4*01,V-REGION,Mus musculus,Mus musculus,True,306
+M34216,TRAV13D-1*03,V-REGION,Mus musculus,Mus musculus,True,175
+AJ231212,IGKV4-78*01,V-REGION,Mus musculus,Mus musculus,True,292
+BK063713,IGHV1-69-9*01,V-REGION,Mus musculus,Mus musculus,True,294
+D29794,TRGV7*01,V-REGION,Mus musculus,Heterocephalus glaber,False,296
+BK063714,IGHV1-47-31*01,V-REGION,Mus musculus,Mus musculus,True,288
+AC074329,IGHV8-5*01,V-REGION,Mus musculus,Mus musculus,True,301
+BK063714,IGHV9-2-3*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063713,IGHV1-18-6*01,V-REGION,Mus musculus,Mus musculus,True,294
+J00471,IGHG2A*01,M2,Mus musculus,Mus musculus,True,81
+X01018,TRBJ1-2*01,J-REGION,Mus musculus,Mus musculus,True,48
+X67408,IGHV5-6-2*02,V-REGION,Mus musculus,Mus musculus,True,261
+AF037352,TRGV7*02,V-REGION,Mus musculus,Heterocephalus glaber,False,296
+BK063713,IGHV8-4-10*01,V-REGION,Mus musculus,Mus musculus,True,299
+U90513,TRAV6-6*03,V-REGION,Mus musculus,Mus musculus,True,282
+X03398,IGHV6-3*03,V-REGION,Mus musculus,Mus musculus,True,300
+BK063714,IGHV8-4-25*01,V-REGION,Mus musculus,Mus musculus,True,301
+BK063713,IGHV1-71-3*01,V-REGION,Mus musculus,Mus musculus,True,294
+AC005855,TRAV16D/DV11*01,V-REGION,Mus musculus,Mus musculus,True,290
+U07875,TRAV14D-3/DV8*06,V-REGION,Mus musculus,Mus musculus,True,279
+AC090843,IGHV1-17-1*01,V-REGION,Mus musculus,Mus musculus,True,294
+AC122813,TRAV7-2*02,V-REGION,Mus musculus,Mus musculus,True,277
+IMGT000132,TRBC1*01,EX1,Mus musculus,Mus spretus,False,375
+Z15020,IGHV9-1*04,V-REGION,Mus musculus,Mus musculus,True,280
+V00787,IGHD*01,H,Mus musculus,Macaca mulatta,False,105
+AF064444,IGHV10-3*03,V-REGION,Mus musculus,Mus musculus,True,302
+AC073565,IGHV1-27*01,V-REGION,Mus musculus,Mus musculus,True,294
+M15614,TRBV12-1*01,V-REGION,Mus musculus,Mus musculus,True,285
+AC074329,IGHV1-50*01,V-REGION,Mus musculus,Mus musculus,True,294
+M64239,TRAJ34*02,J-REGION,Mus musculus,Danio rerio,False,58
+AJ132681,IGKV13-57-1*01,V-REGION,Mus musculus,Mus musculus,True,250
+BK063714,IGHV8-4-11*01,V-REGION,Mus musculus,Mus musculus,True,297
+L26857,IGHV1-74*02,V-REGION,Mus musculus,Mus musculus,True,252
+AJ231224,IGKV4-90*01,V-REGION,Mus musculus,Rattus norvegicus,False,285
+BK063714,IGHV6-7*03,V-REGION,Mus musculus,Mus musculus,True,300
+AC079181,IGHV1-38*01,V-REGION,Mus musculus,Mus musculus,True,293
+AJ235945,IGKV8-26*01,V-REGION,Mus musculus,Rattus norvegicus,False,311
+IMGT000082,TRAJ26*01,J-REGION,Mus musculus,Canis lupus familiaris,False,60
+IMGT000082,TRAV9D-1*03,V-REGION,Mus musculus,Mus musculus,True,283
+IMGT000082,TRAV14-3*04,V-REGION,Mus musculus,Mus musculus,True,280
+S65298,IGKV19-93*02,V-REGION,Mus musculus,Mus musculus,True,287
+M34985,IGHV1S55*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063713,IGHV1-18-33*01,V-REGION,Mus musculus,Mus musculus,True,285
+IMGT000082,TRAV6-7/DV9*04,V-REGION,Mus musculus,Mus musculus,True,281
+AE000664,TRBV24*02,V-REGION,Mus musculus,Mus musculus,True,290
+BK063713,IGHD*03,CH3,Mus musculus,Mus musculus,True,321
+AC122813,TRAV6-3*02,V-REGION,Mus musculus,Mus musculus,True,281
+AC160990,IGHV1-85*01,V-REGION,Mus musculus,Mus musculus,True,294
+V00762,IGHJ1*01,J-REGION,Mus musculus,Mus musculus,True,53
+AY158218,TRAV11*02,V-REGION,Mus musculus,Mus musculus,True,280
+M64239,TRAJ42*01,J-REGION,Mus musculus,Bos taurus,False,64
+BK063714,IGHV1-18-50*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063714,IGHV14-3-1*01,V-REGION,Mus musculus,Mus musculus,True,294
+M17950,IGHV1-20*02,V-REGION,Mus musculus,Mus musculus,True,294
+AE000664,TRBV15*01,V-REGION,Mus musculus,Felis catus,False,290
+M61184,TRBV24*01,V-REGION,Mus musculus,Mus musculus,True,290
+AJ972404,IGHV6-6*02,V-REGION,Mus musculus,Mus musculus,True,300
+AJ249823,TRBV13-2*04,V-REGION,Mus musculus,Mus musculus,True,280
+BK063714,IGHV12-1-6*01,V-REGION,Mus musculus,Mus musculus,True,304
+AJ851868,IGHV2-3-1*01,V-REGION,Mus musculus,Mus musculus,True,293
+AE000663,TRBV13-1*02,V-REGION,Mus musculus,Mus musculus,True,286
+BK063714,IGHV5-1-1*01,V-REGION,Mus musculus,Mus musculus,True,301
+BK063712,IGHD5-1-1*01,D-REGION,Mus musculus,Rattus norvegicus,False,10
+BK063713,IGHV1-71-13*01,V-REGION,Mus musculus,Mus musculus,True,293
+X03255,IGHV7-4*04,V-REGION,Mus musculus,Mus musculus,True,306
+AC073939,IGHV1-67*01,V-REGION,Mus musculus,Mus musculus,True,294
+Z22847,TRGV1*07,V-REGION,Mus musculus,Mus musculus,True,291
+M64239,TRAJ2*01,J-REGION,Mus musculus,Tursiops truncatus,False,66
+X03761,TRAJ9*01,J-REGION,Mus musculus,Mus musculus,True,58
+X55823,TRAJ43*02,J-REGION,Mus musculus,Canis lupus familiaris,False,57
+BK063713,IGHV1-47-15*01,V-REGION,Mus musculus,Rattus norvegicus,False,268
+AC122813,TRAV15N-3*01,V-REGION,Mus musculus,Mus musculus,True,168
+AJ231263,IGKV2-137*01,V-REGION,Mus musculus,Macaca mulatta,False,302
+L02340,TRGC4*01,EX2A,Mus musculus,Oryctolagus cuniculus,False,54
+AC073561,IGHV10-4*01,V-REGION,Mus musculus,Mus musculus,True,306
+BK063713,IGHV1-18-27*01,V-REGION,Mus musculus,Mus musculus,True,291
+AC073590,IGHV1-1*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063714,IGHV10-4*03,V-REGION,Mus musculus,Mus musculus,True,298
+BK063714,IGHV10-1-7*01,V-REGION,Mus musculus,Mus musculus,True,281
+J00475,IGHA*01,CH1,Mus musculus,Mus musculus,True,303
+AC073561,IGHV1-3*01,V-REGION,Mus musculus,Mus musculus,True,296
+IMGT000082,TRAJ12*02,J-REGION,Mus musculus,Mus musculus,True,58
+M34982,IGHV1S52*01,V-REGION,Mus musculus,Mus musculus,True,294
+AJ851868,IGHV5-8-2*01,V-REGION,Mus musculus,Mus musculus,True,292
+BK063714,IGHV1-18-66*01,V-REGION,Mus musculus,Mus musculus,True,294
+L33950,IGHV1S101*02,V-REGION,Mus musculus,Mus musculus,True,253
+AC073939,IGHV8-10*01,V-REGION,Mus musculus,Mus musculus,True,301
+BK063713,IGHV8-4-4*01,V-REGION,Mus musculus,Mus musculus,True,301
+AJ851868,IGHV(II)-2*01,V-REGION,Mus musculus,Mus musculus,True,290
+BK063714,IGHV1-18-47*01,V-REGION,Mus musculus,Mus musculus,True,294
+U21399,TRAV12-3*04,V-REGION,Mus musculus,Mus musculus,True,258
+AC005402,TRAV3D-3*01,V-REGION,Mus musculus,Mus musculus,True,280
+L26925,IGHV1S87*01,V-REGION,Mus musculus,Mus musculus,True,252
+AC073565,IGHV1-23*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063713,IGHV8-13-5*01,V-REGION,Mus musculus,Rattus norvegicus,False,269
+U21448,TRAV6-6*02,V-REGION,Mus musculus,Mus musculus,True,261
+BK063713,IGHV1-18-29*01,V-REGION,Mus musculus,Mus musculus,True,285
+L17134,IGHV1-34*02,V-REGION,Mus musculus,Mus musculus,True,294
+S73821,IGHJ2*02,J-REGION,Mus musculus,Mus musculus,True,48
+U23021,IGHV8S6*01,V-REGION,Mus musculus,Mus musculus,True,285
+IMGT000068,IGKV13-68-1*01,V-REGION,Mus musculus,Mus musculus,True,283
+BK063714,IGHV10-1*03,V-REGION,Mus musculus,Mus musculus,True,302
+BK063714,IGHV1-47-29*01,V-REGION,Mus musculus,Mus musculus,True,294
+X58416,IGLC4*01,C-REGION,Mus musculus,Mus spretus,False,310
+BK063713,IGHV1-18-25*01,V-REGION,Mus musculus,Mus musculus,True,294
+AF428080,IGHD2-13*01,D-REGION,Mus musculus,Mus musculus,True,17
+X55823,TRAV6D-7*03,V-REGION,Mus musculus,Mus musculus,True,199
+M54903,IGKV10-96*03,V-REGION,Mus musculus,Mus musculus,True,287
+V01564,IGKV5-48*01,V-REGION,Mus musculus,Mus musculus,True,287
+AJ231213,IGKV4-80*01,V-REGION,Mus musculus,Mus musculus,True,282
+M64239,TRAJ61*01,J-REGION,Mus musculus,Canis lupus familiaris,False,72
+AC073561,IGHV6-5*01,V-REGION,Mus musculus,Mus musculus,True,300
+IMGT000082,TRAV4D-3*06,V-REGION,Mus musculus,Mus musculus,True,271
+AJ235951,IGKV12-38*01,V-REGION,Mus musculus,Rattus norvegicus,False,287
+AC163653,TRAV15D-3*02,V-REGION,Mus musculus,Mus musculus,True,171
+BK063714,IGHV1-18-86*01,V-REGION,Mus musculus,Mus musculus,True,294
+V00814,IGLC1*02,C-REGION,Mus musculus,Bos taurus,False,137
+D13201,IGHV1S30*02,V-REGION,Mus musculus,Mus musculus,True,285
+AJ972403,IGHV5-21*02,V-REGION,Mus musculus,Mus musculus,True,296
+U23024,IGHV8S9*01,V-REGION,Mus musculus,Mus musculus,True,285
+L26926,IGHV1S88*01,V-REGION,Mus musculus,Mus musculus,True,251
+Y15980,IGKV8-19*01,V-REGION,Mus musculus,Mus musculus,True,305
+K02802,TRBJ2-7*01,J-REGION,Mus musculus,Heterocephalus glaber,False,47
+AC160473,IGHV1-73*01,V-REGION,Mus musculus,Mus musculus,True,295
+BN000872,IGHV(III)-12*01,V-REGION,Mus musculus,Ovis aries,False,303
+AC163653,TRAV13D-4*03,V-REGION,Mus musculus,Mus musculus,True,271
+BK063713,IGHV10-1-2*01,V-REGION,Mus musculus,Mus musculus,True,302
+AJ235962,IGKV6-25*01,V-REGION,Mus musculus,Mus musculus,True,287
+AJ231251,IGKV15-101-1*01,V-REGION,Mus musculus,Rattus norvegicus,False,258
+AJ851868,IGHV5-13*02,V-REGION,Mus musculus,Mus musculus,True,295
+U46079,TRAV10*05,V-REGION,Mus musculus,Mus musculus,True,279
+BK063713,IGHV8-2*02,V-REGION,Mus musculus,Mus musculus,True,300
+BK063712,IGHD*02,CH3,Mus musculus,Mus musculus,True,321
+M16676,TRAV6D-6*03,V-REGION,Mus musculus,Mus musculus,True,284
+M17574,IGHV1S10*02,V-REGION,Mus musculus,Mus musculus,True,294
+AC073565,IGHV1-24*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063713,IGHV8-12*02,V-REGION,Mus musculus,Mus musculus,True,301
+AJ851868,IGHV(II)-5*01,V-REGION,Mus musculus,Salmo salar,False,288
+J00479,IGHG2C*01,CH1,Mus musculus,Mus musculus,True,291
+AJ851868,IGHV2-1*02,V-REGION,Mus musculus,Mus musculus,True,296
+AF259071,TRAV4-1*01,V-REGION,Mus musculus,Mus musculus,True,270
+BK063713,IGHV8-7*02,V-REGION,Mus musculus,Mus musculus,True,301
+BK063714,IGHV1-18-43*01,V-REGION,Mus musculus,Mus musculus,True,294
+BK063714,IGHV(III)-22*02,V-REGION,Mus musculus,Mus musculus,True,288
+J00583,IGLJ3*01,J-REGION,Mus musculus,Mus musculus,True,38
+AC004096,TRAV8-2*01,V-REGION,Mus musculus,Mus musculus,True,277
+AC073590,IGHV3-4*01,V-REGION,Mus musculus,Mus musculus,True,299
+M16122,TRBJ2-7*02,J-REGION,Mus musculus,Mustela putorius furo,False,47
+V00777,IGKJ2*01,J-REGION,Mus musculus,Mus musculus,True,39
+AC087166,IGHV1-62*01,V-REGION,Mus musculus,Mus musculus,True,293
+BK063714,IGHV11-2*03,V-REGION,Mus musculus,Mus musculus,True,296
+IMGT000082,TRAV3-2*02,V-REGION,Mus musculus,Mus musculus,True,271
+AC090843,IGHV1-9*01,V-REGION,Mus musculus,Mus musculus,True,294
+M34597,IGLV3*01,V-REGION,Mus musculus,Gorilla gorilla gorilla,False,313
+AE000663,TRBV2*01,V-REGION,Mus musculus,Bos taurus,False,287
+AJ231260,IGKV2-113*01,V-REGION,Mus musculus,Mus musculus castaneus,False,302
+L26858,IGHV1S67*01,V-REGION,Mus musculus,Mus musculus,True,252
+AJ235958,IGKV8-34*01,V-REGION,Mus musculus,Rattus norvegicus,False,305
+AJ851868,IGHV2-6-6*01,V-REGION,Mus musculus,Mus musculus,True,293
+AJ851868,IGHV14-1*02,V-REGION,Mus musculus,Mus musculus,True,294
+BK063713,IGHA*03,H-CH2,Mus musculus,Mus musculus,True,336
+M64239,TRAJ39*01,J-REGION,Mus musculus,Pan troglodytes,False,63
+BK063713,IGHV1-71-12*01,V-REGION,Mus musculus,Mus musculus,True,294
+AC004407,TRAV7-3*01,V-REGION,Mus musculus,Mus musculus,True,277
+AJ231268,IGKV15-101*01,V-REGION,Mus musculus,Mus musculus,True,287
+BK063713,IGHV8-13-8*01,V-REGION,Mus musculus,Mus musculus,True,301
+AC073563,IGHV11-2*01,V-REGION,Mus musculus,Mus musculus,True,296
+M80408,IGKV2-137*02,V-REGION,Mus musculus castaneus,Mus musculus,False,300
+AF441453,IGKV10-94*04,V-REGION,Mus musculus domesticus,Mus musculus,False,287
+M28600,TRBC1*01,EX4,Mus pahari,Mesocricetus auratus,False,18
+M16628,IGLC4*01,C-REGION,Mus spretus,Mus spretus,True,297
+BK068009,IGLV3-21*01,V-REGION,Mustela putorius furo,Felis catus,False,283
+BK068009,IGLV3-11*01,V-REGION,Mustela putorius furo,Macaca mulatta,False,288
+BK068295,TRBVA*02,V-REGION,Mustela putorius furo,Mustela putorius furo,True,292
+BK068010,IGLV5-101*01,V-REGION,Mustela putorius furo,Homo sapiens,False,325
+BK063797,IGKV3-1*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,287
+BK063796,IGHV3-47*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,288
+BK068537,TRAV13-2*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,280
+BK063796,IGHV3-31*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,293
+BK068537,TRAJ4*01,J-REGION,Mustela putorius furo,Macaca mulatta,False,63
+BK068537,TRAJ9*01,J-REGION,Mustela putorius furo,Danio rerio,False,55
+BK068009,IGLV3-10*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,288
+BK063797,IGKV7-2*01,V-REGION,Mustela putorius furo,Salmo salar,False,305
+BK068537,TRDJ3*01,J-REGION,Mustela putorius furo,Ovis aries,False,59
+BK068537,TRAV9-4*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,281
+BK068011,TRGV2-3*01,V-REGION,Mustela putorius furo,Bos taurus,False,300
+BK068537,TRAV43-14*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,274
+BK063797,IGKV4-64*01,V-REGION,Mustela putorius furo,Lemur catta,False,305
+JAADYL010000592,IGHV3S11*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,296
+BK068297,TRBV5-3*01,V-REGION,Mustela putorius furo,Heterocephalus glaber,False,287
+BK068011,TRGC5*01,EX1,Mustela putorius furo,Mustela putorius furo,True,327
+BK063796,IGHV3-6*01,V-REGION,Mustela putorius furo,Neogale vison,False,297
+BK068009,IGLV2-66*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,296
+BK068537,TRAV36*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,278
+BK068537,TRAV13-1*01,V-REGION,Mustela putorius furo,Bos taurus,False,280
+BK068537,TRAV30*01,V-REGION,Mustela putorius furo,Canis lupus familiaris,False,271
+BK068009,IGLV3-33*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,288
+BK068011,TRGC5A*01,EX2A,Mustela putorius furo,Mustela putorius furo,True,123
+BK068537,TRDJ4*01,J-REGION,Mustela putorius furo,Homo sapiens,False,49
+BK068009,IGLV3-35*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,288
+BK063796,IGHV3-52*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,296
+BK068011,TRGVA*01,V-REGION,Mustela putorius furo,Canis lupus familiaris,False,290
+BK068009,IGLV5-76*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,324
+WXYJ01000365,IGHV3S16*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,295
+BK068297,TRBJ1-4*01,J-REGION,Mustela putorius furo,Heterocephalus glaber,False,50
+BK068297,TRBC1*01,EX4,Mustela putorius furo,Oryctolagus cuniculus,False,18
+BK068537,TRAJ36*01,J-REGION,Mustela putorius furo,Mus musculus,False,61
+BK068537,TRAJ10*01,J-REGION,Mustela putorius furo,Pongo pygmaeus,False,64
+BK068009,IGLV1-82*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,294
+BK063797,IGKV2-36*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,302
+BK068295,TRBV7-1*02,V-REGION,Mustela putorius furo,Mustela putorius furo,True,291
+BK068297,TRBJ2-4*01,J-REGION,Mustela putorius furo,Sus scrofa,False,49
+BK068537,TRAC*01,EX1,Mustela putorius furo,Canis lupus familiaris,False,255
+BK068011,TRGC6*01,EX2B,Mustela putorius furo,Mustela putorius furo,True,48
+BK068537,TRAV14-7*01,V-REGION,Mustela putorius furo,Bos taurus,False,177
+BK063797,IGKV3-51*01,V-REGION,Mustela putorius furo,Lemur catta,False,287
+BK068011,TRGV2-1*01,V-REGION,Mustela putorius furo,Camelus dromedarius,False,300
+BK063797,IGKV1-50*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,287
+BK063796,IGHV3-13*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,296
+BK063796,IGHD*01,CH3,Mustela putorius furo,Bos taurus,False,312
+BK068297,TRBC1*01,EX3,Mustela putorius furo,Canis lupus familiaris,False,108
+WYDY01000212,IGHV3S19*01,V-REGION,Mustela putorius furo,Pongo abelii,False,298
+BK063797,IGKV2-55*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,303
+BK068537,TRAV9-12*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,281
+BK063796,IGHV3-36*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,296
+BK068537,TRAJ47*01,J-REGION,Mustela putorius furo,Tursiops truncatus,False,48
+BK068537,TRAJ13*01,J-REGION,Mustela putorius furo,Felis catus,False,61
+WYDY01000212,IGHV3S40*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,297
+BK063796,IGHV3-45*01,V-REGION,Mustela putorius furo,Macaca mulatta,False,296
+BK068009,IGLV3-7*01,V-REGION,Mustela putorius furo,Felis catus,False,284
+BK063797,IGKV3-58*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,287
+BK068537,TRAJ52*01,J-REGION,Mustela putorius furo,Macaca mulatta,False,69
+BK063796,IGHG4*01,M1,Mustela putorius furo,Felis catus,False,132
+BK068011,TRGJ2-3*01,J-REGION,Mustela putorius furo,Mustela putorius furo,True,62
+BK068537,TRAJ48*01,J-REGION,Mustela putorius furo,Heterocephalus glaber,False,63
+BK068537,TRDV1*01,V-REGION,Mustela putorius furo,Bos taurus,False,289
+BK068537,TRAV13-10*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,276
+BK063797,IGKV2-45*01,V-REGION,Mustela putorius furo,Mustela putorius furo,True,301
+BK068010,IGLV5-89*01,V-REGION,Mustela putorius furo,Macaca mulatta,False,319
+BK063796,IGHE*01,CH4-CHS,Mustela putorius furo,Sus scrofa,False,339
+BK063797,IGKV1-5*01,V-REGION,Mustela putorius furo,Canis lupus familiaris,False,287
+IMGT000109,IGHV3-32*01,V-REGION,Neogale vison,Mustela putorius furo,False,297
+IMGT000109,IGHV3-35*01,V-REGION,Neogale vison,Mustela putorius furo,False,296
+IMGT000109,IGHV3-37*01,V-REGION,Neogale vison,Mustela putorius furo,False,297
+IMGT000109,IGHV3-20*01,V-REGION,Neogale vison,Mustela putorius furo,False,287
+IMGT000109,IGHG4*01,H,Neogale vison,Vicugna pacos,False,48
+IMGT000109,IGHV3-33*01,V-REGION,Neogale vison,Mustela putorius furo,False,296
+IMGT000109,IGHE*01,CH1,Neogale vison,Homo sapiens,False,297
+IMGT000109,IGHJ3*01,J-REGION,Neogale vison,Sus scrofa,False,50
+AF329700,TRBV2S13*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,276
+IMGT000043,IGHD01*01,D-REGION,Oncorhynchus mykiss,Salmo salar,False,33
+IMGT000043,IGHV6-32*01,V-REGION,Oncorhynchus mykiss,Ctenopharyngodon idella,False,277
+IMGT000044,IGHV1D-70*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,298
+IMGT000043,IGHJ4*01,J-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,51
+IMGT000044,IGHV6D-40*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,288
+U97590,TRBJ6*01,J-REGION,Oncorhynchus mykiss,Sus scrofa,False,54
+IMGT000044,IGHMD*01,M1,Oncorhynchus mykiss,Oncorhynchus mykiss,True,138
+IMGT000092,IGHV6-4*02,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,288
+AF329707,TRBV2S19*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,281
+IMGT000043,IGHV6-31-1*01,V-REGION,Oncorhynchus mykiss,Pan troglodytes,False,96
+IMGT000044,IGHD2T1D*01,D-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,15
+IMGT000044,IGHV1D-22*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,271
+IMGT000093,IGHV7D-61*02,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,307
+IMGT000043,IGHV8-5*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,292
+IMGT000043,IGHV6-31-2*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,287
+IMGT000093,IGHV7D-8-8*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,310
+U97590,TRBJ3*01,J-REGION,Oncorhynchus mykiss,Mus musculus,False,51
+IMGT000092,IGHV9-23*02,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,295
+IMGT000093,IGHV4D-8-4*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,295
+IMGT000044,IGHV11D-45-1*01,V-REGION,Oncorhynchus mykiss,Mus musculus,False,160
+AY872256,IGHT2*02,CH4-CHS,Oncorhynchus mykiss,Oncorhynchus mykiss,True,339
+IMGT000093,IGHV1D-8-5*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,299
+IMGT000044,IGHV1D-34-1*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,96
+IMGT000092,IGHV9-15*02,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,295
+IMGT000044,IGHT1D*01,M1,Oncorhynchus mykiss,Oncorhynchus mykiss,True,155
+IMGT000044,IGHV15D-54*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,304
+IMGT000092,IGHV2-27*02,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,296
+IMGT000043,IGHT1*01,CH4-CHS,Oncorhynchus mykiss,Salmo salar,False,339
+IMGT000044,IGHV11D-27-2*01,V-REGION,Oncorhynchus mykiss,Salmo salar,False,290
+IMGT000044,IGHV1D-17*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,291
+IMGT000044,IGHV15D-69*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,304
+IMGT000044,IGHV16D-55*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,302
+IMGT000093,IGHV8D-40-3*01,V-REGION,Oncorhynchus mykiss,Oncorhynchus mykiss,True,292
+NW_001794226,IGHE*01,CH3,Ornithorhynchus anatinus,Mesocricetus auratus,False,321
+NW_001704450,IGHV1S15*01,V-REGION,Ornithorhynchus anatinus,Ornithorhynchus anatinus,True,298
+NW_001794226,IGHO*01,H-CH2,Ornithorhynchus anatinus,Oryctolagus cuniculus,False,369
+NW_001634771,IGHV1S1*01,V-REGION,Ornithorhynchus anatinus,Macaca mulatta,False,691
+NW_001594535,IGHV1-1*01,V-REGION,Ornithorhynchus anatinus,Ornithorhynchus anatinus,True,293
+NW_001594535,IGHV1-28*01,V-REGION,Ornithorhynchus anatinus,Ornithorhynchus anatinus,True,296
+NW_001594535,IGHV1-17*01,V-REGION,Ornithorhynchus anatinus,Ornithorhynchus anatinus,True,296
+NW_001794226,IGHM*01,CH3,Ornithorhynchus anatinus,Equus caballus,False,318
+NW_001794226,IGHG1*01,M1,Ornithorhynchus anatinus,Canis lupus familiaris,False,132
+NW_001794226,IGHJ8*01,J-REGION,Ornithorhynchus anatinus,Oncorhynchus mykiss,False,51
+NW_001705893,IGHG2*01,M1,Ornithorhynchus anatinus,Gorilla gorilla gorilla,False,132
+NW_001794226,IGHD*01,CH8,Ornithorhynchus anatinus,Macaca mulatta,False,306
+EU503149,IGHD*02,CH9,Ornithorhynchus anatinus,Ornithorhynchus anatinus,True,306
+NW_001794226,IGHD*01,CH2,Ornithorhynchus anatinus,Ornithorhynchus anatinus,True,321
+AF090367,IGHA5*02,H-CH2,Oryctolagus cuniculus,Homo sapiens,False,151
+BK064757,TRAV14-1*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,290
+AF135605,IGKV1S31*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,297
+NW_003159316,IGLV4S1*01,V-REGION,Oryctolagus cuniculus,Sus scrofa,False,312
+BK064757,TRAV45-2*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,281
+J00665,IGHG*03,CH2,Oryctolagus cuniculus,Oryctolagus cuniculus,True,219
+AY386696,IGHA5*03,CH1,Oryctolagus cuniculus,Oryctolagus cuniculus,True,303
+AF135637,IGKV1S62*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,305
+X00353,IGHA13*02,CH1,Oryctolagus cuniculus,Oryctolagus cuniculus,True,138
+AF135661,IGKV1S23*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,297
+BK064757,TRAV26*01,V-REGION,Oryctolagus cuniculus,Danio rerio,False,277
+IMGT000032,TRBJ1-2*01,J-REGION,Oryctolagus cuniculus,Sus scrofa,False,48
+AF135654,IGKV1S16*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,305
+AY386695,IGHD7-1*01,D-REGION,Oryctolagus cuniculus,Mus musculus,False,26
+M23228,IGLJ6*01,J-REGION,Oryctolagus cuniculus,Mustela putorius furo,False,38
+AF135656,IGKV1S18*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,305
+BK064757,TRAJ23*01,J-REGION,Oryctolagus cuniculus,Canis lupus familiaris,False,63
+AY386695,IGHD4-2*01,D-REGION,Oryctolagus cuniculus,Mus musculus,False,24
+AF135639,IGKV1S64*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,297
+BK064757,TRAJ14*01,J-REGION,Oryctolagus cuniculus,Ovis aries,False,52
+BK064757,TRAJ42*01,J-REGION,Oryctolagus cuniculus,Macaca mulatta,False,66
+K01363,IGKJ1-5*02,J-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,38
+AY386695,IGHJ6*02,J-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,54
+M26312,TRBC1*03,EX3,Oryctolagus cuniculus,Heterocephalus glaber,False,108
+BK064757,TRAJ31*01,J-REGION,Oryctolagus cuniculus,Homo sapiens,False,57
+BK064757,TRAJ28*01,J-REGION,Oryctolagus cuniculus,Felis catus,False,64
+X00674,IGKC1*04,C-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,321
+BK064757,TRAV8-3*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,287
+BK064757,TRAV5-4*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,280
+IMGT000030,TRGV1-5*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,296
+NW_003159316,IGLV5S1*01,V-REGION,Oryctolagus cuniculus,Pongo abelii,False,324
+M16426,IGHG*04,CH1,Oryctolagus cuniculus,Homo sapiens,False,24
+IMGT000032,TRBV7-10*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,290
+X82111,IGHA5*01,CH1,Oryctolagus cuniculus,Oryctolagus cuniculus,True,306
+K01280,IGKC2*04,C-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,318
+AF177012,IGHV1S64*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,288
+BK064757,TRDC*01,EX3,Oryctolagus cuniculus,Mustela putorius furo,False,114
+BK064757,TRAV8-4*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,287
+BK064757,TRAJ37*01,J-REGION,Oryctolagus cuniculus,Heterocephalus glaber,False,62
+IMGT000032,TRBV20-1*01,V-REGION,Oryctolagus cuniculus,Camelus dromedarius,False,293
+BK064757,TRAV8-1*01,V-REGION,Oryctolagus cuniculus,Sus scrofa,False,284
+AY386696,IGHA1*02,CH1,Oryctolagus cuniculus,Oryctolagus cuniculus,True,288
+IMGT000032,TRBV2-1*01,V-REGION,Oryctolagus cuniculus,Macaca fascicularis,False,290
+IMGT000032,TRBV5-2*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,286
+X82114,IGHA8*01,CH1,Oryctolagus cuniculus,Oryctolagus cuniculus,True,315
+AY386697,IGHD1-1*01,D-REGION,Oryctolagus cuniculus,Bos taurus,False,31
+K01363,IGKC1*03,C-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,315
+AF135632,IGKV1S57*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,293
+M23226,IGLJ5*01,J-REGION,Oryctolagus cuniculus,Mustela putorius furo,False,38
+X82112,IGHA6*01,CH3-CHS,Oryctolagus cuniculus,Oryctolagus cuniculus,True,393
+BK064757,TRAV19*01,V-REGION,Oryctolagus cuniculus,Ovis aries,False,292
+AY748344,TRGV1-3*07,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,296
+BK064757,TRAV20*01,V-REGION,Oryctolagus cuniculus,Bos taurus,False,273
+BK064757,TRAV10*01,V-REGION,Oryctolagus cuniculus,Homo sapiens,False,280
+BK064757,TRAV39*01,V-REGION,Oryctolagus cuniculus,Oryctolagus cuniculus,True,280
+BK064757,TRAJ2*01,J-REGION,Oryctolagus cuniculus,Tursiops truncatus,False,66
+X82117,IGHA11*01,CH3-CHS,Oryctolagus cuniculus,Oryctolagus cuniculus,True,393
+BK064757,TRAJ56*01,J-REGION,Oryctolagus cuniculus,Canis lupus familiaris,False,62
+NW_003159316,IGLV3S10*01,V-REGION,Oryctolagus cuniculus,Homo sapiens,False,48
+KM502987,IGHG*07,CH2,Oryctolagus cuniculus algirus,Oryctolagus cuniculus cuniculus,False,330
+KM502998,IGHG*10,CH1,Oryctolagus cuniculus cuniculus,Oryctolagus cuniculus algirus,False,285
+NW_004081259,TRDV1-26*02,V-REGION,Ovis aries,Ovis aries,True,287
+IMGT000041,IGLV2-12*01,V-REGION,Ovis aries,Ovis aries,True,297
+BK064708,TRAV25-18*01,V-REGION,Ovis aries,Ovis aries,True,275
+BK064708,TRAJ25*01,J-REGION,Ovis aries,Felis catus,False,60
+OviAri_2_chr7,TRAV8-22*02,V-REGION,Ovis aries,Ovis aries,True,280
+OviAri_3_chr7,TRAV9-3*02,V-REGION,Ovis aries,Ovis aries,True,281
+AM420900,TRBJ1-6*01,J-REGION,Ovis aries,Camelus dromedarius,False,53
+BK064708,TRAV13-8*01,V-REGION,Ovis aries,Ovis aries,True,277
+IMGT000034,IGLV5-48*02,V-REGION,Ovis aries,Capra hircus,False,304
+BK064708,TRDV1-24*01,V-REGION,Ovis aries,Bos taurus,False,249
+BK064708,TRAV43-5*01,V-REGION,Ovis aries,Ovis aries,True,271
+IMGT000042,TRBV6-21*01,V-REGION,Ovis aries,Ovis aries,True,287
+AJ786829,TRDV1-46*02,V-REGION,Ovis aries,Ovis aries,True,286
+IMGT000042,TRBV5-20*01,V-REGION,Ovis aries,Ovis aries,True,286
+OviAri_2_chr7,TRAV39*02,V-REGION,Ovis aries,Canis lupus familiaris,False,277
+IMGT000042,TRBV2*01,V-REGION,Ovis aries,Mus musculus,False,290
+BK064708,TRDV1-44*01,V-REGION,Ovis aries,Ovis aries,True,260
+BK064708,TRAJ40*01,J-REGION,Ovis aries,Danio rerio,False,57
+IMGT000041,IGLV5-121*01,V-REGION,Ovis aries,Capra hircus,False,313
+IMGT000042,TRBV6-13*01,V-REGION,Ovis aries,Bos taurus,False,244
+IMGT000042,TRBV6-19*01,V-REGION,Ovis aries,Bos taurus,False,281
+BK064708,TRAV21-3*01,V-REGION,Ovis aries,Bos taurus,False,279
+IMGT000041,IGLL3*01,J-LIKE,Ovis aries,Oryctolagus cuniculus,False,38
+OviAri_2_chr7,TRAV22-27*02,V-REGION,Ovis aries,Ovis aries,True,279
+BK064708,TRAV41*01,V-REGION,Ovis aries,Ovis aries,True,271
+IMGT000042,TRBV5-13*01,V-REGION,Ovis aries,Ovis aries,True,287
+BK064708,TRAV14-5*01,V-REGION,Ovis aries,Oncorhynchus mykiss,False,268
+IMGT000034,IGLV3-3*02,V-REGION,Ovis aries,Capra hircus,False,291
+BK064708,TRAV29-1*01,V-REGION,Ovis aries,Bos taurus,False,280
+IMGT000042,TRBV16*01,V-REGION,Ovis aries,Heterocephalus glaber,False,290
+AF040914,IGLV1S14*01,V-REGION,Ovis aries,Ovis aries,True,296
+IMGT000010,IGKV1-21*01,V-REGION,Ovis aries,Camelus dromedarius,False,281
+BK064708,TRAV22-25*01,V-REGION,Ovis aries,Ovis aries,True,268
+BK064708,TRAV22-1*01,V-REGION,Ovis aries,Ovis aries,True,270
+BK064708,TRAV22-31*01,V-REGION,Ovis aries,Bos taurus,False,270
+BK064708,TRAV22-33*01,V-REGION,Ovis aries,Ovis aries,True,270
+BK064708,TRDV1-41*01,V-REGION,Ovis aries,Ovis aries,True,260
+AJ786835,TRDV1S12*01,V-REGION,Ovis aries,Ovis aries,True,292
+BK064708,TRAV43-2*01,V-REGION,Ovis aries,Ovis aries,True,271
+BK064708,TRAV3*01,V-REGION,Ovis aries,Bos taurus,False,284
+BK064708,TRAV44-4*01,V-REGION,Ovis aries,Ovis aries,True,277
+BK064708,TRAV22-35*01,V-REGION,Ovis aries,Bos taurus,False,266
+BK064708,TRAV37*01,V-REGION,Ovis aries,Bos taurus,False,264
+BK064708,TRAJ54*01,J-REGION,Ovis aries,Bos taurus,False,62
+NW_004081110,TRDV1-9*02,V-REGION,Ovis aries,Ovis aries,True,286
+BK064708,TRAV22-7*01,V-REGION,Ovis aries,Ovis aries,True,270
+BK064708,TRAV24-8*01,V-REGION,Ovis aries,Bos taurus,False,277
+IMGT000042,TRBV5-3*01,V-REGION,Ovis aries,Ovis aries,True,287
+BK064708,TRDV1-34*01,V-REGION,Ovis aries,Ovis aries,True,287
+IMGT000041,IGLV1-65*01,V-REGION,Ovis aries,Ovis aries,True,293
+OviAri_1_chr7,TRAJ9*02,J-REGION,Ovis aries,Ovis aries,True,61
+AF040924,IGLV1-79*01,V-REGION,Ovis aries,Ovis aries,True,296
+IMGT000041,IGLV5-52*01,V-REGION,Ovis aries,Ovis aries,True,317
+NW_004082507,TRDV1S5*01,V-REGION,Ovis aries,Ovis aries,True,287
+IMGT000042,TRBV6-23*01,V-REGION,Ovis aries,Ovis aries,True,287
+IMGT000042,TRBC2*02,EX1,Ovis aries,Ovis aries,True,390
+AM420900,TRBC1*01,EX1,Ovis aries,Ovis aries,True,390
+BK064708,TRAV21-1*01,V-REGION,Ovis aries,Ovis aries,True,277
+BK064708,TRAJ35*01,J-REGION,Ovis aries,Ovis aries,True,56
+BK064708,TRAV28-1*01,V-REGION,Ovis aries,Ovis aries,True,271
+BK064708,TRAV8-9*01,V-REGION,Ovis aries,Ovis aries,True,285
+NW_014639781,IGHD1*01,D-REGION,Ovis aries,Ovis aries,True,31
+IMGT000042,TRBV5-23*01,V-REGION,Ovis aries,Ovis aries,True,287
+OviAri_1_chr7,TRDC*02,EX2,Ovis aries,Bos taurus,False,75
+BK064708,TRAJ2*01,J-REGION,Ovis aries,Tursiops truncatus,False,66
+IMGT000041,IGLV5-54*01,V-REGION,Ovis aries,Ovis aries,True,313
+NW_004083226,TRDV1-25*02,V-REGION,Ovis aries,Ovis aries,True,257
+BK064708,TRAV23-36*01,V-REGION,Ovis aries,Ovis aries,True,279
+BK064708,TRAV8-13*01,V-REGION,Ovis aries,Ovis aries,True,282
+IMGT000041,IGLV(IV)-71*01,V-REGION,Ovis aries,Ovis aries,True,233
+BK064708,TRAV23-24*01,V-REGION,Ovis aries,Ovis aries,True,270
+IMGT000041,IGLV(IV)-112*01,V-REGION,Ovis aries,Ovis aries,True,245
+BK064708,TRAV43-11*01,V-REGION,Ovis aries,Bos taurus,False,271
+BK064708,TRAJ20*01,J-REGION,Ovis aries,Bos taurus,False,58
+BK064708,TRAV8-2*01,V-REGION,Ovis aries,Ovis aries,True,227
+BK064708,TRDC*01,EX4UTR,Ovis aries,Ovis aries,True,917
+IMGT000041,IGLV1-77*01,V-REGION,Ovis aries,Ovis aries,True,304
+BK064708,TRAV26-2*01,V-REGION,Ovis aries,Ovis aries,True,277
+BK064708,TRAJ19*01,J-REGION,Ovis aries,Canis lupus familiaris,False,58
+NW_004081259,TRAV23-36*02,V-REGION,Ovis aries,Ovis aries,True,279
+NW_014639781,IGHD3*01,D-REGION,Ovis aries,Oryctolagus cuniculus,False,42
+BK064708,TRAJ5*01,J-REGION,Ovis aries,Ovis aries,True,59
+BK064708,TRAV23-29*01,V-REGION,Ovis aries,Ovis aries,True,273
+BK064708,TRDV1-27*01,V-REGION,Ovis aries,Ovis aries,True,286
+BK064708,TRDV1-23*01,V-REGION,Ovis aries,Ovis aries,True,257
+IMGT000279,TRDC*01,EX2,Pan troglodytes,Mus musculus,False,66
+IMGT000279,TRAV8-2*01,V-REGION,Pan troglodytes,Homo sapiens,False,270
+IMGT000348,TRBV28*02,V-REGION,Pan troglodytes,Pongo abelii,False,287
+IMGT000348,TRBV3-1*02,V-REGION,Pan troglodytes,Pongo abelii,False,287
+IMGT000364,TRBV6-8*02,V-REGION,Pan troglodytes,Pan troglodytes,True,287
+IMGT000348,TRBV4-1*02,V-REGION,Pan troglodytes,Homo sapiens,False,287
+IMGT000279,TRAV16*01,V-REGION,Pan troglodytes,Gorilla gorilla gorilla,False,272
+IMGT000268,TRGV10*01,V-REGION,Pan troglodytes,Homo sapiens,False,309
+IMGT000279,TRAJ40*01,J-REGION,Pan troglodytes,Macaca mulatta,False,61
+IMGT000363,TRBV6-6*02,V-REGION,Pan troglodytes,Homo sapiens,False,287
+IMGT000261,TRBV7-9*01,V-REGION,Pan troglodytes,Homo sapiens,False,290
+IMGT000261,TRBV16*01,V-REGION,Pan troglodytes,Homo sapiens,False,290
+IMGT000286,TRAV7*02,V-REGION,Pan troglodytes,Homo sapiens,False,273
+IMGT000311,TRGV5*02,V-REGION,Pan troglodytes,Homo sapiens,False,300
+IMGT000279,TRAV8-1*01,V-REGION,Pan troglodytes,Gorilla gorilla gorilla,False,284
+IMGT000279,TRAV38-1*01,V-REGION,Pan troglodytes,Macaca mulatta,False,290
+IMGT000279,TRAVG*01,V-REGION,Pan troglodytes,Gorilla gorilla gorilla,False,277
+IMGT000283,TRAV29*02,V-REGION,Pan troglodytes,Homo sapiens,False,280
+IMGT000283,TRAV14-1*02,V-REGION,Pan troglodytes,Gorilla gorilla gorilla,False,284
+IMGT000268,TRGC1*01,EX1,Pan troglodytes,Gorilla gorilla gorilla,False,330
+IMGT000363,TRBJ1-3*02,J-REGION,Pan troglodytes,Gorilla gorilla gorilla,False,50
+IMGT000279,TRAV11*01,V-REGION,Pan troglodytes,Pan troglodytes,True,276
+IMGT000363,TRBV7-6*02,V-REGION,Pan troglodytes,Homo sapiens,False,290
+IMGT000286,TRAV31*02,V-REGION,Pan troglodytes,Homo sapiens,False,287
+IMGT000261,TRBV12-2*01,V-REGION,Pan troglodytes,Homo sapiens,False,291
+IMGT000279,TRAJ27*01,J-REGION,Pan troglodytes,Gorilla gorilla gorilla,False,59
+AY125049,IGHG2*01,H,Papio anubis anubis,Macaca mulatta,False,36
+IMGT000274,TRAC*02,EX4UTR,Pongo abelii,Homo sapiens,False,532
+BK075454,IGHV3-85*01,V-REGION,Pongo abelii,Homo sapiens,False,302
+BK075449,IGLV5-99*01,V-REGION,Pongo abelii,Pongo abelii,True,308
+BK075455,IGHG3A*02,CH3-CHS,Pongo abelii,Pongo abelii,True,321
+BK075454,IGHV(III)-32*01,V-REGION,Pongo abelii,Pongo pygmaeus,False,288
+BK075450,IGLV3-42*02,V-REGION,Pongo abelii,Macaca mulatta,False,284
+IMGT000253,TRAVB*01,V-REGION,Pongo abelii,Gorilla gorilla gorilla,False,270
+BK075454,IGHG3C*01,M1,Pongo abelii,Gorilla gorilla gorilla,False,131
+BK075446,IGKV1-24*02,V-REGION,Pongo abelii,Macaca mulatta,False,287
+BK063599,IGKV7-3*01,V-REGION,Pongo abelii,Pongo pygmaeus,False,302
+BK075446,IGKV1-54*02,V-REGION,Pongo abelii,Pongo pygmaeus,False,287
+BK075128,TRBV6-8*01,V-REGION,Pongo abelii,Pongo abelii,True,287
+BK075449,IGLV3-23*01,V-REGION,Pongo abelii,Homo sapiens,False,284
+BK075446,IGKV3-37*02,V-REGION,Pongo abelii,Pongo pygmaeus,False,260
+IMGT000274,TRAV8-7*02,V-REGION,Pongo abelii,Gorilla gorilla gorilla,False,284
+BK075447,IGKV2-55-1*02,V-REGION,Pongo abelii,Macaca mulatta,False,305
+IMGT000253,TRAJ44*01,J-REGION,Pongo abelii,Macaca mulatta,False,63
+BK075454,IGHG3C*01,CH3,Pongo abelii,Pongo abelii,True,313
+BK075449,IGLV2-30*01,V-REGION,Pongo abelii,Homo sapiens,False,297
+BK075454,IGHE2*01,CH3,Pongo abelii,Homo sapiens,False,320
+BK075449,IGLV(VII)-94*01,V-REGION,Pongo abelii,Pongo pygmaeus,False,199
+BK075456,IGHV3-43*02,V-REGION,Pongo abelii,Homo sapiens,False,299
+BK075455,IGHV3-58*02,V-REGION,Pongo abelii,Homo sapiens,False,294
+BK075454,IGHV3-22*01,V-REGION,Pongo abelii,Homo sapiens,False,296
+BK075449,IGLV(IV)-69*01,V-REGION,Pongo abelii,Macaca mulatta,False,232
+BK075455,IGHG1*02,M1,Pongo abelii,Gorilla gorilla gorilla,False,132
+BK075455,IGHV3-85*02,V-REGION,Pongo abelii,Pongo pygmaeus,False,300
+BK075451,IGLV5-92*02,V-REGION,Pongo abelii,Gorilla gorilla gorilla,False,310
+BK075449,IGLV4-81*01,V-REGION,Pongo abelii,Gorilla gorilla gorilla,False,299
+BK075450,IGLV1-101*02,V-REGION,Pongo abelii,Homo sapiens,False,299
+BK075450,IGLV6-90*02,V-REGION,Pongo abelii,Pongo abelii,True,296
+BK075449,IGLV3-13*01,V-REGION,Pongo abelii,Homo sapiens,False,286
+BK075456,IGHV5-18*03,V-REGION,Pongo abelii,Macaca mulatta,False,294
+BK075128,TRBV8-2*01,V-REGION,Pongo abelii,Homo sapiens,False,274
+BK075128,TRBV7-7*01,V-REGION,Pongo abelii,Homo sapiens,False,290
+BK075455,IGHV3-34*02,V-REGION,Pongo abelii,Homo sapiens,False,302
+IMGT000269,TRBV20*03,V-REGION,Pongo abelii,Homo sapiens,False,293
+BK075454,IGHV(III)-9*01,V-REGION,Pongo abelii,Homo sapiens,False,99
+BK075456,IGHE2*03,CH4-CHS,Pongo abelii,Pongo abelii,True,330
+BK075455,IGHM*02,CH3,Pongo abelii,Pongo pygmaeus,False,318
+BK075454,IGHV(II)-114*01,V-REGION,Pongo abelii,Gorilla gorilla gorilla,False,271
+BK063599,IGKV(II)-43-1*01,V-REGION,Pongo abelii,Pongo abelii,True,234
+BK075447,IGKV2-11*03,V-REGION,Pongo abelii,Pongo abelii,True,301
+IMGT000274,TRAV9-2*02,V-REGION,Pongo abelii,Heterocephalus glaber,False,281
+BK063599,IGKV1-54*01,V-REGION,Pongo abelii,Macaca mulatta,False,287
+BK075449,IGLV3-46*01,V-REGION,Pongo abelii,Homo sapiens,False,279
+BK063599,IGKV2-43*01,V-REGION,Pongo abelii,Homo sapiens,False,302
+IMGT000253,TRDC*01,EX2,Pongo abelii,Macaca mulatta,False,67
+BK075454,IGHV7-96*01,V-REGION,Pongo abelii,Homo sapiens,False,293
+BK075456,IGHV3-115*02,V-REGION,Pongo abelii,Gorilla gorilla gorilla,False,298
+BK075451,IGLV3-25*03,V-REGION,Pongo abelii,Pongo pygmaeus,False,285
+BK075454,IGHJ5*01,J-REGION,Pongo abelii,Ctenopharyngodon idella,False,50
+BK075456,IGHV4-104*03,V-REGION,Pongo abelii,Pongo pygmaeus,False,293
+BK075454,IGHEP*01,CH4-CHS,Pongo abelii,Pongo abelii,True,324
+BK075129,TRBC1*02,EX1,Pongo abelii,Homo sapiens,False,387
+BK075455,IGHV3-105*02,V-REGION,Pongo abelii,Equus caballus,False,296
+BK075450,IGLV2-15*02,V-REGION,Pongo abelii,Pongo abelii,True,282
+BK075128,TRBV1-3*01,V-REGION,Pongo abelii,Macaca fascicularis,False,287
+IMGT000270,TRBV7-7*03,V-REGION,Pongo abelii,Homo sapiens,False,290
+BK075454,IGHV(III)-139*01,V-REGION,Pongo abelii,Macaca mulatta,False,286
+BK075455,IGHV4-104*02,V-REGION,Pongo abelii,Pongo abelii,True,293
+BK075454,IGHV3-115*01,V-REGION,Pongo abelii,Homo sapiens,False,298
+BK075446,IGKV2-64*02,V-REGION,Pongo abelii,Pongo abelii,True,302
+BK075129,TRBC2*02,EX1,Pongo abelii,Homo sapiens,False,387
+BK063599,IGKV3-69*01,V-REGION,Pongo abelii,Pongo pygmaeus,False,282
+BK075454,IGHV3-21*01,V-REGION,Pongo abelii,Macaca mulatta,False,302
+BK075454,IGHG3B*01,H1,Pongo abelii,Pongo abelii,True,51
+BK075451,IGLV6-90*03,V-REGION,Pongo abelii,Pongo abelii,True,296
+IMGT000253,TRAV27*01,V-REGION,Pongo abelii,Homo sapiens,False,274
+BK075454,IGHV3-15*01,V-REGION,Pongo abelii,Homo sapiens,False,298
+IMGT000274,TRAV3*02,V-REGION,Pongo abelii,Pan troglodytes,False,286
+BK075454,IGHV(II)-28*01,V-REGION,Pongo abelii,Pongo abelii,True,207
+BK075126,TRBJ2-3*01,J-REGION,Pongo pygmaeus,Macaca mulatta,False,46
+BK075453,IGLV1-56-10*02,V-REGION,Pongo pygmaeus,Macaca mulatta,False,296
+BK075127,TRBV6-8-2*02,V-REGION,Pongo pygmaeus,Gorilla gorilla gorilla,False,287
+BK075457,IGHG3B*01,CH2,Pongo pygmaeus,Pongo abelii,False,330
+BK075452,IGLV1-61*01,V-REGION,Pongo pygmaeus,Pongo pygmaeus,True,296
+BK075127,TRBV5-3*02,V-REGION,Pongo pygmaeus,Macaca mulatta,False,286
+BK075452,IGLV3-44*01,V-REGION,Pongo pygmaeus,Pongo pygmaeus,True,278
+BK075457,IGHV3-73*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,305
+BK075452,IGLV3-23*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,284
+BK075722,IGKV(II)-61-1*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,288
+BK075452,IGLV6-90*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,296
+BK075457,IGHV4-95*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,293
+BK075458,IGHD1-30*02,D-REGION,Pongo pygmaeus,Equus caballus,False,20
+BK075126,TRBV7-6*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,289
+BK075458,IGHV1-115-17*02,V-REGION,Pongo pygmaeus,Homo sapiens,False,296
+BK075457,IGHE1*01,CH3,Pongo pygmaeus,Homo sapiens,False,324
+IMGT000301,TRAV8-9*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,284
+BK075452,IGLV5-75*01,V-REGION,Pongo pygmaeus,Macaca mulatta,False,316
+BK075127,TRBV7-6-1*02,V-REGION,Pongo pygmaeus,Homo sapiens,False,290
+BK075457,IGHV3-115*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,298
+BK075127,TRBC2*02,EX1,Pongo pygmaeus,Homo sapiens,False,387
+BK075127,TRBV12-1*02,V-REGION,Pongo pygmaeus,Pongo abelii,False,290
+IMGT000301,TRAV39*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,277
+BK075448,IGKV1-27*02,V-REGION,Pongo pygmaeus,Homo sapiens,False,287
+BK075127,TRBV7-6-2*02,V-REGION,Pongo pygmaeus,Pan troglodytes,False,290
+BK075453,IGLV(II)-17*02,V-REGION,Pongo pygmaeus,Pongo abelii,False,294
+BK075457,IGHV3-122*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,302
+BK075722,IGKV1-13-1*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,287
+BK075457,IGHV4-101*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,296
+BK075457,IGHV1-103-10*01,V-REGION,Pongo pygmaeus,Pongo pygmaeus,True,296
+BK075453,IGLV6-90*02,V-REGION,Pongo pygmaeus,Pongo abelii,False,296
+BK075457,IGHD2-7*01,D-REGION,Pongo pygmaeus,Gorilla gorilla gorilla,False,31
+BK075457,IGHV(IV)-77*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,292
+BK075452,IGLV5-62*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,313
+BK075452,IGLV5-57*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,312
+BK075457,IGHV3-121*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,299
+BK075453,IGLV1-60*02,V-REGION,Pongo pygmaeus,Homo sapiens,False,296
+BK075453,IGLV10-83*02,V-REGION,Pongo pygmaeus,Pongo abelii,False,275
+BK075457,IGHE1*01,CH4-CHS,Pongo pygmaeus,Pongo abelii,False,330
+BK075452,IGLV(I)-76*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,122
+BK075452,IGLV3-29*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,289
+BK075127,TRBV7-8*02,V-REGION,Pongo pygmaeus,Pongo abelii,False,290
+BK075722,IGKV3-37*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,260
+IMGT000301,TRAJ54*01,J-REGION,Pongo pygmaeus,Homo sapiens,False,60
+BK075722,IGKV4-1*01,V-REGION,Pongo pygmaeus,Homo sapiens,False,305
+BK075458,IGHV4-61*02,V-REGION,Pongo pygmaeus,Homo sapiens,False,293
+IMGT000301,TRAV15*01,V-REGION,Pongo pygmaeus,Pongo abelii,False,275
+RatNor_1_chr6,IGHV2-14*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,300
+RatNor_6_chr6,IGHA*01,CH3-CHS,Rattus norvegicus,Mus musculus,False,393
+IMGT000192,IGLV3-7*02,V-REGION,Rattus norvegicus,Rattus norvegicus,True,297
+AABR03033781,IGKV5S2*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,286
+RatNor_3_chr6,IGHV8-22*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,301
+RatNor_3_chr6,IGHV1-57*01,V-REGION,Rattus norvegicus,Mus musculus,False,294
+RatNor_2_chr6,IGHV6-7*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,300
+RatNor_2_chr6,IGHV6-4*01,V-REGION,Rattus norvegicus,Mus musculus,False,299
+RatNor_3_chr6,IGHV1-64*01,V-REGION,Rattus norvegicus,Mus musculus,False,294
+AABR03050377,IGHV2S75*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+AABR03032272,IGKV4S21*01,V-REGION,Rattus norvegicus,Mus musculus,False,291
+RatNor_1_chr6,IGHV2-63*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+RatNor_6_chr6,IGHV5-4*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,292
+AABR03034930,IGKV10S6*01,V-REGION,Rattus norvegicus,Equus caballus,False,285
+RatNor_1_chr6,IGHV2-44*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+RatNor_3_chr6,IGHV1-30*01,V-REGION,Rattus norvegicus,Mus musculus,False,294
+RatNor_1_chr6,IGHV2-64*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+AABR03048499,IGHV2S49*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,294
+RatNor_2_chr6,IGHV3-1*01,V-REGION,Rattus norvegicus,Mus musculus,False,293
+RatNor_2_chr6,IGHV6-3*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,303
+AABR03032039,IGKV14S14*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,287
+RatNor_6_chr6,IGHD1-10*01,D-REGION,Rattus norvegicus,Oncorhynchus mykiss,False,14
+RatNor_1_chr6,IGHV5-38*01,V-REGION,Rattus norvegicus,Mus musculus,False,289
+AABR03036805,IGKV4S2*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,286
+RatNor_6_chr6,IGHD2-6*01,D-REGION,Rattus norvegicus,Rattus norvegicus,True,10
+RatNor_2_chr6,IGHV10-9*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,295
+RatNor_6_chr6,IGHJ4*01,J-REGION,Rattus norvegicus,Rattus norvegicus,True,54
+AABR03033055,IGKV4S16*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,286
+RatNor_1_chr6,IGHV5-28*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,287
+RatNor_6_chr6,IGHD1-1*01,D-REGION,Rattus norvegicus,Macaca fascicularis,False,20
+RatNor_1_chr6,IGHV2-75*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+AABR03048675,IGHV5S10*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,296
+AABR03051417,IGHV2S13*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+RatNor_6_chr6,IGHD4-6*01,D-REGION,Rattus norvegicus,Danio rerio,False,16
+AABR03050696,IGHV2S63*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+AABR03048675,IGHV5S12*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,309
+AABR03032039,IGKV14S15*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,287
+RatNor_2_chr6,IGHV1-4*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,292
+RatNor_2_chr6,IGHV3-3*01,V-REGION,Rattus norvegicus,Mus musculus,False,294
+IMGT000186,IGLJ1P*01,J-REGION,Rattus norvegicus,Mus musculus,False,40
+RatNor_3_chr6,IGHV8-7*01,V-REGION,Rattus norvegicus,Mus musculus,False,296
+AABR03032083,IGKV5S10*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,286
+AABR03052981,IGHV2S69*01,V-REGION,Rattus norvegicus,Homo sapiens,False,104
+RatNor_6_chr6,IGHD1-5*01,D-REGION,Rattus norvegicus,Equus caballus,False,22
+AABR03049629,IGHV5S47*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,296
+RatNor_3_chr6,IGHV1-21*01,V-REGION,Rattus norvegicus,Mus musculus,False,295
+IMGT000186,IGLV3-12*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,297
+AABR03048675,IGHV2S18*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,293
+IMGT000192,IGLV3-6*02,V-REGION,Rattus norvegicus,Mus musculus,False,297
+RatNor_6_chr6,IGHG1*01,M1,Rattus norvegicus,Mus musculus,False,132
+RatNor_6_chr6,IGHD4-3*01,D-REGION,Rattus norvegicus,Rattus norvegicus,True,17
+RatNor_3_chr6,IGHV8-10*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,296
+RatNor_2_chr6,IGHV1-7*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,297
+IMGT000192,IGLJ1*02,J-REGION,Rattus norvegicus,Mus musculus,False,38
+RatNor_6_chr6,IGHD3-5*01,D-REGION,Rattus norvegicus,Mus musculus,False,22
+AABR03048499,IGHV5S23*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,296
+AABR03034630,IGKV22S7*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,285
+RatNor_2_chr6,IGHV6-8*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,300
+RatNor_6_chr6,IGHD5-1*01,D-REGION,Rattus norvegicus,Mus musculus,False,11
+RatNor_3_chr6,IGHV1-65*01,V-REGION,Rattus norvegicus,Mus musculus,False,294
+RatNor_2_chr6,IGHV11-8*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,296
+RatNor_2_chr6,IGHV11-9*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,296
+AABR03033840,IGKV4S12*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,286
+AABR03053403,IGHV5S51*01,V-REGION,Rattus norvegicus,Mus musculus,False,289
+RatNor_1_chr6,IGHV2-73*01,V-REGION,Rattus norvegicus,Mus musculus,False,291
+IMGT000186,IGLV3-11*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,297
+RatNor_2_chr6,IGHV6-6*01,V-REGION,Rattus norvegicus,Rattus norvegicus,True,300
+AC111360,IGLC1*01,C-REGION,Rattus norvegicus,Rattus norvegicus,True,315
+GU129139,IGHV6-114*01,V-REGION,Salmo salar,Salmo salar,True,288
+GU129139,IGHD*01,CH2D,Salmo salar,Salmo salar,True,300
+IMGT000028,IGHV3-111*02,V-REGION,Salmo salar,Salmo salar,True,301
+GU129139,IGHD*01,CH6,Salmo salar,Salmo salar,True,321
+GU129139,IGHT4*01,CH1,Salmo salar,Salmo salar,True,300
+GU129139,IGHD*01,CH3,Salmo salar,Salmo salar,True,315
+GU129140,IGHV11D-144*01,V-REGION,Salmo salar,Salmo salar,True,291
+GU129139,IGHM*01,CH1,Salmo salar,Salmo salar,True,297
+GU129139,IGHV8-103*01,V-REGION,Salmo salar,Salmo salar,True,292
+GU129139,IGHV15-120*01,V-REGION,Salmo salar,Salmo salar,True,304
+GU129139,IGHV1-36*01,V-REGION,Salmo salar,Salmo salar,True,240
+GU129139,IGHV4-9*01,V-REGION,Salmo salar,Salmo salar,True,380
+Y12456,IGHM*03,CH1,Salmo salar,Salmo salar,True,297
+GU129139,IGHT1*01,CH4-CHS,Salmo salar,Salmo salar,True,337
+GU129139,IGHJ4*01,J-REGION,Salmo salar,Oncorhynchus mykiss,False,51
+GU129139,IGHV11-123*01,V-REGION,Salmo salar,Salmo salar,True,291
+GU129139,IGHV8-44*01,V-REGION,Salmo salar,Oryctolagus cuniculus,False,331
+GU129140,IGHV1D-91*01,V-REGION,Salmo salar,Salmo salar,True,296
+IMGT000028,IGHV8-103*02,V-REGION,Salmo salar,Salmo salar,True,292
+GU129139,IGHJ5*01,J-REGION,Salmo salar,Oncorhynchus mykiss,False,53
+IMGT000028,IGHV8-24*02,V-REGION,Salmo salar,Salmo salar,True,292
+GU129139,IGHT5*01,M1,Salmo salar,Oncorhynchus mykiss,False,156
+GU129140,IGHV4D-8-1*01,V-REGION,Salmo salar,Salmo salar,True,272
+GU129139,IGHV1-55*01,V-REGION,Salmo salar,Oncorhynchus mykiss,False,276
+GU129139,IGHJ1T5*01,J-REGION,Salmo salar,Salmo salar,True,54
+GU129140,IGHV10D-56*01,V-REGION,Salmo salar,Salmo salar,True,292
+IMGT000029,IGHV2D-12*02,V-REGION,Salmo salar,Oncorhynchus mykiss,False,294
+GU129139,IGHV16-18*01,V-REGION,Salmo salar,Salmo salar,True,286
+GU129140,IGHJ2T2D*01,J-REGION,Salmo salar,Salmo salar,True,52
+GU129140,IGHV6D-73*01,V-REGION,Salmo salar,Salmo salar,True,272
+GU129139,IGHV6-45*01,V-REGION,Salmo salar,Salmo salar,True,288
+AF141607,IGHD*03,CH6,Salmo salar,Heterocephalus glaber,False,321
+AF141607,IGHD*03,CH7,Salmo salar,Salmo salar,True,288
+GU129140,IGHT2D*01,CH1,Salmo salar,Oncorhynchus mykiss,False,300
+GU129139,IGHV6-68*01,V-REGION,Salmo salar,Salmo salar,True,288
+GU129140,IGHV11D-98*01,V-REGION,Salmo salar,Salmo salar,True,293
+GU129140,IGHV15D-38*01,V-REGION,Salmo salar,Salmo salar,True,304
+GU129140,IGHV9D-53*01,V-REGION,Salmo salar,Oncorhynchus mykiss,False,290
+GU129139,IGHV1-10*01,V-REGION,Salmo salar,Salmo salar,True,200
+IMGT000039,TRBV4-3*01,V-REGION,Sus scrofa,Sus scrofa,True,287
+CU467669,IGLV2-6*01,V-REGION,Sus scrofa,Lemur catta,False,291
+EU372653,IGHG6-2*03,CH3-CHS,Sus scrofa,Sus scrofa,True,315
+CU468977,IGLV7-7*02,V-REGION,Sus scrofa,Sus scrofa,True,294
+BK074883,TRGV12-1*01,V-REGION,Sus scrofa,Sus scrofa,True,297
+CU468665,IGLV1-20*02,V-REGION,Sus scrofa,Ovis aries,False,298
+IMGT000039,TRBV2-1*01,V-REGION,Sus scrofa,Sus scrofa,True,290
+AB699686,IGHG5-1*01,H,Sus scrofa,Mus musculus,False,36
+U03780,IGHG2*03,CH1,Sus scrofa,Sus scrofa,True,294
+AB699687,IGHG6-2*01,CH2,Sus scrofa,Sus scrofa,True,327
+IMGT000039,TRBJ2-2*01,J-REGION,Sus scrofa,Ovis aries,False,51
+BK074882,TRGC4*01,EX3,Sus scrofa,Sus scrofa,True,138
+AB699687,IGHG6-2*01,CH3-CHS,Sus scrofa,Sus scrofa,True,327
+M81771,IGHG6-1*02,CH2,Sus scrofa,Sus scrofa,True,327
+AB699687,IGHE*01,CH2,Sus scrofa,Bos taurus,False,324
+DQ886392,IGHV1S8*01,V-REGION,Sus scrofa,Sus scrofa,True,302
+AB699687,IGHG6-1*01,CH1,Sus scrofa,Sus scrofa,True,294
+BK074883,TRGV11*01,V-REGION,Sus scrofa,Sus scrofa,True,305
+FP312898,IGKC*01,C-REGION,Sus scrofa,Sus scrofa,True,327
+IMGT000039,TRBJ1-3*01,J-REGION,Sus scrofa,Canis lupus familiaris,False,50
+CU468977,IGLV1-20*01,V-REGION,Sus scrofa,Ovis aries,False,298
+IMGT000039,TRBV15*01,V-REGION,Sus scrofa,Canis lupus familiaris,False,287
+AB699687,IGHE*01,CH3,Sus scrofa,Mustela putorius furo,False,333
+IMGT000039,TRBV4-2*01,V-REGION,Sus scrofa,Camelus dromedarius,False,286
+AB513624,IGHV1-10*01,V-REGION,Sus scrofa,Sus scrofa,True,296
+FP312898,IGKV3-3*01,V-REGION,Sus scrofa,Sus scrofa,True,290
+FP312898,IGKV2-5*01,V-REGION,Sus scrofa,Sus scrofa,True,299
+BK074882,TRGC5*02,EX3,Sus scrofa,Sus scrofa,True,141
+CU467599,IGLV3-3*02,V-REGION,Sus scrofa,Sus scrofa,True,288
+IMGT000039,TRBV10*01,V-REGION,Sus scrofa,Canis lupus familiaris,False,287
+IMGT000015,TRGJ3*02,J-REGION,Tursiops truncatus,Pan troglodytes,False,50
+IMGT000020,TRAJ48*01,J-REGION,Tursiops truncatus,Bos taurus,False,60
+IMGT000020,TRAJ21*01,J-REGION,Tursiops truncatus,Bos taurus,False,53
+IMGT000020,TRAJ3*01,J-REGION,Tursiops truncatus,Tursiops truncatus,True,62
+IMGT000017,TRAV20-1*01,V-REGION,Tursiops truncatus,Macaca mulatta,False,274
+IMGT000020,TRAJ18*01,J-REGION,Tursiops truncatus,Ovis aries,False,66
+IMGT000020,TRAJ44*01,J-REGION,Tursiops truncatus,Oryctolagus cuniculus,False,63
+IMGT000020,TRAJ30*01,J-REGION,Tursiops truncatus,Macaca mulatta,False,62
+IMGT000020,TRAJ56*01,J-REGION,Tursiops truncatus,Ovis aries,False,61
+JH473572,TRGJ2*01,J-REGION,Tursiops truncatus,Canis lupus familiaris,False,60
+IMGT000017,TRAV9*01,V-REGION,Tursiops truncatus,Heterocephalus glaber,False,281
+AM773729,IGHD7*01,D-REGION,Vicugna pacos,Oncorhynchus mykiss,False,16
+AM939700,IGHV1S5*01,V-REGION,Vicugna pacos,Vicugna pacos,True,288
+AM939715,IGHV3S19*01,V-REGION,Vicugna pacos,Vicugna pacos,True,288
+AM939767,IGHV3S9*01,V-REGION,Vicugna pacos,Vicugna pacos,True,285
+AM939705,IGHV4S8*01,V-REGION,Vicugna pacos,Vicugna pacos,True,288
+AM773729,IGHG2C*01,CH2,Vicugna pacos,Vicugna pacos,True,330
+AM939737,IGHV3S39*01,V-REGION,Vicugna pacos,Vicugna pacos,True,288
+AM773729,IGHV3-2*01,V-REGION,Vicugna pacos,Vicugna pacos,True,296
+AM773729,IGHJ3*01,J-REGION,Vicugna pacos,Canis lupus familiaris,False,50
+AM939742,IGHV3S43*01,V-REGION,Vicugna pacos,Vicugna pacos,True,288
+AM939766,IGHV3S67*01,V-REGION,Vicugna pacos,Vicugna pacos,True,285
+AM939768,IGHV3S10*01,V-REGION,Vicugna pacos,Vicugna pacos,True,285
+AM939719,IGHV3S21*01,V-REGION,Vicugna pacos,Vicugna pacos,True,288

@@ -1,0 +1,413 @@
+{
+  "gene_family": [
+    {
+      "group": "IG",
+      "samples": 1125,
+      "correct": 712,
+      "accuracy": 0.6328888888888888
+    },
+    {
+      "group": "TR",
+      "samples": 593,
+      "correct": 279,
+      "accuracy": 0.47048903878583476
+    },
+    {
+      "group": "Other",
+      "samples": 62,
+      "correct": 54,
+      "accuracy": 0.8709677419354839
+    }
+  ],
+  "region": [
+    {
+      "group": "V-REGION",
+      "samples": 1250,
+      "correct": 802,
+      "accuracy": 0.6416
+    },
+    {
+      "group": "J-REGION",
+      "samples": 182,
+      "correct": 47,
+      "accuracy": 0.25824175824175827
+    },
+    {
+      "group": "CH1",
+      "samples": 38,
+      "correct": 29,
+      "accuracy": 0.7631578947368421
+    },
+    {
+      "group": "D-REGION",
+      "samples": 37,
+      "correct": 12,
+      "accuracy": 0.32432432432432434
+    },
+    {
+      "group": "CH2",
+      "samples": 28,
+      "correct": 19,
+      "accuracy": 0.6785714285714286
+    },
+    {
+      "group": "C-REGION",
+      "samples": 21,
+      "correct": 11,
+      "accuracy": 0.5238095238095238
+    },
+    {
+      "group": "CH3",
+      "samples": 20,
+      "correct": 9,
+      "accuracy": 0.45
+    },
+    {
+      "group": "EX1",
+      "samples": 19,
+      "correct": 9,
+      "accuracy": 0.47368421052631576
+    },
+    {
+      "group": "EX3",
+      "samples": 16,
+      "correct": 8,
+      "accuracy": 0.5
+    },
+    {
+      "group": "CH3-CHS",
+      "samples": 15,
+      "correct": 14,
+      "accuracy": 0.9333333333333333
+    },
+    {
+      "group": "M1",
+      "samples": 14,
+      "correct": 4,
+      "accuracy": 0.2857142857142857
+    },
+    {
+      "group": "G-BETA",
+      "samples": 13,
+      "correct": 13,
+      "accuracy": 1.0
+    },
+    {
+      "group": "C-LIKE",
+      "samples": 12,
+      "correct": 10,
+      "accuracy": 0.8333333333333334
+    },
+    {
+      "group": "CH4-CHS",
+      "samples": 11,
+      "correct": 5,
+      "accuracy": 0.45454545454545453
+    },
+    {
+      "group": "H",
+      "samples": 11,
+      "correct": 2,
+      "accuracy": 0.18181818181818182
+    },
+    {
+      "group": "EX2",
+      "samples": 9,
+      "correct": 1,
+      "accuracy": 0.1111111111111111
+    },
+    {
+      "group": "H-CH2",
+      "samples": 8,
+      "correct": 3,
+      "accuracy": 0.375
+    },
+    {
+      "group": "TRANSMEMBRANE-REGION",
+      "samples": 6,
+      "correct": 5,
+      "accuracy": 0.8333333333333334
+    },
+    {
+      "group": "M2",
+      "samples": 5,
+      "correct": 2,
+      "accuracy": 0.4
+    },
+    {
+      "group": "G-ALPHA1",
+      "samples": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    {
+      "group": "CYTOPLASMIC-REGION",
+      "samples": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    {
+      "group": "EX2A",
+      "samples": 4,
+      "correct": 2,
+      "accuracy": 0.5
+    },
+    {
+      "group": "H1",
+      "samples": 4,
+      "correct": 2,
+      "accuracy": 0.5
+    },
+    {
+      "group": "G-ALPHA1-LIKE",
+      "samples": 4,
+      "correct": 4,
+      "accuracy": 1.0
+    },
+    {
+      "group": "L-REGION",
+      "samples": 4,
+      "correct": 4,
+      "accuracy": 1.0
+    },
+    {
+      "group": "EX2B",
+      "samples": 3,
+      "correct": 1,
+      "accuracy": 0.3333333333333333
+    },
+    {
+      "group": "EX4UTR",
+      "samples": 3,
+      "correct": 1,
+      "accuracy": 0.3333333333333333
+    },
+    {
+      "group": "EX4",
+      "samples": 3,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "G-ALPHA2",
+      "samples": 3,
+      "correct": 3,
+      "accuracy": 1.0
+    },
+    {
+      "group": "G-ALPHA",
+      "samples": 3,
+      "correct": 3,
+      "accuracy": 1.0
+    },
+    {
+      "group": "EX2C",
+      "samples": 2,
+      "correct": 1,
+      "accuracy": 0.5
+    },
+    {
+      "group": "H2",
+      "samples": 2,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "CY-PART2",
+      "samples": 2,
+      "correct": 2,
+      "accuracy": 1.0
+    },
+    {
+      "group": "M",
+      "samples": 2,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "J-LIKE",
+      "samples": 2,
+      "correct": 1,
+      "accuracy": 0.5
+    },
+    {
+      "group": "CH6",
+      "samples": 2,
+      "correct": 1,
+      "accuracy": 0.5
+    },
+    {
+      "group": "V-LIKE",
+      "samples": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "CH4D",
+      "samples": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    {
+      "group": "CH2D3",
+      "samples": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    {
+      "group": "CONNECTING-REGION",
+      "samples": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    {
+      "group": "H3",
+      "samples": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "G-ALPHA2-LIKE",
+      "samples": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    {
+      "group": "CY-PART3",
+      "samples": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "CY-PART1",
+      "samples": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "CH8",
+      "samples": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    },
+    {
+      "group": "CH9",
+      "samples": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    {
+      "group": "CH2D",
+      "samples": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    {
+      "group": "CH7",
+      "samples": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    }
+  ],
+  "base_length": [
+    {
+      "group": "150-349 nt",
+      "samples": 1428,
+      "correct": 931,
+      "accuracy": 0.6519607843137255
+    },
+    {
+      "group": "<150 nt",
+      "samples": 330,
+      "correct": 105,
+      "accuracy": 0.3181818181818182
+    },
+    {
+      "group": ">=350 nt",
+      "samples": 22,
+      "correct": 9,
+      "accuracy": 0.4090909090909091
+    }
+  ],
+  "top_confusions": [
+    {
+      "true_species": "Gorilla gorilla gorilla",
+      "predicted_species": "Homo sapiens",
+      "count": "55",
+      "fraction_of_true_class": "0.5288461538461539"
+    },
+    {
+      "true_species": "Pongo abelii",
+      "predicted_species": "Homo sapiens",
+      "count": "24",
+      "fraction_of_true_class": "0.3333333333333333"
+    },
+    {
+      "true_species": "Homo sapiens",
+      "predicted_species": "Gorilla gorilla gorilla",
+      "count": "23",
+      "fraction_of_true_class": "0.11165048543689321"
+    },
+    {
+      "true_species": "Bos taurus",
+      "predicted_species": "Ovis aries",
+      "count": "21",
+      "fraction_of_true_class": "0.2079207920792079"
+    },
+    {
+      "true_species": "Macaca fascicularis",
+      "predicted_species": "Macaca mulatta",
+      "count": "21",
+      "fraction_of_true_class": "0.9130434782608695"
+    },
+    {
+      "true_species": "Macaca mulatta",
+      "predicted_species": "Homo sapiens",
+      "count": "21",
+      "fraction_of_true_class": "0.12"
+    },
+    {
+      "true_species": "Pongo pygmaeus",
+      "predicted_species": "Pongo abelii",
+      "count": "20",
+      "fraction_of_true_class": "0.425531914893617"
+    },
+    {
+      "true_species": "Rattus norvegicus",
+      "predicted_species": "Mus musculus",
+      "count": "20",
+      "fraction_of_true_class": "0.29411764705882354"
+    },
+    {
+      "true_species": "Pongo pygmaeus",
+      "predicted_species": "Homo sapiens",
+      "count": "16",
+      "fraction_of_true_class": "0.3404255319148936"
+    },
+    {
+      "true_species": "Ovis aries",
+      "predicted_species": "Bos taurus",
+      "count": "14",
+      "fraction_of_true_class": "0.16470588235294117"
+    }
+  ],
+  "zero_recall": [
+    "Capra hircus",
+    "Cercocebus atys",
+    "Macaca fascicularis",
+    "Macaca nemestrina",
+    "Mesocricetus auratus",
+    "Mus minutoides",
+    "Mus musculus castaneus",
+    "Mus musculus domesticus",
+    "Mus pahari",
+    "Neogale vison",
+    "Oryctolagus cuniculus algirus",
+    "Oryctolagus cuniculus cuniculus",
+    "Papio anubis anubis"
+  ],
+  "majority_accuracy": 0.11573033707865168,
+  "correct": 1045,
+  "incorrect": 735,
+  "small_support_classes": 10
+}

@@ -1,0 +1,257 @@
+true_species,predicted_species,count,fraction_of_true_class
+Gorilla gorilla gorilla,Homo sapiens,55,0.5288461538461539
+Pongo abelii,Homo sapiens,24,0.3333333333333333
+Homo sapiens,Gorilla gorilla gorilla,23,0.11979166666666667
+Bos taurus,Ovis aries,21,0.2079207920792079
+Macaca fascicularis,Macaca mulatta,21,0.9130434782608695
+Macaca mulatta,Homo sapiens,21,0.12
+Pongo pygmaeus,Pongo abelii,20,0.425531914893617
+Rattus norvegicus,Mus musculus,20,0.29411764705882354
+Pongo pygmaeus,Homo sapiens,16,0.3404255319148936
+Ovis aries,Bos taurus,14,0.16470588235294117
+Pan troglodytes,Homo sapiens,12,0.46153846153846156
+Homo sapiens,Macaca mulatta,10,0.052083333333333336
+Oncorhynchus mykiss,Salmo salar,10,0.29411764705882354
+Pongo abelii,Pongo pygmaeus,10,0.1388888888888889
+Pongo abelii,Macaca mulatta,10,0.1388888888888889
+Gorilla gorilla gorilla,Macaca mulatta,9,0.08653846153846154
+Macaca mulatta,Gorilla gorilla gorilla,9,0.05142857142857143
+Macaca mulatta,Pongo abelii,8,0.045714285714285714
+Mus musculus,Rattus norvegicus,8,0.0427807486631016
+Pongo abelii,Gorilla gorilla gorilla,8,0.1111111111111111
+Homo sapiens,Pongo abelii,7,0.036458333333333336
+Pan troglodytes,Gorilla gorilla gorilla,7,0.2692307692307692
+Salmo salar,Oncorhynchus mykiss,7,0.1794871794871795
+Canis lupus familiaris,Mustela putorius furo,5,0.06493506493506493
+Capra hircus,Ovis aries,5,0.5555555555555556
+Felis catus,Mustela putorius furo,5,0.09615384615384616
+Mustela putorius furo,Macaca mulatta,5,0.07142857142857142
+Mustela putorius furo,Bos taurus,5,0.07142857142857142
+Mustela putorius furo,Canis lupus familiaris,5,0.07142857142857142
+Neogale vison,Mustela putorius furo,5,0.625
+Oryctolagus cuniculus,Homo sapiens,5,0.0847457627118644
+Bos taurus,Heterocephalus glaber,4,0.039603960396039604
+Canis lupus familiaris,Felis catus,4,0.05194805194805195
+Canis lupus familiaris,Mus musculus,4,0.05194805194805195
+Gorilla gorilla gorilla,Pongo abelii,4,0.038461538461538464
+Macaca mulatta,Macaca fascicularis,4,0.022857142857142857
+Mustela putorius furo,Felis catus,4,0.05714285714285714
+Pongo pygmaeus,Macaca mulatta,4,0.0851063829787234
+Bos taurus,Felis catus,3,0.0297029702970297
+Canis lupus familiaris,Bos taurus,3,0.03896103896103896
+Equus caballus,Macaca mulatta,3,0.07894736842105263
+Felis catus,Canis lupus familiaris,3,0.057692307692307696
+Felis catus,Equus caballus,3,0.057692307692307696
+Gorilla gorilla gorilla,Pan troglodytes,3,0.028846153846153848
+Heterocephalus glaber,Mus musculus,3,0.0967741935483871
+Heterocephalus glaber,Homo sapiens,3,0.0967741935483871
+Homo sapiens,Pan troglodytes,3,0.015625
+Macaca mulatta,Pongo pygmaeus,3,0.017142857142857144
+Macaca mulatta,Ovis aries,3,0.017142857142857144
+Macaca mulatta,Heterocephalus glaber,3,0.017142857142857144
+Macaca mulatta,Danio rerio,3,0.017142857142857144
+Macaca mulatta,Pan troglodytes,3,0.017142857142857144
+Mus musculus,Heterocephalus glaber,3,0.016042780748663103
+Mus musculus,Canis lupus familiaris,3,0.016042780748663103
+Mus musculus,Bos taurus,3,0.016042780748663103
+Mustela putorius furo,Heterocephalus glaber,3,0.04285714285714286
+Oryctolagus cuniculus,Sus scrofa,3,0.05084745762711865
+Oryctolagus cuniculus,Mustela putorius furo,3,0.05084745762711865
+Ovis aries,Capra hircus,3,0.03529411764705882
+Sus scrofa,Ovis aries,3,0.1
+Sus scrofa,Canis lupus familiaris,3,0.1
+Bos taurus,Homo sapiens,2,0.019801980198019802
+Bos taurus,Equus caballus,2,0.019801980198019802
+Bos taurus,Canis lupus familiaris,2,0.019801980198019802
+Bos taurus,Oryctolagus cuniculus,2,0.019801980198019802
+Camelus dromedarius,Sus scrofa,2,0.2
+Camelus dromedarius,Mustela putorius furo,2,0.2
+Canis lupus familiaris,Heterocephalus glaber,2,0.025974025974025976
+Capra hircus,Bos taurus,2,0.2222222222222222
+Ctenopharyngodon idella,Oncorhynchus mykiss,2,0.09523809523809523
+Danio rerio,Bos taurus,2,0.03636363636363636
+Equus caballus,Homo sapiens,2,0.05263157894736842
+Felis catus,Sus scrofa,2,0.038461538461538464
+Felis catus,Mus musculus,2,0.038461538461538464
+Felis catus,Ovis aries,2,0.038461538461538464
+Felis catus,Gorilla gorilla gorilla,2,0.038461538461538464
+Felis catus,Oryctolagus cuniculus,2,0.038461538461538464
+Felis catus,Oncorhynchus mykiss,2,0.038461538461538464
+Gorilla gorilla gorilla,Felis catus,2,0.019230769230769232
+Heterocephalus glaber,Felis catus,2,0.06451612903225806
+Heterocephalus glaber,Canis lupus familiaris,2,0.06451612903225806
+Heterocephalus glaber,Macaca mulatta,2,0.06451612903225806
+Homo sapiens,Canis lupus familiaris,2,0.010416666666666666
+Macaca mulatta,Mus musculus,2,0.011428571428571429
+Mus musculus,Mus spretus,2,0.0106951871657754
+Mus musculus,Macaca mulatta,2,0.0106951871657754
+Mustela putorius furo,Homo sapiens,2,0.02857142857142857
+Mustela putorius furo,Lemur catta,2,0.02857142857142857
+Mustela putorius furo,Sus scrofa,2,0.02857142857142857
+Oncorhynchus mykiss,Mus musculus,2,0.058823529411764705
+Ornithorhynchus anatinus,Macaca mulatta,2,0.14285714285714285
+Oryctolagus cuniculus,Mus musculus,2,0.03389830508474576
+Oryctolagus cuniculus,Canis lupus familiaris,2,0.03389830508474576
+Oryctolagus cuniculus,Ovis aries,2,0.03389830508474576
+Oryctolagus cuniculus,Heterocephalus glaber,2,0.03389830508474576
+Oryctolagus cuniculus,Bos taurus,2,0.03389830508474576
+Ovis aries,Camelus dromedarius,2,0.023529411764705882
+Ovis aries,Canis lupus familiaris,2,0.023529411764705882
+Ovis aries,Oryctolagus cuniculus,2,0.023529411764705882
+Pan troglodytes,Pongo abelii,2,0.07692307692307693
+Pan troglodytes,Macaca mulatta,2,0.07692307692307693
+Pongo pygmaeus,Gorilla gorilla gorilla,2,0.0425531914893617
+Rattus norvegicus,Equus caballus,2,0.029411764705882353
+Tursiops truncatus,Bos taurus,2,0.18181818181818182
+Tursiops truncatus,Macaca mulatta,2,0.18181818181818182
+Tursiops truncatus,Ovis aries,2,0.18181818181818182
+Bos taurus,Danio rerio,1,0.009900990099009901
+Bos taurus,Macaca mulatta,1,0.009900990099009901
+Bos taurus,Macaca fascicularis,1,0.009900990099009901
+Bos taurus,Mustela putorius furo,1,0.009900990099009901
+Bos taurus,Mus musculus,1,0.009900990099009901
+Camelus dromedarius,Vicugna pacos,1,0.1
+Camelus dromedarius,Heterocephalus glaber,1,0.1
+Camelus dromedarius,Danio rerio,1,0.1
+Camelus dromedarius,Bos taurus,1,0.1
+Canis lupus familiaris,Tursiops truncatus,1,0.012987012987012988
+Canis lupus familiaris,Lemur catta,1,0.012987012987012988
+Canis lupus familiaris,Homo sapiens,1,0.012987012987012988
+Canis lupus familiaris,Pongo pygmaeus,1,0.012987012987012988
+Canis lupus familiaris,Macaca mulatta,1,0.012987012987012988
+Canis lupus familiaris,Oryctolagus cuniculus,1,0.012987012987012988
+Canis lupus familiaris,Ctenopharyngodon idella,1,0.012987012987012988
+Canis lupus familiaris,Ovis aries,1,0.012987012987012988
+Capra hircus,Felis catus,1,0.1111111111111111
+Capra hircus,Mus musculus,1,0.1111111111111111
+Cercocebus atys,Macaca mulatta,1,1.0
+Ctenopharyngodon idella,Danio rerio,1,0.047619047619047616
+Ctenopharyngodon idella,Ovis aries,1,0.047619047619047616
+Ctenopharyngodon idella,Bos taurus,1,0.047619047619047616
+Danio rerio,Oncorhynchus mykiss,1,0.01818181818181818
+Danio rerio,Mus musculus,1,0.01818181818181818
+Danio rerio,Salmo salar,1,0.01818181818181818
+Danio rerio,Ctenopharyngodon idella,1,0.01818181818181818
+Danio rerio,Macaca mulatta,1,0.01818181818181818
+Danio rerio,Mustela putorius furo,1,0.01818181818181818
+Danio rerio,Lemur catta,1,0.01818181818181818
+Equus caballus,Canis lupus familiaris,1,0.02631578947368421
+Equus caballus,Lemur catta,1,0.02631578947368421
+Equus caballus,Salmo salar,1,0.02631578947368421
+Equus caballus,Pongo pygmaeus,1,0.02631578947368421
+Felis catus,Pongo abelii,1,0.019230769230769232
+Felis catus,Tursiops truncatus,1,0.019230769230769232
+Felis catus,Danio rerio,1,0.019230769230769232
+Felis catus,Gallus gallus,1,0.019230769230769232
+Felis catus,Macaca mulatta,1,0.019230769230769232
+Felis catus,Camelus dromedarius,1,0.019230769230769232
+Felis catus,Vicugna pacos,1,0.019230769230769232
+Felis catus,Rattus norvegicus,1,0.019230769230769232
+Felis catus,Lemur catta,1,0.019230769230769232
+Heterocephalus glaber,Danio rerio,1,0.03225806451612903
+Heterocephalus glaber,Ctenopharyngodon idella,1,0.03225806451612903
+Heterocephalus glaber,Oryctolagus cuniculus,1,0.03225806451612903
+Heterocephalus glaber,Mustela putorius furo,1,0.03225806451612903
+Heterocephalus glaber,Ovis aries,1,0.03225806451612903
+Heterocephalus glaber,Bos taurus,1,0.03225806451612903
+Homo sapiens,Salmo salar,1,0.005208333333333333
+Homo sapiens,Felis catus,1,0.005208333333333333
+Homo sapiens,Oncorhynchus mykiss,1,0.005208333333333333
+Homo sapiens,Lemur catta,1,0.005208333333333333
+Homo sapiens,Pongo pygmaeus,1,0.005208333333333333
+Homo sapiens,Mus musculus,1,0.005208333333333333
+Homo sapiens,Oryctolagus cuniculus,1,0.005208333333333333
+Homo sapiens,Equus caballus,1,0.005208333333333333
+Lemur catta,Sus scrofa,1,0.030303030303030304
+Lemur catta,Oncorhynchus mykiss,1,0.030303030303030304
+Lemur catta,Danio rerio,1,0.030303030303030304
+Lemur catta,Ctenopharyngodon idella,1,0.030303030303030304
+Lemur catta,Mustela putorius furo,1,0.030303030303030304
+Macaca fascicularis,Pongo abelii,1,0.043478260869565216
+Macaca fascicularis,Homo sapiens,1,0.043478260869565216
+Macaca mulatta,Mustela putorius furo,1,0.005714285714285714
+Macaca mulatta,Oncorhynchus mykiss,1,0.005714285714285714
+Macaca nemestrina,Macaca mulatta,1,1.0
+Mesocricetus auratus,Mus musculus,1,0.16666666666666666
+Mesocricetus auratus,Homo sapiens,1,0.16666666666666666
+Mesocricetus auratus,Canis lupus familiaris,1,0.16666666666666666
+Mesocricetus auratus,Vicugna pacos,1,0.16666666666666666
+Mesocricetus auratus,Ovis aries,1,0.16666666666666666
+Mesocricetus auratus,Oncorhynchus mykiss,1,0.16666666666666666
+Mus minutoides,Sus scrofa,1,1.0
+Mus musculus,Danio rerio,1,0.0053475935828877
+Mus musculus,Felis catus,1,0.0053475935828877
+Mus musculus,Tursiops truncatus,1,0.0053475935828877
+Mus musculus,Oryctolagus cuniculus,1,0.0053475935828877
+Mus musculus,Ovis aries,1,0.0053475935828877
+Mus musculus,Salmo salar,1,0.0053475935828877
+Mus musculus,Mustela putorius furo,1,0.0053475935828877
+Mus musculus,Gorilla gorilla gorilla,1,0.0053475935828877
+Mus musculus,Mus musculus castaneus,1,0.0053475935828877
+Mus musculus,Pan troglodytes,1,0.0053475935828877
+Mus musculus castaneus,Mus musculus,1,1.0
+Mus musculus domesticus,Mus musculus,1,1.0
+Mus pahari,Mesocricetus auratus,1,1.0
+Mustela putorius furo,Danio rerio,1,0.014285714285714285
+Mustela putorius furo,Salmo salar,1,0.014285714285714285
+Mustela putorius furo,Ovis aries,1,0.014285714285714285
+Mustela putorius furo,Neogale vison,1,0.014285714285714285
+Mustela putorius furo,Oryctolagus cuniculus,1,0.014285714285714285
+Mustela putorius furo,Mus musculus,1,0.014285714285714285
+Mustela putorius furo,Pongo pygmaeus,1,0.014285714285714285
+Mustela putorius furo,Camelus dromedarius,1,0.014285714285714285
+Mustela putorius furo,Pongo abelii,1,0.014285714285714285
+Mustela putorius furo,Tursiops truncatus,1,0.014285714285714285
+Neogale vison,Vicugna pacos,1,0.125
+Neogale vison,Homo sapiens,1,0.125
+Neogale vison,Sus scrofa,1,0.125
+Oncorhynchus mykiss,Ctenopharyngodon idella,1,0.029411764705882353
+Oncorhynchus mykiss,Sus scrofa,1,0.029411764705882353
+Oncorhynchus mykiss,Pan troglodytes,1,0.029411764705882353
+Ornithorhynchus anatinus,Mesocricetus auratus,1,0.07142857142857142
+Ornithorhynchus anatinus,Oryctolagus cuniculus,1,0.07142857142857142
+Ornithorhynchus anatinus,Equus caballus,1,0.07142857142857142
+Ornithorhynchus anatinus,Canis lupus familiaris,1,0.07142857142857142
+Ornithorhynchus anatinus,Oncorhynchus mykiss,1,0.07142857142857142
+Ornithorhynchus anatinus,Gorilla gorilla gorilla,1,0.07142857142857142
+Oryctolagus cuniculus,Danio rerio,1,0.01694915254237288
+Oryctolagus cuniculus,Macaca mulatta,1,0.01694915254237288
+Oryctolagus cuniculus,Felis catus,1,0.01694915254237288
+Oryctolagus cuniculus,Pongo abelii,1,0.01694915254237288
+Oryctolagus cuniculus,Camelus dromedarius,1,0.01694915254237288
+Oryctolagus cuniculus,Macaca fascicularis,1,0.01694915254237288
+Oryctolagus cuniculus,Tursiops truncatus,1,0.01694915254237288
+Oryctolagus cuniculus algirus,Oryctolagus cuniculus cuniculus,1,1.0
+Oryctolagus cuniculus cuniculus,Oryctolagus cuniculus algirus,1,1.0
+Ovis aries,Felis catus,1,0.011764705882352941
+Ovis aries,Mus musculus,1,0.011764705882352941
+Ovis aries,Danio rerio,1,0.011764705882352941
+Ovis aries,Oncorhynchus mykiss,1,0.011764705882352941
+Ovis aries,Heterocephalus glaber,1,0.011764705882352941
+Ovis aries,Tursiops truncatus,1,0.011764705882352941
+Pan troglodytes,Mus musculus,1,0.038461538461538464
+Papio anubis anubis,Macaca mulatta,1,1.0
+Pongo abelii,Heterocephalus glaber,1,0.013888888888888888
+Pongo abelii,Ctenopharyngodon idella,1,0.013888888888888888
+Pongo abelii,Equus caballus,1,0.013888888888888888
+Pongo abelii,Macaca fascicularis,1,0.013888888888888888
+Pongo abelii,Pan troglodytes,1,0.013888888888888888
+Pongo pygmaeus,Equus caballus,1,0.02127659574468085
+Pongo pygmaeus,Pan troglodytes,1,0.02127659574468085
+Rattus norvegicus,Oncorhynchus mykiss,1,0.014705882352941176
+Rattus norvegicus,Macaca fascicularis,1,0.014705882352941176
+Rattus norvegicus,Danio rerio,1,0.014705882352941176
+Rattus norvegicus,Homo sapiens,1,0.014705882352941176
+Salmo salar,Oryctolagus cuniculus,1,0.02564102564102564
+Salmo salar,Heterocephalus glaber,1,0.02564102564102564
+Sus scrofa,Lemur catta,1,0.03333333333333333
+Sus scrofa,Mus musculus,1,0.03333333333333333
+Sus scrofa,Bos taurus,1,0.03333333333333333
+Sus scrofa,Mustela putorius furo,1,0.03333333333333333
+Sus scrofa,Camelus dromedarius,1,0.03333333333333333
+Tursiops truncatus,Pan troglodytes,1,0.09090909090909091
+Tursiops truncatus,Oryctolagus cuniculus,1,0.09090909090909091
+Tursiops truncatus,Canis lupus familiaris,1,0.09090909090909091
+Tursiops truncatus,Heterocephalus glaber,1,0.09090909090909091
+Vicugna pacos,Oncorhynchus mykiss,1,0.07692307692307693
+Vicugna pacos,Canis lupus familiaris,1,0.07692307692307693

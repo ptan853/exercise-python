@@ -1,0 +1,5 @@
+本报告生成后项目已精简。报告证据中的旧runs路径是历史来源，不是当前运行依赖。
+历史文件已移到项目外归档：/Users/pt623/Documents/Codex/2026-11-23/users-pt623-desktop-david-shih-python/work/project_archive_20261127_125441
+最终模型：final_model/model.pt；MLM初始化权重：final_model/mlm_pretrained.pt。
+最终配置：configs/final.json；Notebook：test1.ipynb；曲线：runs/final。
+README.md记录当前入口，CLEANUP.json记录完整迁移清单。

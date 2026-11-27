@@ -1,0 +1,18 @@
+{
+  "training": {
+    "IG": 9068,
+    "TR": 4823,
+    "other": 469
+  },
+  "validation": {
+    "IG": 1128,
+    "TR": 592,
+    "other": 60
+  },
+  "test": {
+    "IG": 1125,
+    "TR": 593,
+    "other": 62
+  },
+  "policy": "Original model and split frozen. IG/TR evaluation subset defined by task gene scope, without retraining or checkpoint reselection."
+}

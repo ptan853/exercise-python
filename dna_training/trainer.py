@@ -21,7 +21,10 @@ class TrainConfig:
     max_epochs: int = 60
     batch_size: int = 16
     learning_rate: float = 1e-4
+    encoder_learning_rate: float | None = None
     weight_decay: float = .01
+    classification_weight: float = 1.0
+    selection_metric: str = 'val_cls_loss'
     mlm_weight: float = 1.0
     mlm_probability: float = .15
     gradient_clip: float = 1.0
@@ -41,8 +44,23 @@ class TrainConfig:
     sampling: str = 'shuffle'
     sampling_power: float = 1.0
     epoch_samples: int | None = None
+    freeze_encoder: bool = False
 
     def validate(self):
+        if self.encoder_learning_rate is not None and (not math.isfinite(self.encoder_learning_rate) or self.encoder_learning_rate <= 0):
+            raise ValueError("encoder_learning_rate must be finite and positive")
+        if self.freeze_encoder and (self.mlm_weight != 0 or self.classification_weight <= 0):
+            raise ValueError('Frozen encoder probes require pure classification')
+        if self.classification_weight < 0 or self.mlm_weight < 0 or not math.isfinite(self.classification_weight+self.mlm_weight):
+            raise ValueError('Objective weights must be finite and nonnegative')
+        if self.classification_weight+self.mlm_weight == 0:
+            raise ValueError('At least one objective must be enabled')
+        if self.selection_metric not in {'val_cls_loss','val_mlm_loss'}:
+            raise ValueError('Unknown selection metric')
+        if self.selection_metric=='val_cls_loss' and self.classification_weight==0:
+            raise ValueError('Pure MLM must select by val_mlm_loss')
+        if self.selection_metric=='val_mlm_loss' and (self.mlm_weight==0 or self.mlm_probability==0):
+            raise ValueError('MLM selection requires MLM and positive masking probability')
         if self.class_weighting not in {'none','inverse_sqrt','inverse'}:
             raise ValueError('Unknown class_weighting')
         if self.sampling not in {'shuffle','weighted'}:
@@ -109,7 +127,7 @@ def _metrics(matrix):
             'macro_f1': f1.mean().item()}
 
 
-def _losses(outputs, batch, weight, class_weights=None):
+def _losses(outputs, batch, weight, class_weights=None, classification_weight=1.0):
     cls = F.cross_entropy(outputs['class_logits'], batch['labels'])
     count = int(batch['mlm_labels'].ne(-100).sum().item())
     mlm = (F.cross_entropy(outputs['mlm_logits'].flatten(0,1),
@@ -117,7 +135,10 @@ def _losses(outputs, batch, weight, class_weights=None):
            if count else outputs['mlm_logits'].sum() * 0.)
     objective_cls = (F.cross_entropy(outputs['class_logits'],batch['labels'],weight=class_weights)
                      if class_weights is not None else cls)
-    return objective_cls + weight * mlm, cls, mlm, count, objective_cls
+    # Disabled heads have no gradient, so AdamW also skips their weight decay.
+    total = classification_weight*objective_cls if classification_weight else weight*mlm
+    if classification_weight and weight: total = total + weight*mlm
+    return total, cls, mlm, count, objective_cls
 
 
 def _epoch(model, loader, device, cfg, optimizer=None, writer=None, global_step=0,
@@ -126,8 +147,8 @@ def _epoch(model, loader, device, cfg, optimizer=None, writer=None, global_step=
     model.train(training)
     total_n = targets_n = 0
     cls_sum = mlm_sum = objective_sum = objective_denominator = 0.
-    matrix = torch.zeros(model.classification_head.out_features,
-                         model.classification_head.out_features,dtype=torch.long)
+    matrix = torch.zeros(model.num_classes,
+                         model.num_classes,dtype=torch.long)
     for index, cpu in enumerate(loader, 1):
         batch = {k:v.to(device) for k,v in cpu.items()}
         if training:
@@ -135,7 +156,7 @@ def _epoch(model, loader, device, cfg, optimizer=None, writer=None, global_step=
         with torch.set_grad_enabled(training):
             output = model(batch['input_ids'],batch['attention_mask'])
             total, cls, mlm, n_targets, objective_cls = _losses(
-                output,batch,cfg.mlm_weight,class_weights if training else None)
+                output,batch,cfg.mlm_weight,class_weights if training else None,cfg.classification_weight)
             if not torch.isfinite(total).item():
                 raise RuntimeError('Non-finite loss')
             if training:
@@ -168,7 +189,7 @@ def _epoch(model, loader, device, cfg, optimizer=None, writer=None, global_step=
     cls_mean,mlm_mean = cls_sum/total_n,mlm_sum/max(targets_n,1)
     objective_mean=objective_sum/objective_denominator
     return {'cls_loss':cls_mean,'objective_cls_loss':objective_mean,'mlm_loss':mlm_mean,
-            'total_loss':objective_mean+cfg.mlm_weight*mlm_mean,**_metrics(matrix)},global_step
+            'total_loss':cfg.classification_weight*objective_mean+cfg.mlm_weight*mlm_mean,**_metrics(matrix)},global_step
 
 
 def _atomic_save(state, path):
@@ -235,8 +256,14 @@ def train_experiment(train_records, val_records, tokenizer, label_to_id,
         oldtok['merges']=[list(p) for p in oldtok['merges']]
         if oldtok != tok or saved['label_to_id'] != label_to_id:
             raise ValueError('Checkpoint tokenizer/label mapping mismatch')
-        if init_from and saved.get('format_version') == 1 and saved['model_config'] != asdict(mc):
-            raise ValueError('Weight initialization requires matching model configuration')
+        if init_from and saved.get('format_version') == 1:
+            previous=asdict(ModelConfig(**saved['model_config']))
+            requested=asdict(mc)
+            # Pooling adds no parameters; transfer is valid across CLS/mean.
+            for key in ['pooling','classifier_hidden_dim','classifier_dropout']:
+                previous.pop(key);requested.pop(key)
+            if previous!=requested:
+                raise ValueError('Weight initialization requires matching model configuration')
         if init_from and saved.get('format_version') != 1 and mc != ModelConfig():
             raise ValueError('Legacy checkpoint has no structured architecture config; only original default architecture is supported')
     if resume_from:
@@ -244,7 +271,7 @@ def train_experiment(train_records, val_records, tokenizer, label_to_id,
             raise ValueError('Legacy checkpoints lack resume state; use init_from for weight initialization')
         if Path(resume_from).name != 'last.pt':
             raise ValueError('Resume from last.pt; use init_from to branch from best.pt')
-        if saved['model_config'] != asdict(mc) or saved['data_fingerprint'] != fingerprint:
+        if asdict(ModelConfig(**saved['model_config'])) != asdict(mc) or saved['data_fingerprint'] != fingerprint:
             raise ValueError('Model configuration or data split differs from checkpoint')
         mutable={'max_epochs','device','output_dir','experiment_name','log_every_steps','patience'}
         for key,value in asdict(tc).items():
@@ -257,7 +284,16 @@ def train_experiment(train_records, val_records, tokenizer, label_to_id,
     if torch.cuda.is_available():torch.cuda.manual_seed_all(tc.seed)
     if device.type=='mps':torch.mps.manual_seed(tc.seed)
     model=DNATransformer(len(tok['token_to_id']),len(label_to_id),tok['token_to_id']['[PAD]'],mc).to(device)
-    optimizer=torch.optim.AdamW(model.parameters(),lr=tc.learning_rate,weight_decay=tc.weight_decay)
+    model.freeze_encoder=tc.freeze_encoder
+    if tc.freeze_encoder:
+        for name,parameter in model.named_parameters():
+            parameter.requires_grad_(name.startswith('classification_head.'))
+    trainable_parameters=sum(p.numel() for p in model.parameters() if p.requires_grad)
+    parameters=[p for p in model.parameters() if p.requires_grad]
+    if tc.encoder_learning_rate is not None and not tc.freeze_encoder:
+        parameters=[{'params':[p for n,p in model.named_parameters() if p.requires_grad and n.startswith('classification_head.')],'lr':tc.learning_rate},
+                    {'params':[p for n,p in model.named_parameters() if p.requires_grad and not n.startswith('classification_head.')],'lr':tc.encoder_learning_rate}]
+    optimizer=torch.optim.AdamW(parameters,lr=tc.learning_rate,weight_decay=tc.weight_decay)
     scheduler=torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer,mode='min',factor=tc.scheduler_factor,
                     patience=tc.scheduler_patience,min_lr=tc.min_lr)
     loaders=build_dataloaders(train_records,val_records,tokenizer,label_to_id,mc,tc)
@@ -269,14 +305,22 @@ def train_experiment(train_records, val_records, tokenizer, label_to_id,
     start,step,best,stale=1,0,float('inf'),0
     early_stop_reference=float('inf')
     history=[]
+    reset_classifier=False
     if saved:
-        model.load_state_dict(saved['model_state_dict'])
+        reset_classifier=bool(init_from and ModelConfig(**saved.get('model_config',{})).classifier_hidden_dim != mc.classifier_hidden_dim)
+        if reset_classifier:
+            state={k:v for k,v in saved['model_state_dict'].items() if not k.startswith('classification_head.')}
+            missing=model.load_state_dict(state,strict=False)
+            if missing.unexpected_keys or any(not k.startswith('classification_head.') for k in missing.missing_keys):
+                raise ValueError('Unexpected backbone transfer mismatch')
+        else:
+            model.load_state_dict(saved['model_state_dict'])
     if resume_from:
         run_dir=Path(resume_from).resolve().parent.parent
         optimizer.load_state_dict(saved['optimizer_state_dict'])
         scheduler.load_state_dict(saved['scheduler_state_dict'])
         start,step=saved['epoch']+1,saved['global_step']
-        best,stale=saved['best_val_cls_loss'],saved['early_stop_count']
+        best,stale=saved.get('best_selection_loss',saved['best_val_cls_loss']),saved['early_stop_count']
         early_stop_reference=saved['early_stop_reference']
         history=saved['history']
         train_collator.generator.set_state(saved['collator_rng_state'])
@@ -290,15 +334,26 @@ def train_experiment(train_records, val_records, tokenizer, label_to_id,
         # last.pt is the committed state. CSV is a derived, repairable report.
         # The resolved supplied path is the run's current last.pt (not an old alias).
         _write_history(run_dir/'metrics.csv',history)
-        if history and history[-1]['val_cls_loss'] == best:
+        if history and history[-1][tc.selection_metric] == best:
             # Recover a save interrupted after committing last.pt but before best.pt.
             _atomic_save(saved,run_dir/'checkpoints/best.pt')
     else:
         run_dir=(Path(tc.output_dir)/f'{tc.experiment_name}-{datetime.now():%Y%m%d-%H%M%S}-{uuid.uuid4().hex[:6]}').resolve()
     checkpoints=run_dir/'checkpoints';checkpoints.mkdir(parents=True,exist_ok=True)
+    if init_from:
+        transferred=all(torch.equal(v.detach().cpu(),saved['model_state_dict'][k].cpu())
+                        for k,v in model.state_dict().items() if not k.startswith(('classification_head.','mlm_head.')))
+        if not transferred:raise RuntimeError('Backbone transfer verification failed')
+        (run_dir/'initialization.json').write_text(json.dumps({
+            'checkpoint':str(Path(init_from).resolve()),'source_epoch':saved.get('epoch'),
+            'source_training':saved.get('train_config'),
+            'backbone_verified_before_training':transferred,
+            'optimizer':'fresh','classification_head':'fresh' if reset_classifier else 'loaded',
+            'source_classifier_trained':saved.get('train_config',{}).get('classification_weight',1)>0},indent=2))
     (run_dir/'config.json').write_text(json.dumps({'model':asdict(mc),'training':asdict(tc),
         'data_fingerprint':fingerprint,'label_to_id':label_to_id,'tokenizer':tok,
         'torch_version':str(torch.__version__),'device':str(device),
+        'trainable_parameters':trainable_parameters,'pooling':mc.pooling,'freeze_encoder':tc.freeze_encoder,
         'resume_from':str(resume_from) if resume_from else None,
         'init_from':str(init_from) if init_from else None,
         'experiment_context':experiment_context},indent=2),encoding='utf-8')
@@ -329,20 +384,23 @@ def train_experiment(train_records, val_records, tokenizer, label_to_id,
                 masked,_=_epoch(model,val_mlm_loader,device,tc)
                 row.update({'val_masked_cls_loss':masked['cls_loss'],
                             'val_mlm_loss':masked['mlm_loss'],'val_joint_loss':masked['total_loss']})
-            # best.pt tracks the actual minimum; min_delta controls only early stopping.
-            improved=val['cls_loss']<best
-            significant=val['cls_loss']<early_stop_reference-tc.min_delta
+            # Selection drives checkpointing, LR scheduler and early stopping consistently.
+            selection_value=row[tc.selection_metric]
+            improved=selection_value<best
+            significant=selection_value<early_stop_reference-tc.min_delta
             stale=0 if significant else stale+1
-            if significant:early_stop_reference=val['cls_loss']
-            if improved:best=val['cls_loss']
-            scheduler.step(val['cls_loss'])
+            if significant:early_stop_reference=selection_value
+            if improved:best=selection_value
+            scheduler.step(selection_value)
             row['learning_rate']=optimizer.param_groups[0]['lr']
             history.append(row)
             for key,value in row.items():
                 if key!='epoch':writer.add_scalar('epoch/'+key,value,epoch)
             state={'format_version':1,'epoch':epoch,'global_step':step,
                    'model_state_dict':model.state_dict(),'optimizer_state_dict':optimizer.state_dict(),
-                   'scheduler_state_dict':scheduler.state_dict(),'best_val_cls_loss':best,
+                   'scheduler_state_dict':scheduler.state_dict(),
+                   'best_val_cls_loss':min(r['val_cls_loss'] for r in history),
+                   'best_selection_loss':best,'selection_metric':tc.selection_metric,'selection_value':selection_value,
                    'early_stop_count':stale,'early_stop_reference':early_stop_reference,'history':history,'model_config':asdict(mc),
                    'train_config':asdict(tc),'tokenizer':tok,'label_to_id':label_to_id,
                    'data_fingerprint':fingerprint,'balance':balance,'experiment_context':experiment_context,'torch_rng_state':torch.get_rng_state(),
@@ -355,7 +413,7 @@ def train_experiment(train_records, val_records, tokenizer, label_to_id,
             _write_history(run_dir/'metrics.csv',history)
             writer.flush()
             print(f"  val cls={val['cls_loss']:.4f}; acc={val['accuracy']:.2%}; F1={val['macro_f1']:.4f}"+
-                  ('; saved best' if improved else ''),flush=True)
+                  f'; {tc.selection_metric}={selection_value:.4f}'+('; saved best' if improved else ''),flush=True)
             if tc.patience and stale>=tc.patience:
                 print('Early stopping',flush=True);break
     except KeyboardInterrupt:
